@@ -1,7 +1,8 @@
 # neeraj_profile
 <h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="800" src="profile.gif">
+<img align="right" alt="coding" width="300" src="![image](https://github.com/neerajcodes888/neerajcodes888/assets/98253646/30d4c786-f69f-41b5-af1f-56270728e165)
+">
 
 
 
