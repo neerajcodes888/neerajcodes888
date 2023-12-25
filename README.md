@@ -117,11 +117,6 @@
 ---
 </details>
 
-
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/neerajcodes888/neerajcodes888/output/snake.svg" alt="Snake animation" />
 
-###
+
