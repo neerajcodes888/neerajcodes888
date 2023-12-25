@@ -1,11 +1,15 @@
+
+# <h1 align="center"><code>Hey There👋 I'm Neeraj Kumar</code></h1>
+
+<h3 align="center">A passionate Full Stack developer from India</h3><br>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![logo](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
-<h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+
+
 <br>
-<img align="right" alt="coding" width="900" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
-<br><br>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
@@ -16,7 +20,6 @@
 
 - 📫 How to reach me **neerajmail888@gmail.com**
 
-- 
   
 <details>
 <h3 align="left">Connect with me:</h3>
@@ -51,7 +54,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neerajcodes888&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajcodes888&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=neerajcodes888&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=neerajcodes888&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
