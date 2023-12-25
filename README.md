@@ -16,7 +16,8 @@
 - 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **neerajmail888@gmail.com**
-
+  
+<details>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left">
@@ -46,4 +47,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neerajcodes888&show_icons=true&locale=en" alt="neerajcodes888" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajcodes888&" alt="neerajcodes888" /></p>
-![LeetCode Stats](https://leetcode.card.workers.dev/officialsiud?&font=patrick_hand&extension=null)
+
+</details>
