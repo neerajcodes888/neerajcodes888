@@ -1,4 +1,4 @@
-
+![image](https://github.com/neerajcodes888/neerajcodes888/assets/98253646/5345e60b-762d-4560-88d3-112f7215028f)
 # <h1 align="center"><code>Hey People👋 I'm Neeraj Kumar</code><div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div></h1>
@@ -75,7 +75,46 @@
 
 
 # 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+<h3 align="left">Languages :</h3>
+<p align="left"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/-1598B6?style=for-the-badge&logo=c&logoColor=white" alt="c" width="50" height="40"/></a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/C++-1598B6?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" width="90" height="40"/></a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" width="90" height="40"/></a> 
+<a href="https://www.learnpython.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python3" width="90" height="40"/></a> 
+<a href="https://www.w3schools.com/r/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="python3" width="90" height="40"/></a> 
+<h3 align="left">Web Development :</h3>
+<p align="left"> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/PHP-171515?style=for-the-badge&logo=php&logoColor=white" alt="php" width="80" height="40"/></a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="90" height="40"/></a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="80" height="40"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="140" height="40"/></a> 
+</p>
+<h3 align="left">Tools</h3>
+<p align="left"> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Oracle DB-171515?style=for-the-badge&logo=oracle&logoColor=red" alt="oracle" width="120" height="40"/></a> 
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/unity%20engine-171515?style=for-the-badge&logo=unity&logoColor=white" alt="unity" width="160" height="40"/></a> 
+<a href="" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VsCode" width="200" height="40"/></a>
+<a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="VS-Code" width="120" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" width="180" height="40"/></a>
+<h3 align="left">Operating System</h3>
+<p align="left"> 
+<a href="https://edu.gcfglobal.org/en/windowsbasics/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="IntelliJ" width="180" height="40"/></a>
+  
 # 📊 GitHub Stats
  <div align="center">
    
