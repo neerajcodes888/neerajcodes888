@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left">
-    <a href="inkedin.com/in/neeraj-kumar-9a75811a2/" target="blank"><img align="center" 
+    <a href="https://www.linkedin.com/in/neeraj-kumar-9a75811a2/" target="blank"><img align="center" 
             src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" 
             height="30" width=" 140" /></a>
     <a href="https://leetcode.com/LegitCodes/" target="_blank" rel="noreferrer"><img align="center"
