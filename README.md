@@ -1,4 +1,4 @@
-![image](https://github.com/neerajcodes888/neerajcodes888/assets/98253646/5345e60b-762d-4560-88d3-112f7215028f)
+
 # <h1 align="center"><code>Hey People👋 I'm Neeraj Kumar</code><div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div></h1>
