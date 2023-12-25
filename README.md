@@ -31,9 +31,9 @@
     <a href="https://www.hackerrank.com/profile/NeerajCoding888" target="_blank" rel="noreferrer"><img align="center"
             src="https://img.shields.io/badge/HackerRank-6fb107?style=for-the-badge&logo=hackerRank&logoColor=white"
             alt="NeerajCoding888" height="30" width="150" /></a>
-<!--     <a href="https://www.codechef.com/users/officialsiud" target="_blank" rel="noreferrer"><img align="center"
-            src="https://img.shields.io/badge/Codechef-964b00?style=for-the-badge&logo=codechef&logoColor=white" 
-            alt="officialsiud" height="30"width="140" /></a> -->
+   <a href="https://www.kaggle.com/neerajdata" target="_blank" rel="noreferrer"><img align="center"
+            src="https://img.shields.io/badge/Kaggle-964b00?style=for-the-badge&logo=kaggle&logoColor=blue" 
+            alt="NeerajData" height="30"width="140" /></a>
 
 </p>
 
