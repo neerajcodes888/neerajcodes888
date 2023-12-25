@@ -72,12 +72,22 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=neerajcodes888&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
+<div align="left">
+  
 # 📊 Leetcode Stats:
+
+<div>
+<div align="center">
+  
 ![LeetCode Stats](https://leetcode.card.workers.dev/legitcodes?theme=dark&font=patrick_hand&extension=null)
 
-### 😂 Have a Smile
+
+ 
+## 😂 Have a Smile
+
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+ </div>
 </div>
 
 ---
