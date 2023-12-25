@@ -104,16 +104,23 @@
 <img src="https://img.shields.io/badge/Oracle DB-171515?style=for-the-badge&logo=oracle&logoColor=red" alt="oracle" width="120" height="40"/></a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/unity%20engine-171515?style=for-the-badge&logo=unity&logoColor=white" alt="unity" width="160" height="40"/></a> 
-<a href="" target="_blank" rel="noreferrer"> 
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VsCode" width="200" height="40"/></a>
-<a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="VS-Code" width="120" height="40"/></a>
-<a href="" target="_blank" rel="noreferrer"> 
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" width="180" height="40"/></a>
 <h3 align="left">Operating System</h3>
 <p align="left"> 
-<a href="https://edu.gcfglobal.org/en/windowsbasics/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="IntelliJ" width="180" height="40"/></a>
+<a href="https://www.microsoft.com/en-ca/software-download/windows10" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" width="180" height="40"/></a>
+<a href="https://releases.ubuntu.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" width="180" height="40"/></a>
+<a href="https://zorin.com/os/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" alt="IntelliJ" width="180" height="40"/></a>
+<a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="IntelliJ" width="180" height="40"/></a>
+<a href="https://pop.system76.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" alt="IntelliJ" width="180" height="40"/></a>
+
   
 # 📊 GitHub Stats
  <div align="center">
@@ -121,6 +128,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=neerajcodes888&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neerajcodes888&theme=blue-green&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajcodes888&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
