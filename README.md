@@ -18,13 +18,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/neeraj-kumar-9a75811a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neeraj-kumar-9a75811a2/" height="30" width="40" /></a>
-<a href="https://kaggle.com/neerajdata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="neerajdata" height="30" width="40" /></a>
-<a href="https://fb.com/neeraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neeraj" height="30" width="40" /></a>
-<a href="https://instagram.com/the_neeraj_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_neeraj_official" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/neerajcoding888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="neerajcoding888" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/legitcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="legitcodes" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/neerajmail888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="neerajmail888" height="30" width="40" /></a>
+<p align="left">
+    <a href="inkedin.com/in/neeraj-kumar-9a75811a2/" target="blank"><img align="center" 
+            src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" 
+            height="30" width=" 140" /></a>
+    <a href="https://leetcode.com/LegitCodes/" target="_blank" rel="noreferrer"><img align="center"
+            src="https://img.shields.io/badge/LeetCode-222222?style=for-the-badge&logo=Leetcode&logoColor=white"
+            alt="legitcodes" height="30" width="140" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/neerajmail888" target="_blank" rel="noreferrer"><img align="center"
+            src="https://img.shields.io/badge/GFG-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+            alt="neerajcodes" height="30" width="100" /></a>
+    <a href="https://www.hackerrank.com/profile/NeerajCoding888" target="_blank" rel="noreferrer"><img align="center"
+            src="https://img.shields.io/badge/HackerRank-6fb107?style=for-the-badge&logo=hackerRank&logoColor=white"
+            alt="NeerajCoding888" height="30" width="150" /></a>
+<!--     <a href="https://www.codechef.com/users/officialsiud" target="_blank" rel="noreferrer"><img align="center"
+            src="https://img.shields.io/badge/Codechef-964b00?style=for-the-badge&logo=codechef&logoColor=white" 
+            alt="officialsiud" height="30"width="140" /></a> -->
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
