@@ -1,7 +1,8 @@
 
-# <h1 align="center"><code>Hey There👋 I'm Neeraj Kumar</code></h1>
-
-<h3 align="center">A passionate Full Stack developer from India</h3>
+# <h1 align="center"><code>Hey People👋 I'm Neeraj Kumar</code><div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div></h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>   
 <h2 align="center">(Complex Problem Solver)</h2>
 
 ---
@@ -16,14 +17,6 @@
 ![logo](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
----
 <h3 align="center">
   👋 Hello, fellow coders and curious minds! I'm Neeraj , Currently Persuing Masters in Computer Application [MCA] from  NIT Warangal .🌟 Join me on this exciting journey of continuous improvement, collaboration, and building a future where technology makes a positive impact on the world. Let's code, create, and connect! 🚀</h3>
 
@@ -117,6 +110,5 @@
 ---
 </details>
 
-<img src="https://raw.githubusercontent.com/neerajcodes888/neerajcodes888/output/snake.svg" alt="Snake animation" />
 
 
