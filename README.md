@@ -77,7 +77,7 @@
 
 </p>
 
-# 💻 Projects
+
 
 
 # 💻 Tech Stack
