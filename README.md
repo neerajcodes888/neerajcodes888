@@ -108,6 +108,10 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VsCode" width="200" height="40"/></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" width="180" height="40"/></a>
+
+<a href="https://replit.com/@NeerajCodes" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" width="180" height="40"/></a>
+  
 <h3 align="left">Operating System</h3>
 <p align="left"> 
 <a href="https://www.microsoft.com/en-ca/software-download/windows10" target="_blank" rel="noreferrer"> 
