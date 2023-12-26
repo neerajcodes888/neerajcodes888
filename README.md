@@ -146,12 +146,23 @@
   
 ![LeetCode Stats](https://leetcode.card.workers.dev/legitcodes?theme=dark&font=patrick_hand&extension=null)
 
+<div>
+
+<div align="left">
+  
 # 📊 GFG Stats:
 
 <div>
-<div align="center">
 
-[![Neeraj's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<https://auth.geeksforgeeks.org/user/neerajmail888>)](<YOUR_LINK_HERE>)
+<div>
+
+<div align="center">
+  
+  [![Neeraj's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=neerajmail888)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+    
+
+
+
  
 ## 😂 Have a Smile
 
