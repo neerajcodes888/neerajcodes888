@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajcodes&label=Profile%20views&color=0e75b6&style=flat" alt="theofficialsiud" /> </p>
 </div></h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>   
-<h2 align="center">(Complex Problem Solver)</h2>
+<h2 align="center">(Problem Solver)</h2>
 
 ---
 
@@ -41,9 +41,6 @@
 # 👩‍💻 Coding Platforms
 <p align="left">
 <p align="left">
-    <a href="https://www.linkedin.com/in/neeraj-kumar-9a75811a2/" target="blank"><img align="center" 
-            src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" 
-            height="30" width=" 140" /></a>
     <a href="https://leetcode.com/LegitCodes/" target="_blank" rel="noreferrer"><img align="center"
             src="https://img.shields.io/badge/LeetCode-222222?style=for-the-badge&logo=Leetcode&logoColor=white"
             alt="legitcodes" height="30" width="140" /></a>
@@ -53,10 +50,13 @@
     <a href="https://www.hackerrank.com/profile/NeerajCoding888" target="_blank" rel="noreferrer"><img align="center"
             src="https://img.shields.io/badge/HackerRank-6fb107?style=for-the-badge&logo=hackerRank&logoColor=white"
             alt="NeerajCoding888" height="30" width="150" /></a>
-   <a href="https://www.kaggle.com/neerajdata" target="_blank" rel="noreferrer"><img align="center"
-            src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" 
-            alt="NeerajData" height="30"width="140" /></a>
+     <a href="https://www.kaggle.com/neerajdata" target="_blank" rel="noreferrer"><img align="center"
+            src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"
+            alt="NeerajData" height="30" width="150" /></a>
 
+            
+  
+ 
 </p>
 
 
@@ -65,6 +65,9 @@
  
 <p align="left">
 <p align="left">
+  <a href="https://www.linkedin.com/in/neeraj-kumar-9a75811a2/" target="blank"><img align="center" 
+            src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" 
+            height="30" width=" 140" /></a>
     <a href="https://www.facebook.com/neeraj.raj.184881" target="blank"><img align="center" 
             src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" 
             height="30" width=" 140" /></a>
