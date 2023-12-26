@@ -184,6 +184,6 @@
 ---
 </details>
 
-[![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=YOUR_PROFILE_USERNAMEl&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neerajcodes888&bg_color=000000&color=1521cb&line=cc5200&point=0acd0d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
