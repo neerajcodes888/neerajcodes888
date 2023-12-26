@@ -28,12 +28,14 @@
  
   # 💫 About Me
   ###
+- 🌐 I am from Muzaffarpur , Bihar
 
 - 🔭 I’m currently working on [Library management System](https://0urlms2024.000webhostapp.com/)
 
 - 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **neerajmail888@gmail.com**
+
 ###
   
 # 👩‍💻 Coding Platforms
@@ -71,6 +73,7 @@
             alt="legitcodes" height="30" width="140" /></a>
 
 </p>
+
 # 💻 Projects
 
 
