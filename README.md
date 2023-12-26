@@ -24,7 +24,7 @@
   
 <details>
 
- <summary><h2>More Information</h2></summary>
+ <summary align="center"><h2>More Information ⬇️ </h2></summary>
  
   # 💫 About Me
   ###
