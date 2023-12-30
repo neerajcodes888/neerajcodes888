@@ -1,6 +1,6 @@
 
 # <h1 align="center"><code>Hello People👋 I'm Neeraj Kumar</code><div align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajcodes&label=Profile%20views&color=0e75b6&style=flat" alt="theofficialsiud" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajcodes&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 </div></h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>   
 <h2 align="center">(Problem Solver)</h2>
