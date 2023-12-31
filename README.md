@@ -168,7 +168,7 @@
 
 <div align="center">
   
-  ![Neeraj's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=neerajmail888)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+  ![Neeraj's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=neerajmail888)]
     
 
 
