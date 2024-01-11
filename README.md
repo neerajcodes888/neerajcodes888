@@ -41,7 +41,7 @@
 # 👩‍💻 Coding Platforms
 <p align="left">
 <p align="left">
-    <a href="https://leetcode.com/LegitCodes/" target="_blank" rel="noreferrer"><img align="center"
+    <a href="https://leetcode.com/neerajcodes888/" target="_blank" rel="noreferrer"><img align="center"
             src="https://img.shields.io/badge/LeetCode-222222?style=for-the-badge&logo=Leetcode&logoColor=white"
             alt="legitcodes" height="30" width="140" /></a>
     <a href="https://auth.geeksforgeeks.org/user/neerajcodes888" target="_blank" rel="noreferrer"><img align="center"
