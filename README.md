@@ -44,7 +44,7 @@
     <a href="https://leetcode.com/LegitCodes/" target="_blank" rel="noreferrer"><img align="center"
             src="https://img.shields.io/badge/LeetCode-222222?style=for-the-badge&logo=Leetcode&logoColor=white"
             alt="legitcodes" height="30" width="140" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/neerajmail888" target="_blank" rel="noreferrer"><img align="center"
+    <a href="https://auth.geeksforgeeks.org/user/neerajcodes888" target="_blank" rel="noreferrer"><img align="center"
             src="https://img.shields.io/badge/GFG-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
             alt="neerajcodes" height="30" width="100" /></a>
     <a href="https://www.hackerrank.com/profile/NeerajCoding888" target="_blank" rel="noreferrer"><img align="center"
