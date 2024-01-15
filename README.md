@@ -154,7 +154,7 @@
 <div>
 <div align="center">
   
-![LeetCode Stats](https://leetcode.card.workers.dev/neerajcodes888?theme=auto&font=baloo&extension=activity))
+![LeetCode Stats](https://leetcode.card.workers.dev/neerajcodes888?theme=auto&font=baloo&extension=activity)
 
 <div>
 
