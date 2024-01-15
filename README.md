@@ -154,7 +154,7 @@
 <div>
 <div align="center">
   
-![LeetCode Stats](https://leetcode.card.workers.dev/legitcodes?theme=dark&font=patrick_hand&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/neerajcodes888?theme=dark&font=patrick_hand&extension=null)
 
 <div>
 
@@ -168,7 +168,7 @@
 
 <div align="center">
   
-  ![Neeraj's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=neerajmail888)
+  ![Neeraj's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=neerajcodes888)
     
 
 
