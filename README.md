@@ -32,6 +32,8 @@
 
 - 🔭 I’m currently working on [Library management System](http://ourlms2024.great-site.net)
 
+- 🔦 Exploring Various data science Ideas
+
 - 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **neerajmail888@gmail.com**
