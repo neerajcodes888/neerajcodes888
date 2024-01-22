@@ -1,5 +1,5 @@
 
-# <h1 align="center"><code>Hello People👋 I'm Neeraj Kumar</code><div align="center">
+<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=CF82F7&background=4CFFF100&vCenter=true&random=false&width=435&lines=Hello+People%F0%9F%91%8B+I'm+Neeraj+;MCA+Final+Year+Student;National+Institue+Of+Tecnology+Warangal)](https://git.io/typing-svg)</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajcodes&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 </div></h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>   
@@ -12,16 +12,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
----
-![logo](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-
-
-<h4 align="center">
-  👋 Hello, fellow coders and curious minds! I'm Neeraj , Currently Persuing Masters in Computer Application [MCA] from  NIT Warangal .🌟 Join me on this exciting journey of continuous improvement, collaboration, and building a future where technology makes a positive impact on the world. Let's code, create, and connect! 🚀</h4>
-
----
-  
 <details>
 
  <summary align="center"><h2>Click here For More Information ⬇️ </h2></summary>
