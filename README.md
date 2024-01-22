@@ -1,5 +1,5 @@
 
-<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=CF82F7&background=4CFFF100&vCenter=true&random=false&width=435&lines=Hello+People%F0%9F%91%8B+I'm+Neeraj+;MCA+Final+Year+Student;National+Institue+Of+Tecnology+Warangal)](https://git.io/typing-svg)</div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=CF82F7&background=4CFFF100&vCenter=true&random=false&width=435&lines=Hello+People%F0%9F%91%8B+I'm+Neeraj+;MCA+Final+Year+Student;National+Institue+Of+Tecnology+Warangal" alt="Typing SVG" /></a></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajcodes&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 </div></h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>   
