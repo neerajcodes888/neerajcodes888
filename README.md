@@ -1,9 +1,8 @@
-
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=CF82F7&background=4CFFF100&vCenter=true&random=false&width=435&lines=Hello+People%F0%9F%91%8B+I'm+Neeraj+;MCA+Final+Year+Student;National+Institue+Of+Tecnology+Warangal" alt="Typing SVG" /></a></div>
+ <h1 align="center"><code>Hello People 👋 I'm Neeraj Kumar</code></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajcodes&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
-</div></h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>   
-<h2 align="center">(Problem Solver)</h2>
+</div ></h1>
+ <h3 align=" center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shantell+Sans&size=21&duration=4984&pause=900&color=CF82F7&background=5FFF3C00&vCenter=true&random=false&width=435&lines=MCA++Final++Year++Student+++AT;National+Institue+Of+Tecnology+Warangal;A++passionate++Full++Stack++developer+++And;+Problem++Solver++From++India+%F0%9F%99%8F" alt="Typing SVG" /></a></h3>   
+
 
 ---
 
