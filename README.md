@@ -181,5 +181,5 @@
 </details>
 
 
-![snake gif](https://github.com/neerajcodes888/neerajcodes888/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/neerajcodes888/neerajcodes888/blob/output/snake.svg)
 
