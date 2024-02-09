@@ -22,6 +22,8 @@
   ###
 - 🌐 I am from Muzaffarpur , Bihar
 
+- 🔌 Eager to colaborate on  [Query With PDFs](https://github.com/neerajcodes888/Query-With-PDF)
+
 - 🔭 I’m currently working on [Library management System](http://ourlms2024.great-site.net)
 
 - 🔦 Exploring Various data science Ideas
