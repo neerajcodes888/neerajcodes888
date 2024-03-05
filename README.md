@@ -26,7 +26,7 @@
 
 - 🔭 Analyze and report bugs [Library management System](http://ourlms2024.great-site.net)
 
-- 🔦 Exploring Various data science Ideas
+- 🔦 Exploring Various [data science Ideas](https://github.com/neerajcodes888/Data-Science)
 
 - 💬 Ask me about **Full Stack Development**
 
