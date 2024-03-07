@@ -169,22 +169,10 @@
 
 <img src="https://t.bkit.co/w_65bf62f11cfb2.gif" />
 
- 
-## 😂 Have a Smile
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+# 📊 Chess Stats:
 
- </div>
-</div>
-
----
-
-
-<h2 align='left'><i><a href="https://github.com/neerajcodes888/github-readme-activity-graph">📈 Activity Graph </i></h2>
-  
-![Neeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neerajcodes888&bg_color=000000&color=1521cb&line=cc5200&point=0acd0d&area=true&hide_border=true)
-
-
+<div align="center">
 
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
@@ -208,6 +196,24 @@
 | GAlexandreR | **ChessHamper888** | win 🥇 | 5/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b2/3k3p/8/8/5P2/8/r7/4K2q w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
+
+</div>
+ 
+## 😂 Have a Smile
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+ </div>
+</div>
+
+---
+
+
+<h2 align='left'><i><a href="https://github.com/neerajcodes888/github-readme-activity-graph">📈 Activity Graph </i></h2>
+  
+![Neeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neerajcodes888&bg_color=000000&color=1521cb&line=cc5200&point=0acd0d&area=true&hide_border=true)
+
+
 
 </details>
 
