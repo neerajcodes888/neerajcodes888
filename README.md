@@ -181,11 +181,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 337 | No Rating | 157 |
+| Current | 345 | No Rating | 157 |
 | Best | 321 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | shry_2305 | win 🥇 | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B5k1/p1pbbppp/Q2pqn2/4p3/7P/1P2P1P1/PB1P1P2/2R1K1NR b K -">Link</a> | Rapid |
 | **ChessHamper888** | Rezan_Khan | checkmated ❌ | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn4k1/1pp2ppp/1p6/2P4b/P6P/8/4q3/4K3 w - -">Link</a> | Rapid |
 | blindlib | **ChessHamper888** | win 🥇 | 6/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4pk2/6pp/1q2b3/5p2/5P2/3r1KPP/r7 w - -">Link</a> | Rapid |
 | zidoox07 | **ChessHamper888** | insufficient ⏸️ | 6/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4k3/8/3K4/5b2/8 b - -">Link</a> | Rapid |
@@ -195,7 +196,6 @@
 | **ChessHamper888** | Junction-Bexar | checkmated ❌ | 5/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/5p2/6pP/4P3/r7/5P2/K3n2P/8 w - -">Link</a> | Rapid |
 | gunayx | **ChessHamper888** | win 🥇 | 5/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1r1/2pp1ppp/p3pb2/4Nn2/1B1Pb3/4PN2/PPP2PPP/R3K2R w KQq -">Link</a> | Rapid |
 | **ChessHamper888** | edihal1 | win 🥇 | 5/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1ppp/8/1Bb1p3/8/4P1PN/PPPPQP1P/RNB1K2R b KQkq -">Link</a> | Rapid |
-| GAlexandreR | **ChessHamper888** | win 🥇 | 5/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b2/3k3p/8/8/5P2/8/r7/4K2q w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
