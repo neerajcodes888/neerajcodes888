@@ -181,11 +181,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 353 | 172 | 157 |
+| Current | 368 | 172 | 157 |
 | Best | 345 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Sniper-karlsten | **ChessHamper888** | win 🥇 | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/5q2/4q3/6PP/6K1/8/8/8 w - -">Link</a> | Rapid |
+| **ChessHamper888** | Anderson1097 | win 🥇 | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3b1kp/8/1p2N3/3PB2P/1QP3P1/P4P2/R4K2 b - -">Link</a> | Rapid |
 | sabilounis | **ChessHamper888** | win 🥇 | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1pp5/3p4/8/5q2/7p/5n1P/2r3K1 w - -">Link</a> | Rapid |
 | charandvvk421 | **ChessHamper888** | timeout ❌ | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/6k1/8/5R1K/8/BP6/P7/8 b - -">Link</a> | Blitz |
 | advaitbhitkar | **ChessHamper888** | win 🥇 | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4p3/k4pp1/1pr5/3q4/1K6/8/8 w - -">Link</a> | Rapid |
@@ -194,8 +196,6 @@
 | blindlib | **ChessHamper888** | win 🥇 | 6/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4pk2/6pp/1q2b3/5p2/5P2/3r1KPP/r7 w - -">Link</a> | Rapid |
 | zidoox07 | **ChessHamper888** | insufficient ⏸️ | 6/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4k3/8/3K4/5b2/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | holzpeter | win 🥇 | 6/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkb1r/pppb1ppp/4pn2/3p4/8/4PN2/PPPPQPPP/RNB1KB1R b KQkq -">Link</a> | Rapid |
-| **ChessHamper888** | yegomainguez | win 🥇 | 6/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3B1k2/ppp4p/8/1B1p4/1b2p1Q1/4P3/P1PP3P/RN2K2R b KQ -">Link</a> | Rapid |
-| jwesmann | **ChessHamper888** | checkmated ❌ | 6/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1b1r/1ppkp2b/3pBp2/p4P1Q/3NP3/2NP4/PPP5/R1B2RK1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
