@@ -186,12 +186,7 @@
 
 
 
-## Contributions (3D View)
-<div align="center">
- 
-![3d](https://github.com/neerajcodes888/neerajcodes888/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-</div>
 
 </details>
 
@@ -202,6 +197,13 @@
 <div align="center">
  
 ![snake gif](https://github.com/neerajcodes888/neerajcodes888/blob/output/snake.svg)
+
+</div>
+
+## Contributions (3D View)
+<div align="center">
+ 
+![3d](https://github.com/neerajcodes888/neerajcodes888/blob/main/profile-3d-contrib/profile-south-season-animate.svg)
 
 </div>
 
