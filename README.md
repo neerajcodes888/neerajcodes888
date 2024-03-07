@@ -183,7 +183,7 @@
 <h2 align='left'><i><a href="https://github.com/neerajcodes888/github-readme-activity-graph">📈 Activity Graph </i></h2>
   
 ![Neeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neerajcodes888&bg_color=000000&color=1521cb&line=cc5200&point=0acd0d&area=true&hide_border=true)
-</details>
+
 
 
 ## Contributions (3D View)
@@ -192,6 +192,10 @@
 ![3d](https://github.com/neerajcodes888/neerajcodes888/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
+
+</details>
+
+
 
 
 ## Snake Contribution 😃
