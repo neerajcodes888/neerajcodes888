@@ -181,11 +181,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 368 | 172 | 157 |
+| Current | 375 | 172 | 157 |
 | Best | 345 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | sebastien94140 | win 🥇 | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1pk3Qb/p1p1p3/3p4/PP4Pn/2PP3B/4PP1q/R3K3 b Q -">Link</a> | Rapid |
 | Sniper-karlsten | **ChessHamper888** | win 🥇 | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/5q2/4q3/6PP/6K1/8/8/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Anderson1097 | win 🥇 | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3b1kp/8/1p2N3/3PB2P/1QP3P1/P4P2/R4K2 b - -">Link</a> | Rapid |
 | sabilounis | **ChessHamper888** | win 🥇 | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1pp5/3p4/8/5q2/7p/5n1P/2r3K1 w - -">Link</a> | Rapid |
@@ -195,7 +196,6 @@
 | **ChessHamper888** | Rezan_Khan | checkmated ❌ | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn4k1/1pp2ppp/1p6/2P4b/P6P/8/4q3/4K3 w - -">Link</a> | Rapid |
 | blindlib | **ChessHamper888** | win 🥇 | 6/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4pk2/6pp/1q2b3/5p2/5P2/3r1KPP/r7 w - -">Link</a> | Rapid |
 | zidoox07 | **ChessHamper888** | insufficient ⏸️ | 6/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4k3/8/3K4/5b2/8 b - -">Link</a> | Rapid |
-| **ChessHamper888** | holzpeter | win 🥇 | 6/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkb1r/pppb1ppp/4pn2/3p4/8/4PN2/PPPPQPPP/RNB1KB1R b KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
