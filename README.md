@@ -160,17 +160,19 @@
 
 <div>
 
-<div>
+
 
 <div align="center">
   
   ![Neeraj's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=neerajcodes888)
     
+<div>
 
-<img src="https://t.bkit.co/w_65bf62f11cfb2.gif" />
-
-
+<div align="left">
+  
 # 📊 Chess Stats:
+
+<div>
 
 <div align="center">
 
@@ -197,8 +199,10 @@
 
 <!--END_SECTION:chessStats-->
 
-</div>
- 
+<div>
+
+ <div align="center">
+  
 ## 😂 Have a Smile
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
