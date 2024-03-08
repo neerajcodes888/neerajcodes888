@@ -186,6 +186,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Trannguyenlamhung | **ChessHamper888** | checkmated ❌ | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk1nr/pppp1Q2/5ppp/4p3/1bB1P3/8/PPPP1PPP/RNB1K1NR b KQkq -">Link</a> | Rapid |
+| **ChessHamper888** | helmut37 | win 🥇 | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/4nb2/2pR2k1/Q5P1/8/2P5/PP2P1P1/4K3 b - -">Link</a> | Rapid |
 | **ChessHamper888** | szadamcs | resigned ❌ | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/pp2p2p/2n2p2/2p2b2/8/2B5/PPP1PPP1/RNb1KBNR w Qkq -">Link</a> | Rapid |
 | **ChessHamper888** | xsamuraiydghb | checkmated ❌ | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/pp5p/6p1/2P3P1/P2r2q1/7K/6PP/4R2R w - -">Link</a> | Rapid |
 | gradient100 | **ChessHamper888** | resigned ❌ | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2k1nr/2p1ppbp/1p4p1/p7/R7/4PQ2/1PPP1PPP/1NB1KB1R b Kk -">Link</a> | Rapid |
@@ -194,8 +196,6 @@
 | **ChessHamper888** | Kranthikumar112 | win 🥇 | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbBkbnr/ppp2ppp/4p3/3p4/8/3P4/PPP1PPPP/RN1QKBNR b KQkq -">Link</a> | Blitz |
 | spinechill-0 | **ChessHamper888** | checkmated ❌ | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/Q7/3k4/3Q4/2K5/8/8/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | sebastien94140 | win 🥇 | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1pk3Qb/p1p1p3/3p4/PP4Pn/2PP3B/4PP1q/R3K3 b Q -">Link</a> | Rapid |
-| Sniper-karlsten | **ChessHamper888** | win 🥇 | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/5q2/4q3/6PP/6K1/8/8/8 w - -">Link</a> | Rapid |
-| **ChessHamper888** | Anderson1097 | win 🥇 | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3b1kp/8/1p2N3/3PB2P/1QP3P1/P4P2/R4K2 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
