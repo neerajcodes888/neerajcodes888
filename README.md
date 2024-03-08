@@ -186,6 +186,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| dhayananda007 | **ChessHamper888** | win 🥇 | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1n1/3K2k1/1p4p1/1q6/3Pqbp1/8/7P/8 w - -">Link</a> | Rapid |
+| **ChessHamper888** | whiteowl166 | checkmated ❌ | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/pkp2R2/1p2BN2/3p4/8/3P2P1/2b1PP2/2q1K3 w - -">Link</a> | Rapid |
 | **ChessHamper888** | OneOf4Narwhals | win 🥇 | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2bnr/ppp3pp/5p2/4p2b/2qnP2P/PPN2P2/3P2B1/R2QK1NR w KQ -">Link</a> | Blitz |
 | Laughing0man | **ChessHamper888** | checkmated ❌ | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1Q1/2pppp2/pp4pB/8/8/3b2PB/PPP2P1P/RN2K1NR b KQ -">Link</a> | Blitz |
 | victorhudry | **ChessHamper888** | insufficient ⏸️ | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/4K1k1/2b5/8/8 w - -">Link</a> | Rapid |
@@ -194,8 +196,6 @@
 | **ChessHamper888** | Neo2988 | checkmated ❌ | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/B4p2/1p4p1/7p/5P1P/1r4KB/3r4/8 w - -">Link</a> | Rapid |
 | yaman294 | **ChessHamper888** | win 🥇 | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/4p3/8/8/4P3/PPPP1PPP/RNBQKBNR w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Rickjovanu | win 🥇 | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/4Q2k/8/7K/1P6/8/P7/8 b - -">Link</a> | Rapid |
-| Zanter37 | **ChessHamper888** | win 🥇 | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb3qr/ppppk2p/4pb1Q/5p2/8/2P5/P4PPP/RN2KB1R w KQ -">Link</a> | Rapid |
-| Trannguyenlamhung | **ChessHamper888** | checkmated ❌ | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk1nr/pppp1Q2/5ppp/4p3/1bB1P3/8/PPPP1PPP/RNB1K1NR b KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
