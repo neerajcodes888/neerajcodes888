@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **neerajmail888@gmail.com**
   
-- ⚡ Fun fact   Searching For a Bug by which i'll suffer and fix it
+- ⚡ Fun fact  : Searching For a Bug by which i'll suffer and fix it
 
 ###
   
