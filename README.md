@@ -181,11 +181,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 329 | 176 | 157 |
+| Current | 337 | 176 | 157 |
 | Best | 345 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Anaken005 | win 🥇 | 9/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/1k6/8/2P5/K2Q4/8/7N b - -">Link</a> | Rapid |
 | mzer934 | **ChessHamper888** | checkmated ❌ | 9/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q3kr/1b1N3p/2p1Q1pB/r4n2/8/p1N5/P1P2PPP/1R2R1K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Norbanus | checkmated ❌ | 9/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4q2/pp1k3p/2n1b1p1/2pp4/6n1/1P1P1Pb1/PBPNP3/RN1QKB1R w KQ -">Link</a> | Rapid |
 | **ChessHamper888** | HeiligeLudmila | checkmated ❌ | 9/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kb2/p7/q1n5/5p2/Pp6/1PB5/3P1PP1/RN2K1r1 w - -">Link</a> | Rapid |
@@ -195,7 +196,6 @@
 | **ChessHamper888** | whiteowl166 | checkmated ❌ | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/pkp2R2/1p2BN2/3p4/8/3P2P1/2b1PP2/2q1K3 w - -">Link</a> | Rapid |
 | **ChessHamper888** | OneOf4Narwhals | win 🥇 | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2bnr/ppp3pp/5p2/4p2b/2qnP2P/PPN2P2/3P2B1/R2QK1NR w KQ -">Link</a> | Blitz |
 | Laughing0man | **ChessHamper888** | checkmated ❌ | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1Q1/2pppp2/pp4pB/8/8/3b2PB/PPP2P1P/RN2K1NR b KQ -">Link</a> | Blitz |
-| victorhudry | **ChessHamper888** | insufficient ⏸️ | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/4K1k1/2b5/8/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
