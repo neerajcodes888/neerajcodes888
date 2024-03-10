@@ -183,11 +183,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 315 | 176 | 157 |
+| Current | 303 | 176 | 157 |
 | Best | 345 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Arthur11214 | **ChessHamper888** | checkmated ❌ | 10/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2b1r/pp2kBpp/2n5/4N1B1/8/8/PPP2PPP/R2R2K1 b - -">Link</a> | Rapid |
+| Nik_221B | **ChessHamper888** | checkmated ❌ | 10/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/1B1kbp2/p7/1N4p1/3B4/1P6/P1PP1PPP/5K1R b - -">Link</a> | Rapid |
 | **ChessHamper888** | masaki23 | abandoned  | 10/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/pppp1ppp/5q2/2b5/2P1BP2/4P1P1/PP5P/nNBK2NR w kq -">Link</a> | Rapid |
 | augustine_dsz | **ChessHamper888** | timeout ❌ | 10/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5R1R/3p4/3N3k/8/8/2K4P/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Mariafatima0 | checkmated ❌ | 10/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/8/p3p3/4P3/6P1/1q3P1P/2rK4 w - -">Link</a> | Rapid |
@@ -196,8 +198,6 @@
 | **ChessHamper888** | lollmp | win 🥇 | 10/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbnr/pppp3p/2n2p2/8/4P2B/8/PqPNKPPP/R2Q1BNR b kq -">Link</a> | Rapid |
 | RutilantBread8 | **ChessHamper888** | resigned ❌ | 10/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1Bk2r/N2p2bp/4p1pn/5p2/4P3/1Q1P1N2/PP3PPP/R3R1K1 b k -">Link</a> | Rapid |
 | Ryckkoo | **ChessHamper888** | win 🥇 | 10/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rq1k1r/pp1p1pbp/2p1p1p1/4n3/4nN2/4P3/PPPP1PPP/R1B1K2R w KQ -">Link</a> | Rapid |
-| **ChessHamper888** | Mr_Kundu | checkmated ❌ | 10/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pppk2N1/n4p1p/2b2b2/1n3KqP/1Q6/PB2P1P1/RN3B1R w - -">Link</a> | Rapid |
-| bhuppirwt | **ChessHamper888** | resigned ❌ | 9/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3Q2/p1kpn3/b1p3p1/8/1p1PBB2/8/PPP1NPPP/RN2K2R b KQ -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
