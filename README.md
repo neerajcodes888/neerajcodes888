@@ -183,11 +183,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 358 | 176 | 157 |
+| Current | 366 | 176 | 157 |
 | Best | 345 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| pilania20 | **ChessHamper888** | win 🥇 | 12/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/4k1p1/6rp/8/8/8/5P1P/2q4K w - -">Link</a> | Rapid |
 | **ChessHamper888** | Rox-junior | win 🥇 | 12/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q1k5/5p2/8/7p/7P/4B3/1P4Q1/3K3R b - -">Link</a> | Rapid |
 | ameersheraz6575 | **ChessHamper888** | win 🥇 | 12/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2K2r2/3r4/4k3/8/8/8/8/8 w - -">Link</a> | Rapid |
 | Sarthak230202 | **ChessHamper888** | win 🥇 | 12/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/4p1b1/1Bp1k3/5p2/2K2P1p/2N5/8/8 w - -">Link</a> | Rapid |
@@ -197,7 +198,6 @@
 | **ChessHamper888** | Reegus101 | win 🥇 | 12/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k1r/pp4pp/2pBQn2/8/3P4/8/PP2P1PP/RN2KBNR b KQ -">Link</a> | Rapid |
 | marianG14 | **ChessHamper888** | resigned ❌ | 12/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p2p4/nppqk2p/4pP2/6Q1/7N/PPPP1PPP/RNB1K2R b KQ -">Link</a> | Rapid |
 | **ChessHamper888** | VPNSSSS | win 🥇 | 11/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/pp5p/4knp1/2R5/1P1p1b2/r2P1B1R/P5P1/1K6 b - -">Link</a> | Rapid |
-| Arthur11214 | **ChessHamper888** | checkmated ❌ | 10/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2b1r/pp2kBpp/2n5/4N1B1/8/8/PPP2PPP/R2R2K1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
