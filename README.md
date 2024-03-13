@@ -183,11 +183,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 406 | 176 | 157 |
+| Current | 414 | 176 | 157 |
 | Best | 345 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Jar1988 | **ChessHamper888** | win 🥇 | 13/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/2K1k1b1/2Bq4/8/8/8/7p/8 w - -">Link</a> | Rapid |
 | Mateuszz_1 | **ChessHamper888** | win 🥇 | 13/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2b1r/pp2pkpp/2p5/6n1/8/1P6/1P3PPP/RN3RK1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | amangupta2601 | win 🥇 | 13/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/7p/2k1Q3/8/4N3/3K3N/4P3/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | ArthurChen123 | win 🥇 | 13/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/1p6/8/4k1P1/nQ6/3KPP1P/2B2B1R b - -">Link</a> | Rapid |
@@ -197,7 +198,6 @@
 | vhoang122 | **ChessHamper888** | win 🥇 | 13/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1pnk3/2b4b/8/3P4/8/PPP2P2/R3KB2 w Q -">Link</a> | Rapid |
 | ChrisDaiseta | **ChessHamper888** | checkmated ❌ | 13/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k3/p3Q1bp/2p5/8/5r1B/8/PP3PPP/6K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | manishgir | win 🥇 | 13/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1r3/1p5R/2p1k1Q1/b1npP3/5B2/N1P2P2/P4NP1/R2K1B2 b - -">Link</a> | Rapid |
-| **ChessHamper888** | Estygab | stalemate ⏸️ | 12/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p3bp1/1p2k3/p2p2K1/P2Pr3/8/n7/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
