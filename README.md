@@ -236,7 +236,7 @@
 ## Contributions (3D View)
 <div align="center">
  
-![3d](https://github.com/neerajcodes888/neerajcodes888/blob/main/profile-3d-contrib/profile-night-green.svg)
+![3d](https://github.com/neerajcodes888/neerajcodes888/blob/main/profile-3d-contrib/profile-gitblock.svg)
 
 </div>
 
