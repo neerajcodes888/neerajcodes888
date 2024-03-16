@@ -24,7 +24,7 @@
 
 - 🔌 Eager to colaborate on  [Query With PDFs](https://github.com/neerajcodes888/Query-With-PDF)
 
-- 🔭 Analyze and report bugs [Library management System](http://ourlms2024.great-site.net)
+- 🔭 Analyze and report bugs My  [Library management System](http://ourlms2024.great-site.net)
 
 - 🔦 Exploring Various [data science Ideas](https://github.com/neerajcodes888/Data-Science)
 
