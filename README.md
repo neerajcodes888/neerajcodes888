@@ -183,11 +183,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 381 | 176 | 157 |
+| Current | 389 | 176 | 157 |
 | Best | 414 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| DeniIslamov | **ChessHamper888** | win 🥇 | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/5ppp/p7/8/3b4/K7/q2q3P/7b w k -">Link</a> | Rapid |
 | Chorru69 | **ChessHamper888** | resigned ❌ | 15/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kbnr/ppp1pppp/B7/3p4/3P4/4PN2/PPP2PPP/RNBQK2R b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Mynameissally1 | resigned ❌ | 15/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/pppb1ppp/6n1/3Pp3/8/P4N2/P1P1P1PP/RNB1KB1R b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | pilooz | checkmated ❌ | 15/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/1p3ppp/p4n2/3p4/6n1/PN6/P1P2qPP/4RK1R w - -">Link</a> | Rapid |
@@ -197,7 +198,6 @@
 | **ChessHamper888** | loganu1222 | win 🥇 | 15/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/7p/4B1p1/4p3/ppp1b1P1/8/P2K3P/2B5 w - -">Link</a> | Rapid |
 | leandrobastosjr | **ChessHamper888** | checkmated ❌ | 15/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/ppN1pppp/2p2n2/8/8/5N2/PPP2PPP/R1BQK2R b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | CHICHOVANDAM | checkmated ❌ | 15/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1k2r/pp3ppp/8/3p4/n2P4/P2q3N/PB3PPP/RK4R1 w k -">Link</a> | Rapid |
-| **ChessHamper888** | SLDKFJSLFKJ | win 🥇 | 15/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk3/ppp1np1p/3b4/5b2/3Q4/2P5/PP2PPBP/RNB1K1NR b KQq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
