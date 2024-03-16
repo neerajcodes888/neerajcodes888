@@ -183,11 +183,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 362 | 176 | 157 |
+| Current | 370 | 176 | 157 |
 | Best | 414 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| I_joined | **ChessHamper888** | win 🥇 | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2nk2r/Np1nppbp/1p4p1/3P4/1P6/P4N1P/2PQ1PP1/3RR1K1 w k -">Link</a> | Rapid |
 | meldidi | **ChessHamper888** | win 🥇 | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/2pk2p1/7p/2P1R2n/8/2P5/1r3PPP/q1K5 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Nopeexe | resigned ❌ | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/1p3ppp/p1p5/3ppb2/8/bNP1P2q/3B4/3K1R2 w kq -">Link</a> | Rapid |
 | alsajs82 | **ChessHamper888** | win 🥇 | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/pp3ppp/n1p1pn2/3p4/8/Q1P1P3/PP1P1PPP/RNB1KBNR w KQkq -">Link</a> | Rapid |
@@ -197,7 +198,6 @@
 | YTRockplayz | **ChessHamper888** | agreed ⏸️ | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kbnr/ppp1pppp/8/8/3Pq1b1/5N2/PPP1BPPP/RNBQK2R b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Karitrestokk | checkmated ❌ | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/k7/1q6/K7 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Service15 | win 🥇 | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/1p2q2p/p3p1p1/3p1p2/3PnP2/2P3PR/P3P3/Q3KB2 b - -">Link</a> | Rapid |
-| hamodd66 | **ChessHamper888** | checkmated ❌ | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/1N6/P7/1K2k3/4P2Q/2P5/8/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
