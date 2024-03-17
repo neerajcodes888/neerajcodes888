@@ -183,11 +183,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 395 | 176 | 157 |
+| Current | 403 | 176 | 157 |
 | Best | 414 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| GxdlGoat | **ChessHamper888** | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kbnr/ppp1pppp/8/3q4/8/8/PPPP1PPP/RNBQKBNR w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Khoimu | stalemate ⏸️ | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/KR6/8/k7 b - -">Link</a> | Rapid |
 | Jdhddx | **ChessHamper888** | win 🥇 | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/pp1b3p/2p2p2/3p1p2/3P3N/P1PqP3/5PPP/RR4K1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | danielluque | win 🥇 | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1r/1Q3kpp/2p1p3/r4p2/6q1/8/P2BN1PP/R2K1BNR b - -">Link</a> | Rapid |
@@ -197,7 +198,6 @@
 | I_joined | **ChessHamper888** | win 🥇 | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2nk2r/Np1nppbp/1p4p1/3P4/1P6/P4N1P/2PQ1PP1/3RR1K1 w k -">Link</a> | Rapid |
 | meldidi | **ChessHamper888** | win 🥇 | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/2pk2p1/7p/2P1R2n/8/2P5/1r3PPP/q1K5 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Nopeexe | resigned ❌ | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/1p3ppp/p1p5/3ppb2/8/bNP1P2q/3B4/3K1R2 w kq -">Link</a> | Rapid |
-| alsajs82 | **ChessHamper888** | win 🥇 | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/pp3ppp/n1p1pn2/3p4/8/Q1P1P3/PP1P1PPP/RNB1KBNR w KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
