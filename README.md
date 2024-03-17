@@ -188,6 +188,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| shivam1s | **ChessHamper888** | agreed ⏸️ | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1r/3knppp/3Np3/2Q5/1P1P4/4P3/5PPP/5RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Aarav_master | checkmated ❌ | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B7/4k2p/2R5/p1p5/4p3/8/r7/4K2r w - -">Link</a> | Rapid |
 | **ChessHamper888** | AlNazViolado | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/pRp2ppp/2n1b3/8/8/P3Q3/2PBPPPP/4KB1R b Kkq -">Link</a> | Rapid |
 | **ChessHamper888** | sumeetdebotest | checkmated ❌ | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/pp3pp1/2P5/4p3/2B5/3Kq3/P6r/2R3q1 w - -">Link</a> | Rapid |
@@ -197,7 +198,6 @@
 | **ChessHamper888** | Khoimu | stalemate ⏸️ | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/KR6/8/k7 b - -">Link</a> | Rapid |
 | Jdhddx | **ChessHamper888** | win 🥇 | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/pp1b3p/2p2p2/3p1p2/3P3N/P1PqP3/5PPP/RR4K1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | danielluque | win 🥇 | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1r/1Q3kpp/2p1p3/r4p2/6q1/8/P2BN1PP/R2K1BNR b - -">Link</a> | Rapid |
-| **ChessHamper888** | ceca1953 | win 🥇 | 16/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk3/4p3/8/1R3p2/3B3P/8/b1PQ1Pr1/2K4R w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
