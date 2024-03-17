@@ -229,7 +229,7 @@
 ## Snake Contribution 😃
 <div align="center">
  
-![snake gif](https://github.com/neerajcodes888/neerajcodes888/blob/output/snake.svg)
+![snake gif](https://github.com/neerajcodes888/neerajcodes888/blob/main/profile-3d-contrib/profile-night-green.svg)
 
 </div>
 
