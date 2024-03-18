@@ -183,11 +183,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 440 | 176 | 157 |
-| Best | 414 | No Rating | No Rating |
+| Current | 458 | 176 | 157 |
+| Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | aris_tiwul99 | win 🥇 | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1P6/2Q2k2/8/8/6K1/2P2B2/8 b - -">Link</a> | Rapid |
+| MR_LUCKY_025 | **ChessHamper888** | win 🥇 | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2kb2/p3p1p1/4N3/6R1/8/2NP1b2/PPP2r2/2KR4 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Kitsunep | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq4/1p1k2Qp/3bp1p1/p1p2p2/3Pp3/2P1P2N/PP3PPP/R1B1KB1R b KQ -">Link</a> | Rapid |
 | I_Luv_Minecraft | **ChessHamper888** | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k1b1r/4pBpp/8/1p5Q/3P4/P1B5/1P3PqP/R3K2R b KQ -">Link</a> | Rapid |
 | **ChessHamper888** | I_Luv_Minecraft | resigned ❌ | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k3b1r/pp2qppp/3r4/8/7P/4Pn1n/P1PQ1P1P/RN2K2R w KQ -">Link</a> | Rapid |
@@ -196,8 +198,6 @@
 | stubbslift | **ChessHamper888** | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1qkb1r/p1p2ppp/4pn2/4N3/5Qb1/3P4/PPn2PPP/RNB1K2R w KQk -">Link</a> | Rapid |
 | **ChessHamper888** | Tricky519 | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kr2/pp2b1p1/2p2n1p/5b2/2P5/1R2Q3/5PPP/B3KBNR b Kq -">Link</a> | Rapid |
 | lopezjavi7 | **ChessHamper888** | insufficient ⏸️ | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3b4/8/k1K5/8/8/8/8 w - -">Link</a> | Rapid |
-| **ChessHamper888** | Nagaraju74bng | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2RQ4/1k4Q1/8/Q7/8/4P3/5K2/6R1 b - -">Link</a> | Rapid |
-| **ChessHamper888** | jokertm44 | stalemate ⏸️ | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1R6/5K2/k7/2Q5/8/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
