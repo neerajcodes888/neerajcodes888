@@ -183,11 +183,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 434 | 176 | 157 |
+| Current | 426 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Escarcelle1220 | **ChessHamper888** | resigned ❌ | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbnr/ppN1pppp/2n1q3/3pN3/3P4/2P1P3/PP3PPP/R1BQKB1R b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | salimus13dz | checkmated ❌ | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1kp1b2Q/p1n5/1p4rp/1P1P4/1RP3p1/P3PqB1/5K1R w - -">Link</a> | Rapid |
 | salimus13dz | **ChessHamper888** | resigned ❌ | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1kb1r/p1Qnp3/5p1p/6p1/3P4/2P5/PP3PPP/RN2K1NR b KQk -">Link</a> | Rapid |
 | **ChessHamper888** | pupamsd | checkmated ❌ | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r2r/pp6/2np3p/8/3p1BP1/5P1P/PP2q1BR/2R1K3 w - -">Link</a> | Rapid |
@@ -197,7 +198,6 @@
 | I_Luv_Minecraft | **ChessHamper888** | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k1b1r/4pBpp/8/1p5Q/3P4/P1B5/1P3PqP/R3K2R b KQ -">Link</a> | Rapid |
 | **ChessHamper888** | I_Luv_Minecraft | resigned ❌ | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k3b1r/pp2qppp/3r4/8/7P/4Pn1n/P1PQ1P1P/RN2K2R w KQ -">Link</a> | Rapid |
 | Preciosa1950 | **ChessHamper888** | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1pkb1N2/2nb3Q/8/3P4/2P3PP/PP2q1r1/R5KR w - -">Link</a> | Rapid |
-| BricksOnFire | **ChessHamper888** | checkmated ❌ | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b4r/ppp1pQkp/6pb/8/3P2N1/1P2P3/P1P1N1PP/2KR1R2 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
