@@ -183,11 +183,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 425 | 176 | 157 |
+| Current | 410 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | theforeverstory | checkmated ❌ | 19/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/6p1/5PPP/2b5/1q6/8/2Kr4 w - -">Link</a> | Rapid |
+| theforeverstory | **ChessHamper888** | resigned ❌ | 19/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kbnr/ppp1pppp/8/7Q/4P3/2NP4/PPP3PP/R1B1KBNR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | simoncraft80 | checkmated ❌ | 19/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kbnr/p4pp1/2p1p1p1/1p1p4/3P2Pq/2P2P2/PP1NP2P/R1BQKB1R w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Schvveinemaus | win 🥇 | 19/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn4nr/3k1ppp/4p3/p7/8/4P3/qBbN1PPP/2Q1KB1R b K -">Link</a> | Rapid |
 | Escarcelle1220 | **ChessHamper888** | resigned ❌ | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbnr/ppN1pppp/2n1q3/3pN3/3P4/2P1P3/PP3PPP/R1BQKB1R b KQkq -">Link</a> | Rapid |
@@ -196,8 +198,6 @@
 | **ChessHamper888** | pupamsd | checkmated ❌ | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r2r/pp6/2np3p/8/3p1BP1/5P1P/PP2q1BR/2R1K3 w - -">Link</a> | Rapid |
 | **ChessHamper888** | aris_tiwul99 | win 🥇 | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1P6/2Q2k2/8/8/6K1/2P2B2/8 b - -">Link</a> | Rapid |
 | MR_LUCKY_025 | **ChessHamper888** | win 🥇 | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2kb2/p3p1p1/4N3/6R1/8/2NP1b2/PPP2r2/2KR4 w - -">Link</a> | Rapid |
-| **ChessHamper888** | Kitsunep | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq4/1p1k2Qp/3bp1p1/p1p2p2/3Pp3/2P1P2N/PP3PPP/R1B1KB1R b KQ -">Link</a> | Rapid |
-| I_Luv_Minecraft | **ChessHamper888** | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k1b1r/4pBpp/8/1p5Q/3P4/P1B5/1P3PqP/R3K2R b KQ -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
