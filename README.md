@@ -183,11 +183,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 426 | 176 | 157 |
+| Current | 425 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | simoncraft80 | checkmated ❌ | 19/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kbnr/p4pp1/2p1p1p1/1p1p4/3P2Pq/2P2P2/PP1NP2P/R1BQKB1R w KQkq -">Link</a> | Rapid |
+| **ChessHamper888** | Schvveinemaus | win 🥇 | 19/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn4nr/3k1ppp/4p3/p7/8/4P3/qBbN1PPP/2Q1KB1R b K -">Link</a> | Rapid |
 | Escarcelle1220 | **ChessHamper888** | resigned ❌ | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbnr/ppN1pppp/2n1q3/3pN3/3P4/2P1P3/PP3PPP/R1BQKB1R b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | salimus13dz | checkmated ❌ | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1kp1b2Q/p1n5/1p4rp/1P1P4/1RP3p1/P3PqB1/5K1R w - -">Link</a> | Rapid |
 | salimus13dz | **ChessHamper888** | resigned ❌ | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1kb1r/p1Qnp3/5p1p/6p1/3P4/2P5/PP3PPP/RN2K1NR b KQk -">Link</a> | Rapid |
@@ -196,8 +198,6 @@
 | MR_LUCKY_025 | **ChessHamper888** | win 🥇 | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2kb2/p3p1p1/4N3/6R1/8/2NP1b2/PPP2r2/2KR4 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Kitsunep | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq4/1p1k2Qp/3bp1p1/p1p2p2/3Pp3/2P1P2N/PP3PPP/R1B1KB1R b KQ -">Link</a> | Rapid |
 | I_Luv_Minecraft | **ChessHamper888** | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k1b1r/4pBpp/8/1p5Q/3P4/P1B5/1P3PqP/R3K2R b KQ -">Link</a> | Rapid |
-| **ChessHamper888** | I_Luv_Minecraft | resigned ❌ | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k3b1r/pp2qppp/3r4/8/7P/4Pn1n/P1PQ1P1P/RN2K2R w KQ -">Link</a> | Rapid |
-| Preciosa1950 | **ChessHamper888** | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1pkb1N2/2nb3Q/8/3P4/2P3PP/PP2q1r1/R5KR w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
