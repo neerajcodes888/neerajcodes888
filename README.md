@@ -139,6 +139,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajcodes888&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neerajcodes888&theme=dark)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=neerajcodes888&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
