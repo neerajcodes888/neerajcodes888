@@ -216,9 +216,6 @@
 
 ---
 
-<!-- Markdown -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h2 align='left'><i><a href="https://github.com/neerajcodes888/github-readme-activity-graph">📈 Activity Graph </i></h2>
   
