@@ -185,11 +185,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 428 | 176 | 157 |
+| Current | 436 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | VijayKagitha5 | win 🥇 | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/p7/1k3p2/3p4/Q1nP2BP/4P3/n4P2/4K2R w K -">Link</a> | Rapid |
 | Doriqn1 | **ChessHamper888** | win 🥇 | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p1kp2p/p5p1/2R5/3N2b1/4B3/3N1P1q/r3KR2 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Armen81583 | win 🥇 | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk2r/2p4p/3bppp1/pN6/3Pp3/2P1P1P1/PP3P1P/R1BQKB1R b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Lurifixen | win 🥇 | 22/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/8/3Q4/1k6/1p2B3/1P3K2/Q7 b - -">Link</a> | Rapid |
@@ -199,7 +200,6 @@
 | Xavier92100 | **ChessHamper888** | checkmated ❌ | 21/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bk1b1r/p1p1pNpp/np3n2/1B6/3P4/2N4P/PPP2PP1/R1B1K2R b KQ -">Link</a> | Rapid |
 | eoskoorealnoscamtrustme | **ChessHamper888** | checkmated ❌ | 20/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1b1r/p1pk2pp/1pn1Q3/8/2BP4/4P3/PPP3PP/R1B1K1NR b KQ -">Link</a> | Rapid |
 | atharva6942069 | **ChessHamper888** | checkmated ❌ | 20/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1Q6/4kR2/P1b1P3/2P1K2P/8 b - -">Link</a> | Rapid |
-| **ChessHamper888** | Kakashi2710 | resigned ❌ | 19/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/p4ppp/4p3/1N1p4/3P4/2P5/PP2PPPP/R1B1KBNR b KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
