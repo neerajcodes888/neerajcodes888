@@ -185,11 +185,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 420 | 176 | 157 |
+| Current | 428 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Ahmad_Raiyan | win 🥇 | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Qk1b1r/p2Bpppp/8/8/8/2p5/5P1q/2B1KR2 b - -">Link</a> | Rapid |
 | kundimone | **ChessHamper888** | resigned ❌ | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1N3r/pb2pk2/1p3b2/1B6/3p2Q1/6B1/PPP4P/RN2K2R b KQ -">Link</a> | Rapid |
 | Pavel8817 | **ChessHamper888** | checkmated ❌ | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/5p2/3Kp3/8/kQ1P4/P4PPP/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Gelzito | checkmated ❌ | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kr2/p3n2p/2p1R3/1p1p4/8/6R1/2PBPq1P/3QK3 w q -">Link</a> | Rapid |
@@ -199,7 +200,6 @@
 | **ChessHamper888** | VijayKagitha5 | win 🥇 | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/p7/1k3p2/3p4/Q1nP2BP/4P3/n4P2/4K2R w K -">Link</a> | Rapid |
 | Doriqn1 | **ChessHamper888** | win 🥇 | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p1kp2p/p5p1/2R5/3N2b1/4B3/3N1P1q/r3KR2 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Armen81583 | win 🥇 | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk2r/2p4p/3bppp1/pN6/3Pp3/2P1P1P1/PP3P1P/R1BQKB1R b KQkq -">Link</a> | Rapid |
-| **ChessHamper888** | Lurifixen | win 🥇 | 22/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/8/3Q4/1k6/1p2B3/1P3K2/Q7 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
