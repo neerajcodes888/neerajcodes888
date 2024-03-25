@@ -185,11 +185,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 421 | 176 | 157 |
+| Current | 413 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| broto69 | **ChessHamper888** | resigned ❌ | 25/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k3/pp4B1/2p4p/4R3/2B5/1P6/P1PK1bPP/R7 b - -">Link</a> | Rapid |
 | **ChessHamper888** | bebekselam | checkmated ❌ | 24/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pbp4p/1pn3p1/8/2N5/1P6/P1P1PqBP/R2Q2KR w - -">Link</a> | Rapid |
 | **ChessHamper888** | ArkhanLeNoir | timeout ❌ | 24/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3r/p1p2kpp/5p1n/2p5/4p3/6P1/PPN1QPBP/2q1K2R w - -">Link</a> | Rapid |
 | **ChessHamper888** | Eastwoof | win 🥇 | 24/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/pp3ppp/2p5/b2p2B1/4p1N1/P1N5/1PP1PPPP/R2QKB1R b KQkq -">Link</a> | Rapid |
@@ -199,7 +200,6 @@
 | hamid_pirayesh | **ChessHamper888** | checkmated ❌ | 24/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q1k1N/2p1pBbp/6p1/4qb2/3p4/8/P1PK2PP/RNB4n b - -">Link</a> | Rapid |
 | **ChessHamper888** | Anonymous64_68 | insufficient ⏸️ | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4K3/8/8/k7/8/8/8/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Ahmad_Raiyan | win 🥇 | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Qk1b1r/p2Bpppp/8/8/8/2p5/5P1q/2B1KR2 b - -">Link</a> | Rapid |
-| kundimone | **ChessHamper888** | resigned ❌ | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1N3r/pb2pk2/1p3b2/1B6/3p2Q1/6B1/PPP4P/RN2K2R b KQ -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
