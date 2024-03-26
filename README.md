@@ -185,11 +185,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 413 | 176 | 157 |
+| Current | 405 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| bharatidevi | **ChessHamper888** | checkmated ❌ | 26/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k2b1r/2Q1p1p1/7p/1p1b4/p7/6P1/q4PP1/2R2RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | lucasSM21 | win 🥇 | 26/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1r6/2k5/1p6/7R/4K3/5B2 b - -">Link</a> | Rapid |
 | **ChessHamper888** | slpha200 | resigned ❌ | 25/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk2r/pp2bppp/2q5/2n5/8/2P2n2/P2NP1PP/R3KB1R w KQk -">Link</a> | Rapid |
 | **ChessHamper888** | chiropodist | win 🥇 | 25/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1bnr/pppb2pp/2n5/3NP1B1/3pP3/8/PPPKP1PP/R3QB1R b - -">Link</a> | Rapid |
@@ -199,7 +200,6 @@
 | **ChessHamper888** | bebekselam | checkmated ❌ | 24/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pbp4p/1pn3p1/8/2N5/1P6/P1P1PqBP/R2Q2KR w - -">Link</a> | Rapid |
 | **ChessHamper888** | ArkhanLeNoir | timeout ❌ | 24/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3r/p1p2kpp/5p1n/2p5/4p3/6P1/PPN1QPBP/2q1K2R w - -">Link</a> | Rapid |
 | **ChessHamper888** | Eastwoof | win 🥇 | 24/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/pp3ppp/2p5/b2p2B1/4p1N1/P1N5/1PP1PPPP/R2QKB1R b KQkq -">Link</a> | Rapid |
-| JacOlivier | **ChessHamper888** | win 🥇 | 24/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1nr/ppqp1ppp/3b4/8/3np3/2N1PNB1/PP1K1PPP/R4B1R w kq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
