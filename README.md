@@ -185,11 +185,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 405 | 176 | 157 |
+| Current | 414 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Mondos1 | **ChessHamper888** | checkmated ❌ | 28/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/p1p1pP1p/2p3p1/2Np1nN1/5P2/6QP/PP1P1KP1/2B5 b kq -">Link</a> | Rapid |
+| **ChessHamper888** | UdayaKiran2024 | win 🥇 | 28/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k2Q1/7Q/8/2P5/p7/P7/1PP2PP1/4K2R b - -">Link</a> | Rapid |
+| KAUTILYA5555 | **ChessHamper888** | win 🥇 | 28/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/r4k1p/5p2/K3p1p1/8/1q3N2/5PPP/7R w - -">Link</a> | Rapid |
 | KoolGuy_49 | **ChessHamper888** | checkmated ❌ | 28/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p3kppp/4p3/2b5/2P2n2/5P2/P6P/3R1K2 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Joshyfart3000 | checkmated ❌ | 28/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/4npk1/2r5/6p1/1Q5p/1P6/P3PPPP/2q1KB1R w K -">Link</a> | Rapid |
 | **ChessHamper888** | gustavobonifacio | win 🥇 | 28/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nr/4bppp/1ppp4/q7/8/2NQ4/PPP1PPPP/R1B1KBNR w KQk -">Link</a> | Rapid |
@@ -197,9 +200,6 @@
 | Kareemmagdy999 | **ChessHamper888** | win 🥇 | 28/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/1pp2p1p/p1n1n1p1/3p4/8/4Q3/PPPP1PPP/R1B1KB1R w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Doooooooonnnnggggg | checkmated ❌ | 27/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/1p5p/2nk2p1/p2p4/7P/2P5/4qr1P/3RK2R w - -">Link</a> | Rapid |
 | abylgey | **ChessHamper888** | resigned ❌ | 27/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2bk1b1r/1p2pppp/p7/3nN3/P7/3PB3/1PP1QPPP/R4RK1 b - -">Link</a> | Rapid |
-| **ChessHamper888** | georgio_999 | checkmated ❌ | 27/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3r2k1/1p2pR2/p1p1p1B1/8/6P1/PPP1PP2/3rK3 w - -">Link</a> | Rapid |
-| **ChessHamper888** | zsnyder27 | checkmated ❌ | 27/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3bp2r/8/2P5/5k1K/P6p/7R w - -">Link</a> | Rapid |
-| miguelobando2002 | **ChessHamper888** | checkmated ❌ | 27/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/5ppp/p2bp3/3kN3/2pPPP2/5K2/PB4PP/7R b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
