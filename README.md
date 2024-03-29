@@ -185,11 +185,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 407 | 176 | 157 |
+| Current | 399 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Shirazour02 | checkmated ❌ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/p1Qn1ppp/8/5P2/3p4/BP4P1/P3q2P/R3K2R w KQ -">Link</a> | Rapid |
 | **ChessHamper888** | daniaddi | timevsinsufficient ⏸️ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5K2/8/8/4qk2/8/8/8/8 b - -">Link</a> | Rapid |
 | sagargar | **ChessHamper888** | resigned ❌ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k1r/p1B1ppb1/B6p/1Pp5/8/7P/P4PP1/1N1R1RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | WiktorAzuma | resigned ❌ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2bq1r1k/ppN4p/6pb/2n2p2/6n1/1P3p2/P1P1PPPP/1R2KBR1 w - -">Link</a> | Rapid |
@@ -199,7 +200,6 @@
 | KAUTILYA5555 | **ChessHamper888** | win 🥇 | 28/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/r4k1p/5p2/K3p1p1/8/1q3N2/5PPP/7R w - -">Link</a> | Rapid |
 | KoolGuy_49 | **ChessHamper888** | checkmated ❌ | 28/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p3kppp/4p3/2b5/2P2n2/5P2/P6P/3R1K2 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Joshyfart3000 | checkmated ❌ | 28/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/4npk1/2r5/6p1/1Q5p/1P6/P3PPPP/2q1KB1R w K -">Link</a> | Rapid |
-| **ChessHamper888** | gustavobonifacio | win 🥇 | 28/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nr/4bppp/1ppp4/q7/8/2NQ4/PPP1PPPP/R1B1KBNR w KQk -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
