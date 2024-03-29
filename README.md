@@ -185,11 +185,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 398 | 176 | 157 |
+| Current | 390 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | bejska | checkmated ❌ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pp6/2p5/2kp4/Q7/8/2P1PP1P/2q1K3 w - -">Link</a> | Rapid |
 | isdhrj1 | **ChessHamper888** | checkmated ❌ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1r1/p2nQp2/6p1/7p/8/1P3K2/P1rN1PPP/qN2R3 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Shirazour02 | checkmated ❌ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/p1Qn1ppp/8/5P2/3p4/BP4P1/P3q2P/R3K2R w KQ -">Link</a> | Rapid |
 | **ChessHamper888** | daniaddi | timevsinsufficient ⏸️ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5K2/8/8/4qk2/8/8/8/8 b - -">Link</a> | Rapid |
@@ -199,7 +200,6 @@
 | Mondos1 | **ChessHamper888** | checkmated ❌ | 28/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/p1p1pP1p/2p3p1/2Np1nN1/5P2/6QP/PP1P1KP1/2B5 b kq -">Link</a> | Rapid |
 | **ChessHamper888** | UdayaKiran2024 | win 🥇 | 28/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k2Q1/7Q/8/2P5/p7/P7/1PP2PP1/4K2R b - -">Link</a> | Rapid |
 | KAUTILYA5555 | **ChessHamper888** | win 🥇 | 28/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/r4k1p/5p2/K3p1p1/8/1q3N2/5PPP/7R w - -">Link</a> | Rapid |
-| KoolGuy_49 | **ChessHamper888** | checkmated ❌ | 28/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p3kppp/4p3/2b5/2P2n2/5P2/P6P/3R1K2 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
