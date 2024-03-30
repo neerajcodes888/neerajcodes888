@@ -185,11 +185,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 389 | 176 | 157 |
+| Current | 396 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Daniel_01230 | win 🥇 | 30/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4B2Q/8/6k1/pP5R/8/8/6P1/4K3 b - -">Link</a> | Rapid |
 | gskakahdhc2737 | **ChessHamper888** | resigned ❌ | 30/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb2/ppp1pN2/6pp/8/8/2NP4/PP1P1PPP/R1BQK2R b KQq -">Link</a> | Rapid |
 | **ChessHamper888** | gkbr44 | insufficient ⏸️ | 30/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2k5/8/1K6/8/B7/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | gigigugugu | agreed ⏸️ | 30/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3kb3/3p4/2p2P2/8/6r1/b3r3/2K5 b - -">Link</a> | Rapid |
@@ -199,7 +200,6 @@
 | Str1vn | **ChessHamper888** | checkmated ❌ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rkb4q/1p5p/2pQ1P2/p1B5/P7/1P1N3P/2PK1PP1/R4B1R b - -">Link</a> | Rapid |
 | **ChessHamper888** | shawnd79 | win 🥇 | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/pRkb2Q1/B2p4/P1b4p/8/4P3/2PB1PPP/4K2R b K -">Link</a> | Rapid |
 | Houssemkh2 | **ChessHamper888** | win 🥇 | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/p4p1p/6p1/2q2p2/2P5/PP1P2P1/7P/1K6 w - -">Link</a> | Rapid |
-| **ChessHamper888** | Illirki | win 🥇 | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2B5/6Q1/8/B5kp/4p3/b5P1/4PP1P/4K2R b K -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
