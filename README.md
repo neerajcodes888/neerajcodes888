@@ -185,21 +185,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 403 | 176 | 157 |
+| Current | 389 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| gskakahdhc2737 | **ChessHamper888** | resigned ❌ | 30/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb2/ppp1pN2/6pp/8/8/2NP4/PP1P1PPP/R1BQK2R b KQq -">Link</a> | Rapid |
+| **ChessHamper888** | gkbr44 | insufficient ⏸️ | 30/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2k5/8/1K6/8/B7/8 b - -">Link</a> | Rapid |
+| **ChessHamper888** | gigigugugu | agreed ⏸️ | 30/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3kb3/3p4/2p2P2/8/6r1/b3r3/2K5 b - -">Link</a> | Rapid |
+| sona7323 | **ChessHamper888** | resigned ❌ | 30/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb2/p3ppp1/2p5/8/2P1P1b1/2P5/PP4Q1/1K1R1R2 b q -">Link</a> | Rapid |
 | fischio19 | **ChessHamper888** | timeout ❌ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/5P2/pP6/P7/7r/3P2K1/2R5 b - -">Link</a> | Rapid |
 | **ChessHamper888** | im_27w | win 🥇 | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2Q3N1/4kp1p/6p1/4B3/1K2PP2/5rPP/7r b - -">Link</a> | Rapid |
 | Str1vn | **ChessHamper888** | checkmated ❌ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rkb4q/1p5p/2pQ1P2/p1B5/P7/1P1N3P/2PK1PP1/R4B1R b - -">Link</a> | Rapid |
 | **ChessHamper888** | shawnd79 | win 🥇 | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/pRkb2Q1/B2p4/P1b4p/8/4P3/2PB1PPP/4K2R b K -">Link</a> | Rapid |
 | Houssemkh2 | **ChessHamper888** | win 🥇 | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/p4p1p/6p1/2q2p2/2P5/PP1P2P1/7P/1K6 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Illirki | win 🥇 | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2B5/6Q1/8/B5kp/4p3/b5P1/4PP1P/4K2R b K -">Link</a> | Rapid |
-| **ChessHamper888** | bejska | checkmated ❌ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pp6/2p5/2kp4/Q7/8/2P1PP1P/2q1K3 w - -">Link</a> | Rapid |
-| isdhrj1 | **ChessHamper888** | checkmated ❌ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1r1/p2nQp2/6p1/7p/8/1P3K2/P1rN1PPP/qN2R3 b - -">Link</a> | Rapid |
-| **ChessHamper888** | Shirazour02 | checkmated ❌ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/p1Qn1ppp/8/5P2/3p4/BP4P1/P3q2P/R3K2R w KQ -">Link</a> | Rapid |
-| **ChessHamper888** | daniaddi | timevsinsufficient ⏸️ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5K2/8/8/4qk2/8/8/8/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
