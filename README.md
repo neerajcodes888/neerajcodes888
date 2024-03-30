@@ -185,11 +185,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 379 | 176 | 157 |
+| Current | 371 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Jordan_95 | **ChessHamper888** | timeout ❌ | 30/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p5p/3kpQ2/3b1p2/5PP1/7P/1P6/3R2K1 b - -">Link</a> | Rapid |
 | mrl935 | **ChessHamper888** | abandoned  | 30/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/1k1N1p2/1B2b1p1/2P5/4R2P/bP2K1P1/3R4 b - c3">Link</a> | Rapid |
 | **ChessHamper888** | miladfarshi | resigned ❌ | 30/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/pp3ppp/2p1p3/q1b3N1/4n3/2N5/PPP1PPPP/R1B1KB1R w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Daniel_01230 | win 🥇 | 30/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4B2Q/8/6k1/pP5R/8/8/6P1/4K3 b - -">Link</a> | Rapid |
@@ -199,7 +200,6 @@
 | sona7323 | **ChessHamper888** | resigned ❌ | 30/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb2/p3ppp1/2p5/8/2P1P1b1/2P5/PP4Q1/1K1R1R2 b q -">Link</a> | Rapid |
 | fischio19 | **ChessHamper888** | timeout ❌ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/5P2/pP6/P7/7r/3P2K1/2R5 b - -">Link</a> | Rapid |
 | **ChessHamper888** | im_27w | win 🥇 | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2Q3N1/4kp1p/6p1/4B3/1K2PP2/5rPP/7r b - -">Link</a> | Rapid |
-| Str1vn | **ChessHamper888** | checkmated ❌ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rkb4q/1p5p/2pQ1P2/p1B5/P7/1P1N3P/2PK1PP1/R4B1R b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
