@@ -185,11 +185,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 410 | 176 | 157 |
+| Current | 402 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ggyan01 | **ChessHamper888** | checkmated ❌ | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2Q/pp1bpp2/6pp/3P4/5BP1/N2n1NP1/P4P2/5K1R b q -">Link</a> | Rapid |
 | **ChessHamper888** | mamadyalameh7667 | checkmated ❌ | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/3kp3/3p2p1/2qP3r/P4P2/1P3K2/4P3/6rq w - -">Link</a> | Rapid |
 | beerboys | **ChessHamper888** | win 🥇 | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pb1kp2q/2p4P/1p6/3P4/4P3/8/4K3 w - -">Link</a> | Rapid |
 | thestranger_holme | **ChessHamper888** | repetition ⏸️ | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1b1r/pppkpQpp/2n3n1/8/2B5/2NP4/PPP2PPP/R1B1K1NR w KQ -">Link</a> | Rapid |
@@ -199,7 +200,6 @@
 | slytherout | **ChessHamper888** | win 🥇 | 1/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5n1/2p4k/8/6P1/2P2P2/PPb1r2q/RN3K2 w - -">Link</a> | Rapid |
 | **ChessHamper888** | ragno85 | win 🥇 | 1/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/1Rp1p2p/B3p1p1/P3n3/4P3/B3b3/2P3PP/4K2R b K -">Link</a> | Rapid |
 | MegaTraktorist | **ChessHamper888** | win 🥇 | 31/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K5q1/2q5/1k6/8/8/8/8/2b5 w - -">Link</a> | Rapid |
-| **ChessHamper888** | imaad_1803 | win 🥇 | 31/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4K3/2k4p/5Q2/8/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
