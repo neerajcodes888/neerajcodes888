@@ -185,11 +185,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 411 | 176 | 157 |
+| Current | 418 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| beerboys | **ChessHamper888** | win 🥇 | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pb1kp2q/2p4P/1p6/3P4/4P3/8/4K3 w - -">Link</a> | Rapid |
 | thestranger_holme | **ChessHamper888** | repetition ⏸️ | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1b1r/pppkpQpp/2n3n1/8/2B5/2NP4/PPP2PPP/R1B1K1NR w KQ -">Link</a> | Rapid |
 | **ChessHamper888** | FreezingCrate | win 🥇 | 1/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/4Q3/Q1k5/2p5/2K5 b - -">Link</a> | Rapid |
 | **ChessHamper888** | ManouSauvage | win 🥇 | 1/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/8/6R1/8/p2p3k/8/P1PK4/8 b - -">Link</a> | Rapid |
@@ -199,7 +200,6 @@
 | MegaTraktorist | **ChessHamper888** | win 🥇 | 31/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K5q1/2q5/1k6/8/8/8/8/2b5 w - -">Link</a> | Rapid |
 | **ChessHamper888** | imaad_1803 | win 🥇 | 31/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4K3/2k4p/5Q2/8/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | BLAKPRINS | checkmated ❌ | 31/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/2p1bN2/1p2p3/p2p1p2/PnbPnB2/2N1K3/2P1Pq2/R2Q1B1r w - -">Link</a> | Rapid |
-| DPine07 | **ChessHamper888** | resigned ❌ | 30/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R2kb1r/p3pp1p/6p1/2q5/5P2/3QP3/4KP1P/6R1 b k -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
