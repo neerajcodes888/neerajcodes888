@@ -185,11 +185,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 402 | 176 | 157 |
+| Current | 419 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | nilouya | win 🥇 | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rk2R3/ppp5/3p4/8/6Q1/8/PPq1PPPP/4KBNR b K -">Link</a> | Rapid |
+| **ChessHamper888** | xn_rio | win 🥇 | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2k1r/p3R1pp/5p2/2Q5/4p3/P1P1P3/2P1BPPP/2B1K2R b K -">Link</a> | Rapid |
 | ggyan01 | **ChessHamper888** | checkmated ❌ | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2Q/pp1bpp2/6pp/3P4/5BP1/N2n1NP1/P4P2/5K1R b q -">Link</a> | Rapid |
 | **ChessHamper888** | mamadyalameh7667 | checkmated ❌ | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/3kp3/3p2p1/2qP3r/P4P2/1P3K2/4P3/6rq w - -">Link</a> | Rapid |
 | beerboys | **ChessHamper888** | win 🥇 | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pb1kp2q/2p4P/1p6/3P4/4P3/8/4K3 w - -">Link</a> | Rapid |
@@ -198,8 +200,6 @@
 | **ChessHamper888** | ManouSauvage | win 🥇 | 1/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/8/6R1/8/p2p3k/8/P1PK4/8 b - -">Link</a> | Rapid |
 | KarimRamsis | **ChessHamper888** | win 🥇 | 1/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/8/4R3/8/KP6/3r2P1/3k4/8 w - -">Link</a> | Rapid |
 | slytherout | **ChessHamper888** | win 🥇 | 1/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5n1/2p4k/8/6P1/2P2P2/PPb1r2q/RN3K2 w - -">Link</a> | Rapid |
-| **ChessHamper888** | ragno85 | win 🥇 | 1/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/1Rp1p2p/B3p1p1/P3n3/4P3/B3b3/2P3PP/4K2R b K -">Link</a> | Rapid |
-| MegaTraktorist | **ChessHamper888** | win 🥇 | 31/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K5q1/2q5/1k6/8/8/8/8/2b5 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
