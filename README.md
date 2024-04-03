@@ -185,11 +185,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 418 | 176 | 157 |
+| Current | 426 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| AlegreAdri | **ChessHamper888** | win 🥇 | 3/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1kb1r/pp2p3/n1bq1ppn/8/Q3pP2/2P3P1/PP5P/RNB1K2R w KQk -">Link</a> | Rapid |
 | **ChessHamper888** | denissdanilkovs | win 🥇 | 3/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B3k3/p4p2/1p2r3/1p6/6b1/N1P3P1/P3P2P/R1B1K1N1 b Q -">Link</a> | Rapid |
 | Santyag027 | **ChessHamper888** | resigned ❌ | 3/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kbnr/pp2pppp/2p5/1B6/1N2P3/2P5/P2P1PPP/R1BQK1NR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | nilouya | win 🥇 | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rk2R3/ppp5/3p4/8/6Q1/8/PPq1PPPP/4KBNR b K -">Link</a> | Rapid |
@@ -199,7 +200,6 @@
 | beerboys | **ChessHamper888** | win 🥇 | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pb1kp2q/2p4P/1p6/3P4/4P3/8/4K3 w - -">Link</a> | Rapid |
 | thestranger_holme | **ChessHamper888** | repetition ⏸️ | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1b1r/pppkpQpp/2n3n1/8/2B5/2NP4/PPP2PPP/R1B1K1NR w KQ -">Link</a> | Rapid |
 | **ChessHamper888** | FreezingCrate | win 🥇 | 1/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/4Q3/Q1k5/2p5/2K5 b - -">Link</a> | Rapid |
-| **ChessHamper888** | ManouSauvage | win 🥇 | 1/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/8/6R1/8/p2p3k/8/P1PK4/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
