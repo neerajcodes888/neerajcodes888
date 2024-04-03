@@ -147,6 +147,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=neerajcodes888&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+
 <div align="left">
   
 # 📊 Leetcode Stats:
