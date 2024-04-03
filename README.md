@@ -147,7 +147,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=neerajcodes888&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-###  Recent Activity
+
 
 <!--START_SECTION:activity-->
 
