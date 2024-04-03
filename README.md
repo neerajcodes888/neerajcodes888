@@ -190,7 +190,7 @@
 <div align="center">
 
 <!--START_SECTION:chessStats-->
-
+<!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
