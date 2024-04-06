@@ -194,11 +194,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 442 | 176 | 157 |
+| Current | 434 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Damn4evr | checkmated ❌ | 6/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/p4pp1/7p/7R/6n1/P5P1/4Pq2/3Q1K2 w - -">Link</a> | Rapid |
+| **ChessHamper888** | yojanbhattarai | stalemate ⏸️ | 6/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1P5/k7/B2Q4/8/5K1p/PP5P/6NR b - -">Link</a> | Rapid |
 | jts2r | **ChessHamper888** | resigned ❌ | 6/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2Rkb1r/1pp1pppp/p7/8/b4Q2/5N2/P4PPP/4K2R b Kkq -">Link</a> | Rapid |
 | **ChessHamper888** | TrottingBed | resigned ❌ | 6/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/ppp2ppp/4p3/3p4/3P4/Pn4P1/1P2PKBP/1N4NR w kq -">Link</a> | Rapid |
 | triabadi_rgg | **ChessHamper888** | win 🥇 | 6/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/4p2p/6p1/6PP/8/4q3/2q5/5K1r w - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | **ChessHamper888** | ulsaa247 | resigned ❌ | 6/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/p2nk2p/b1p1P1pN/4b1R1/8/8/P2BPP2/1R1QK2q w - -">Link</a> | Rapid |
 | **ChessHamper888** | Asl733 | win 🥇 | 6/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4K3/p7/4P3/1P5R/8/2P2k2/8 b - -">Link</a> | Rapid |
 | Munjani256 | **ChessHamper888** | win 🥇 | 6/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kb2/pp2pp2/6p1/Q7/8/6P1/2r3qP/6K1 w - -">Link</a> | Rapid |
-| **ChessHamper888** | Parthipan0709 | win 🥇 | 6/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3Q4/6p1/7k/4PP2/B4K2/8/8 b - -">Link</a> | Rapid |
-| pspjf | **ChessHamper888** | checkmated ❌ | 5/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2br3r/3kQ1R1/1p5p/Pp1P4/5P1P/8/3B4/4K3 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
