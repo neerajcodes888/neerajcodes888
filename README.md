@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 426 | 176 | 157 |
+| Current | 434 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Munjani256 | **ChessHamper888** | win 🥇 | 6/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kb2/pp2pp2/6p1/Q7/8/6P1/2r3qP/6K1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Parthipan0709 | win 🥇 | 6/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3Q4/6p1/7k/4PP2/B4K2/8/8 b - -">Link</a> | Rapid |
 | pspjf | **ChessHamper888** | checkmated ❌ | 5/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2br3r/3kQ1R1/1p5p/Pp1P4/5P1P/8/3B4/4K3 b - -">Link</a> | Rapid |
 | **ChessHamper888** | SafeenT | checkmated ❌ | 5/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp3pp/4pn2/4Q3/8/P5PP/2P1PPB1/3q1K1R w kq -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | KenGooner | **ChessHamper888** | timeout ❌ | 5/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2br1/pp2k1pN/2n1p2p/3n4/8/5B1P/PPPPQPP1/R1B2RK1 b - -">Link</a> | Rapid |
 | UCPD | **ChessHamper888** | checkmated ❌ | 5/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q2k4/1K5Q/8/8/1P6/6P1/8/8 b - -">Link</a> | Rapid |
 | tejasreddy123 | **ChessHamper888** | stalemate ⏸️ | 4/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/8/5KQ1/8/8/8/8/8 b - -">Link</a> | Rapid |
-| **ChessHamper888** | tejasreddy123 | checkmated ❌ | 4/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/R7/2p4k/1p5p/1P6/2n4P/P2p1P2/2R1KB2 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
