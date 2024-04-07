@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 471 | 176 | 157 |
+| Current | 463 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| LinasVan | **ChessHamper888** | checkmated ❌ | 7/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq3r/2pkpQ1p/p1ppB1p1/8/6n1/2N5/P4P1P/R1B1K2R b KQ -">Link</a> | Rapid |
 | PrinceBright000 | **ChessHamper888** | win 🥇 | 7/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/4pp1p/8/7b/8/4b1KP/6B1/5rq1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | PrinceBright000 | resigned ❌ | 7/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k3/pbp1p3/1p1p4/6p1/8/NP4P1/P1K1PP2/3q1Br1 w q -">Link</a> | Rapid |
 | PrinceBright000 | **ChessHamper888** | win 🥇 | 7/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6rk/4r1n1/5b2/8/KP4P1/P4P2/8 w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | kjavoosh | repetition ⏸️ | 6/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/3bk3/8/7p/3K1P2/q5P1/4P2P/7R b - -">Link</a> | Rapid |
 | AsekDs2c | **ChessHamper888** | insufficient ⏸️ | 6/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5K2/8/8/8/4k1b1/8/8 w - -">Link</a> | Rapid |
 | Rovaal23 | **ChessHamper888** | resigned ❌ | 6/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=RQb1k3/6Q1/3pP3/3q4/6Pr/4R2P/8/5BK1 b - -">Link</a> | Rapid |
-| **ChessHamper888** | MKNYAZ | win 🥇 | 6/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/6Rp/8/8/k6P/6P1/Q7/5K1R b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
