@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 470 | 176 | 157 |
+| Current | 478 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| josesillo10 | **ChessHamper888** | win 🥇 | 8/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/4p2p/6pB/4qpP1/8/P1R3K1/2r3BP/8 w - -">Link</a> | Rapid |
 | tiinhtinh | **ChessHamper888** | win 🥇 | 7/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R2b4/2Pk1p1p/8/5N2/8/2PKP3/1B3Pr1/5R2 w - -">Link</a> | Rapid |
 | Shlomyy | **ChessHamper888** | checkmated ❌ | 7/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b5/2p5/p1p4p/8/P1P1P1r1/3B4/4R1PP/1Qk2K2 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Nanookofthewest | win 🥇 | 7/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/pp1b1ppp/2n1N3/4P3/1P2n2P/P4N2/2PBP1B1/R2Q1K1R b - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | LinasVan | **ChessHamper888** | checkmated ❌ | 7/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq3r/2pkpQ1p/p1ppB1p1/8/6n1/2N5/P4P1P/R1B1K2R b KQ -">Link</a> | Rapid |
 | PrinceBright000 | **ChessHamper888** | win 🥇 | 7/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/4pp1p/8/7b/8/4b1KP/6B1/5rq1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | PrinceBright000 | resigned ❌ | 7/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k3/pbp1p3/1p1p4/6p1/8/NP4P1/P1K1PP2/3q1Br1 w q -">Link</a> | Rapid |
-| PrinceBright000 | **ChessHamper888** | win 🥇 | 7/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6rk/4r1n1/5b2/8/KP4P1/P4P2/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
