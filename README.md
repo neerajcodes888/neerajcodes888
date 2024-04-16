@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 414 | 176 | 157 |
+| Current | 422 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | FriedlHL | win 🥇 | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/8/8/7R/2k5/pp6/P7/1K6 b - -">Link</a> | Rapid |
 | night-ruler | **ChessHamper888** | checkmated ❌ | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/pbpppQbp/1pn3p1/8/2B1P3/2NP4/PPP2PPP/R1B1K1NR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | book8700 | agreed ⏸️ | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/1pp3pp/p1nbbp2/8/7N/NP2n1P1/PBP1P1BP/R2Q1K1R w kq -">Link</a> | Rapid |
 | TheOneman06 | **ChessHamper888** | win 🥇 | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/pbppppbp/1p4p1/8/P3P3/2PP4/1P3PPP/RNBQKBNR w KQkq -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | KDN284 | win 🥇 | 15/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkb1r/ppp2p1p/4pn2/3pN1p1/3P4/2N5/PPP1PPPP/R1BQKB1R w KQkq g6">Link</a> | Rapid |
 | **ChessHamper888** | petrovicmina | checkmated ❌ | 15/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/5ppk/4p2p/2Bp1P2/3P4/4P2P/6qr/5RK1 w - -">Link</a> | Rapid |
 | JuanPachessito | **ChessHamper888** | checkmated ❌ | 15/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kR4/p1N2p1r/2B1p2p/2b2bp1/2P2B2/7P/PP4PK/3R4 b - -">Link</a> | Rapid |
-| DreBelly | **ChessHamper888** | resigned ❌ | 15/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rkb1r/pQpbpppp/6B1/8/8/2N5/PP1P1NPP/R1BKR3 b k -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
