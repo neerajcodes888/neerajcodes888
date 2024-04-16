@@ -194,11 +194,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 406 | 176 | 157 |
+| Current | 414 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Tanmayrajguru | **ChessHamper888** | checkmated ❌ | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q4k2/5p2/5P2/1K6/4n3/7p/8/3b4 b - -">Link</a> | Rapid |
+| **ChessHamper888** | tugraelm | win 🥇 | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1r1/ppp2p1p/3p4/5n2/2N5/1PBPb3/P1P1P1PP/R2QKB2 b q -">Link</a> | Rapid |
+| Psplndqvst | **ChessHamper888** | win 🥇 | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/ppp1pp1p/4n1p1/6b1/8/8/PPPR1PPP/2KR4 w kq -">Link</a> | Rapid |
 | Shivam7588 | **ChessHamper888** | checkmated ❌ | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b4r/p4p2/6p1/3QR3/3k1P2/7q/P1P2K2/1N6 b - -">Link</a> | Rapid |
 | **ChessHamper888** | 1nkind | checkmated ❌ | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k3/pp6/n6p/8/Nb6/1P6/P2PPqr1/R2QK2R w KQq -">Link</a> | Rapid |
 | **ChessHamper888** | YOOOOO2030 | win 🥇 | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bQ2k1/pp3ppp/8/8/4P3/BP2pBP1/P4P2/RN2K1NR b KQ -">Link</a> | Rapid |
@@ -206,9 +209,6 @@
 | **ChessHamper888** | FriedlHL | win 🥇 | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/8/8/7R/2k5/pp6/P7/1K6 b - -">Link</a> | Rapid |
 | night-ruler | **ChessHamper888** | checkmated ❌ | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/pbpppQbp/1pn3p1/8/2B1P3/2NP4/PPP2PPP/R1B1K1NR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | book8700 | agreed ⏸️ | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/1pp3pp/p1nbbp2/8/7N/NP2n1P1/PBP1P1BP/R2Q1K1R w kq -">Link</a> | Rapid |
-| TheOneman06 | **ChessHamper888** | win 🥇 | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/pbppppbp/1p4p1/8/P3P3/2PP4/1P3PPP/RNBQKBNR w KQkq -">Link</a> | Rapid |
-| **ChessHamper888** | TheOneman06 | agreed ⏸️ | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/pp1qpp1p/3p4/2p2bp1/8/1P1P1NP1/PbPQPPBP/RN2K2R w KQkq -">Link</a> | Rapid |
-| TheOneman06 | **ChessHamper888** | win 🥇 | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq2kr/2pnppbp/1p4p1/p2P4/P1B5/2P4P/1P4P1/RNB1K1NR w KQ -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
