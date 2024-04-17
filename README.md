@@ -199,6 +199,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Krishnamuraridubey | **ChessHamper888** | timevsinsufficient ⏸️ | 17/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5B2/5B1k/2K5/1P6/P6b/5P2/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | uditjangrax | repetition ⏸️ | 17/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/ppNp2pp/5n2/4Bp2/1b6/1P6/P1PPPPPP/R2QKB1R b KQ -">Link</a> | Rapid |
 | Tanmayrajguru | **ChessHamper888** | checkmated ❌ | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q4k2/5p2/5P2/1K6/4n3/7p/8/3b4 b - -">Link</a> | Rapid |
 | **ChessHamper888** | tugraelm | win 🥇 | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1r1/ppp2p1p/3p4/5n2/2N5/1PBPb3/P1P1P1PP/R2QKB2 b q -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | YOOOOO2030 | win 🥇 | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bQ2k1/pp3ppp/8/8/4P3/BP2pBP1/P4P2/RN2K1NR b KQ -">Link</a> | Rapid |
 | dybelton | **ChessHamper888** | resigned ❌ | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/3p4/3P4/p1R1Qp2/8/1K6/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | FriedlHL | win 🥇 | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/8/8/7R/2k5/pp6/P7/1K6 b - -">Link</a> | Rapid |
-| night-ruler | **ChessHamper888** | checkmated ❌ | 16/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/pbpppQbp/1pn3p1/8/2B1P3/2NP4/PPP2PPP/R1B1K1NR b KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
