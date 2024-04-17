@@ -22,7 +22,7 @@
   ###
 - 🌐 I am from Muzaffarpur , Bihar
 
-- 🔌 Eager to colaborate on  [Query With PDFs](https://github.com/neerajcodes888/Query-With-PDF)
+- 🔌 Eager to colaborate on  [Nutritionist-Expert](https://github.com/neerajcodes888/Nutritionist-Expert)
 
 - 🔭 Analyze and report bugs My  [Library management System](http://ourlms2024.great-site.net)
 
