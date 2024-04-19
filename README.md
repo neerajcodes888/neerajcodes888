@@ -194,11 +194,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 446 | 176 | 157 |
+| Current | 462 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| braport | **ChessHamper888** | win 🥇 | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkbnr/ppp3pp/4b3/4N3/8/1PN5/P2P1PPP/n1BK3R b kq -">Link</a> | Rapid |
+| deepak36367 | **ChessHamper888** | win 🥇 | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/2pp1p2/4p1pp/8/2P5/PP4nP/5qK1/6b1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | nono0063 | win 🥇 | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kbnr/pppp1ppp/5B2/8/4p3/1P4P1/P1PPPP1P/RN1QKBNR b KQkq -">Link</a> | Rapid |
 | FullMoonBird | **ChessHamper888** | win 🥇 | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b5/8/2R5/1p2k3/1PP1P3/8/1r6/K1q5 w - -">Link</a> | Rapid |
 | **ChessHamper888** | ce_est_votre_monde | win 🥇 | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3Nk2p/2Q3p1/4bp2/3Pp3/4P1P1/3B1PBP/R3K2R b KQ -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | **ChessHamper888** | talleendighehehehehe | win 🥇 | 18/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2k2r/p1p1bppp/B2pb2q/4n2P/6P1/NPB5/P1PPPP1R/R2QK3 b Qk -">Link</a> | Rapid |
 | adarsh8103 | **ChessHamper888** | win 🥇 | 17/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1knr/6b1/Bp1ppppp/3N4/4PNn1/1P6/P2K1PPP/R6R w - -">Link</a> | Rapid |
 | **ChessHamper888** | ZEYAD_VIP | resigned ❌ | 17/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk2r/ppp2ppp/8/2bp4/8/1P1P1N2/PBP1PnPP/RN1QKBR1 w Qkq -">Link</a> | Rapid |
-| Krishnamuraridubey | **ChessHamper888** | timevsinsufficient ⏸️ | 17/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5B2/5B1k/2K5/1P6/P6b/5P2/8 w - -">Link</a> | Rapid |
-| **ChessHamper888** | uditjangrax | repetition ⏸️ | 17/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/ppNp2pp/5n2/4Bp2/1b6/1P6/P1PPPPPP/R2QKB1R b KQ -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
