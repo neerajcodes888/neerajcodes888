@@ -199,6 +199,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| SoniaFabroada | **ChessHamper888** | resigned ❌ | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/p1pp1pbp/bp4p1/3B4/4P3/1PPn1NP1/P1KQ1P1P/RNB4R b kq -">Link</a> | Rapid |
+| **ChessHamper888** | CLH78 | win 🥇 | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/2p3p1/2B2p2/1P5p/p6P/b5P1/4KP2/3R4 b - -">Link</a> | Rapid |
 | braport | **ChessHamper888** | win 🥇 | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkbnr/ppp3pp/4b3/4N3/8/1PN5/P2P1PPP/n1BK3R b kq -">Link</a> | Rapid |
 | deepak36367 | **ChessHamper888** | win 🥇 | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/2pp1p2/4p1pp/8/2P5/PP4nP/5qK1/6b1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | nono0063 | win 🥇 | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kbnr/pppp1ppp/5B2/8/4p3/1P4P1/P1PPPP1P/RN1QKBNR b KQkq -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | Nik_221B | **ChessHamper888** | win 🥇 | 18/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/7Q/6p1/4B1P1/3P4/4P2P/4K2R w - -">Link</a> | Rapid |
 | Nik_221B | **ChessHamper888** | win 🥇 | 18/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p2k2/8/8/8/4q3/6q1/1Kr5 w - -">Link</a> | Rapid |
 | **ChessHamper888** | talleendighehehehehe | win 🥇 | 18/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2k2r/p1p1bppp/B2pb2q/4n2P/6P1/NPB5/P1PPPP1R/R2QK3 b Qk -">Link</a> | Rapid |
-| adarsh8103 | **ChessHamper888** | win 🥇 | 17/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1knr/6b1/Bp1ppppp/3N4/4PNn1/1P6/P2K1PPP/R6R w - -">Link</a> | Rapid |
-| **ChessHamper888** | ZEYAD_VIP | resigned ❌ | 17/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk2r/ppp2ppp/8/2bp4/8/1P1P1N2/PBP1PnPP/RN1QKBR1 w Qkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
