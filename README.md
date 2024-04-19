@@ -199,6 +199,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Hammerhead555 | **ChessHamper888** | win 🥇 | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kr2/ppp5/3p2p1/4q1N1/2P1P1br/1P6/P5P1/4R1K1 w - -">Link</a> | Rapid |
+| **ChessHamper888** | Tater_tot1232123 | resigned ❌ | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/pp2pp2/3p4/2p2P1P/8/1P1P4/2n3PP/Q3KB1R w K -">Link</a> | Rapid |
 | **ChessHamper888** | Hildva | timeout ❌ | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/2p2pp1/7p/1p1q1b2/1P2n3/5NP1/N2PPP1P/4KB1R w K -">Link</a> | Rapid |
 | SoniaFabroada | **ChessHamper888** | resigned ❌ | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/p1pp1pbp/bp4p1/3B4/4P3/1PPn1NP1/P1KQ1P1P/RNB4R b kq -">Link</a> | Rapid |
 | **ChessHamper888** | CLH78 | win 🥇 | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/2p3p1/2B2p2/1P5p/p6P/b5P1/4KP2/3R4 b - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | **ChessHamper888** | nono0063 | win 🥇 | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kbnr/pppp1ppp/5B2/8/4p3/1P4P1/P1PPPP1P/RN1QKBNR b KQkq -">Link</a> | Rapid |
 | FullMoonBird | **ChessHamper888** | win 🥇 | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b5/8/2R5/1p2k3/1PP1P3/8/1r6/K1q5 w - -">Link</a> | Rapid |
 | **ChessHamper888** | ce_est_votre_monde | win 🥇 | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3Nk2p/2Q3p1/4bp2/3Pp3/4P1P1/3B1PBP/R3K2R b KQ -">Link</a> | Rapid |
-| Nik_221B | **ChessHamper888** | win 🥇 | 18/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/7Q/6p1/4B1P1/3P4/4P2P/4K2R w - -">Link</a> | Rapid |
-| Nik_221B | **ChessHamper888** | win 🥇 | 18/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p2k2/8/8/8/4q3/6q1/1Kr5 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
