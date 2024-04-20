@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 470 | 176 | 157 |
+| Current | 462 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Camando_7 | checkmated ❌ | 20/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb3k1/pp3r1p/7n/2b2p2/4p3/3P1P2/PB1PPqBP/R2Q1K1R w - -">Link</a> | Rapid |
 | cream55755 | **ChessHamper888** | checkmated ❌ | 20/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/6P1/3KN3/8/1Q6/2Q1k3 b - -">Link</a> | Rapid |
 | **ChessHamper888** | abdou0i | resigned ❌ | 20/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/pp3p1n/6p1/1b6/8/2q5/1b1r4/5K2 w - -">Link</a> | Rapid |
 | uglee0 | **ChessHamper888** | agreed ⏸️ | 20/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2Rkr2/pb2p2p/p1p1Q3/5N2/4N3/8/PbP3PP/4K2R b Kq -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | IzoukaBazuka | win 🥇 | 20/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1p1p/5p2/2b5/8/1P2PP2/P1PP1P1P/RN1QKB1R w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | RSX974 | win 🥇 | 20/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/pppp1ppp/8/2b1N3/3n4/1PP5/PB1PPPPP/RN1QKB1R b KQkq -">Link</a> | Rapid |
 | angelnakov | **ChessHamper888** | win 🥇 | 20/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/ppp1p1bp/5p1n/6p1/1nBP4/2N2N1P/PPP2PP1/R1BQK2R b KQkq -">Link</a> | Rapid |
-| Hammerhead555 | **ChessHamper888** | win 🥇 | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kr2/ppp5/3p2p1/4q1N1/2P1P1br/1P6/P5P1/4R1K1 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
