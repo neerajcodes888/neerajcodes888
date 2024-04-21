@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 470 | 176 | 157 |
+| Current | 462 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| baitium | **ChessHamper888** | resigned ❌ | 21/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1r1/3pppBp/p1pnr1p1/1B3b2/1p1Q4/1P6/P1PP1P1P/R2K2R1 b - -">Link</a> | Rapid |
 | jpeazyy69 | **ChessHamper888** | win 🥇 | 20/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b2k2/1p2p1b1/3p1nB1/1Q6/1P1PKP2/2P5/P2q3n/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Champion_119203 | repetition ⏸️ | 20/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k3r/3qpp2/prp2b1p/1p1p2p1/1P1P2P1/PRP2B1P/3QPP2/3K3R w - -">Link</a> | Rapid |
 | **ChessHamper888** | Camando_7 | checkmated ❌ | 20/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb3k1/pp3r1p/7n/2b2p2/4p3/3P1P2/PB1PPqBP/R2Q1K1R w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | OperaBella | win 🥇 | 20/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1R2k2p/2Q3pP/6P1/4K3/8 b - -">Link</a> | Rapid |
 | Awj-k | **ChessHamper888** | resigned ❌ | 20/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/ppp1ppb1/3p2p1/3P4/4P3/1PP1NN2/PQ1B1P1p/R3KR2 b Qkq -">Link</a> | Rapid |
 | elzahrt | **ChessHamper888** | win 🥇 | 20/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rq1kr1/p1pp4/4p2p/4Pp1N/5P2/8/PP3n1P/3R2RK w - -">Link</a> | Rapid |
-| **ChessHamper888** | IzoukaBazuka | win 🥇 | 20/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1p1p/5p2/2b5/8/1P2PP2/P1PP1P1P/RN1QKB1R w KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
