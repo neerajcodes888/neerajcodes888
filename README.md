@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 453 | 176 | 157 |
+| Current | 445 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| kam2607 | **ChessHamper888** | checkmated ❌ | 21/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1qk1Q1/p1p1p3/1p6/3p2B1/1P6/2P4B/1P3K1P/1N5b b - -">Link</a> | Rapid |
 | IPlayChessIfYouDidntKnow | **ChessHamper888** | checkmated ❌ | 21/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/pb1ppQbp/1p1p2p1/8/2B1P3/2N1B3/PPP2PPP/R3K2R b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Misael2115 | win 🥇 | 21/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k3Q3/2R5/Np6/5p2/8/7P/4PP2/4K3 b - -">Link</a> | Rapid |
 | Bkooore | **ChessHamper888** | checkmated ❌ | 21/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b4k/1p1p3Q/pP2p1p1/6N1/8/7P/5PP1/4R1K1 b - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | jpeazyy69 | **ChessHamper888** | win 🥇 | 20/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b2k2/1p2p1b1/3p1nB1/1Q6/1P1PKP2/2P5/P2q3n/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Champion_119203 | repetition ⏸️ | 20/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k3r/3qpp2/prp2b1p/1p1p2p1/1P1P2P1/PRP2B1P/3QPP2/3K3R w - -">Link</a> | Rapid |
 | **ChessHamper888** | Camando_7 | checkmated ❌ | 20/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb3k1/pp3r1p/7n/2b2p2/4p3/3P1P2/PB1PPqBP/R2Q1K1R w - -">Link</a> | Rapid |
-| cream55755 | **ChessHamper888** | checkmated ❌ | 20/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/6P1/3KN3/8/1Q6/2Q1k3 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
