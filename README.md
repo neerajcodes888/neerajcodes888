@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 437 | 176 | 157 |
+| Current | 429 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| sk9532 | **ChessHamper888** | abandoned  | 23/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1r1/pb1ppp2/1pn5/2p5/7R/4Q1P1/PPP1PPB1/RNB1K1N1 b Qq -">Link</a> | Rapid |
 | TommysCorMezcal | **ChessHamper888** | resigned ❌ | 22/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1B1p1b1/6P1/1p2P2k/1P6/5q2/P1P4Q/2KR2R1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | rain9190 | repetition ⏸️ | 22/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/pp2qpp1/2p1pn1p/3p4/3N4/bP4P1/PBPPPP1P/R2QKB1R w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Emilycs2808 | stalemate ⏸️ | 22/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7Q/8/6p1/4P1P1/Q4Pk1/1K1Q4 b - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | IPlayChessIfYouDidntKnow | **ChessHamper888** | checkmated ❌ | 21/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/pb1ppQbp/1p1p2p1/8/2B1P3/2N1B3/PPP2PPP/R3K2R b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Misael2115 | win 🥇 | 21/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k3Q3/2R5/Np6/5p2/8/7P/4PP2/4K3 b - -">Link</a> | Rapid |
 | Bkooore | **ChessHamper888** | checkmated ❌ | 21/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b4k/1p1p3Q/pP2p1p1/6N1/8/7P/5PP1/4R1K1 b - -">Link</a> | Rapid |
-| **ChessHamper888** | jimmykhx | win 🥇 | 21/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb2/pp3p1r/4b2p/6pP/3Bp3/PP6/2P1PPP1/R2QKB1R b KQq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
