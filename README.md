@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 421 | 176 | 157 |
+| Current | 429 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | HARSH20123 | win 🥇 | 24/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1K6/7p/1P3Q1k/8/4N1Q1/6R1 b - -">Link</a> | Rapid |
 | Simeonlescorpion | **ChessHamper888** | checkmated ❌ | 23/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1K6/8/8/8/2Q5/1Bk5/5Q2/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Nomad_Skateboarding | win 🥇 | 23/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/1p3ppp/p1n5/2pnp3/2Np4/1P4P1/PBPPPP1P/R2QK1NR b KQkq -">Link</a> | Rapid |
 | bixe87 | **ChessHamper888** | checkmated ❌ | 23/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rb3kr/4p1Qp/1q1pN1p1/np6/6B1/8/P4PPP/3R1RK1 b - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | Emilycs2808 | stalemate ⏸️ | 22/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7Q/8/6p1/4P1P1/Q4Pk1/1K1Q4 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Mamo59 | win 🥇 | 22/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Nk2/2Q5/8/p1B5/5P1p/8/P1P1Q3/2K3R1 b - -">Link</a> | Rapid |
 | nvasanth | **ChessHamper888** | checkmated ❌ | 22/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r5k/6Qp/6pB/5p2/1r6/6P1/5P1P/3R1K2 b - -">Link</a> | Rapid |
-| kam2607 | **ChessHamper888** | checkmated ❌ | 21/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1qk1Q1/p1p1p3/1p6/3p2B1/1P6/2P4B/1P3K1P/1N5b b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
