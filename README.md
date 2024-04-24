@@ -199,6 +199,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| shivamsrivastava26 | **ChessHamper888** | win 🥇 | 24/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rbqk2r/p2pp1bp/2pn1pp1/8/1p2B3/1PNP1N2/PBP2PPP/R3K2R w KQk -">Link</a> | Rapid |
+| **ChessHamper888** | shivamsrivastava26 | checkmated ❌ | 24/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/1pp3pp/8/1rK3p1/q2p2P1/2nP1n2/8/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | tiiiiba | win 🥇 | 24/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p1p2p1p/2q1p1p1/8/1P4Q1/3BP3/1BPPNPP1/1R2K2R b K -">Link</a> | Rapid |
 | FROSTYOP1 | **ChessHamper888** | checkmated ❌ | 24/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rq2k2r/p3p3/2B1N1pb/3p2N1/P2P2b1/4P3/1P1K1P1P/n6R b q -">Link</a> | Rapid |
 | **ChessHamper888** | theroce | win 🥇 | 24/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/N2Q2p1/6k1/8/P4K2/4NP1P/8 b - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | **ChessHamper888** | Nomad_Skateboarding | win 🥇 | 23/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/1p3ppp/p1n5/2pnp3/2Np4/1P4P1/PBPPPP1P/R2QK1NR b KQkq -">Link</a> | Rapid |
 | bixe87 | **ChessHamper888** | checkmated ❌ | 23/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rb3kr/4p1Qp/1q1pN1p1/np6/6B1/8/P4PPP/3R1RK1 b - -">Link</a> | Rapid |
 | sk9532 | **ChessHamper888** | abandoned  | 23/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1r1/pb1ppp2/1pn5/2p5/7R/4Q1P1/PPP1PPB1/RNB1K1N1 b Qq -">Link</a> | Rapid |
-| TommysCorMezcal | **ChessHamper888** | resigned ❌ | 22/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1B1p1b1/6P1/1p2P2k/1P6/5q2/P1P4Q/2KR2R1 b - -">Link</a> | Rapid |
-| **ChessHamper888** | rain9190 | repetition ⏸️ | 22/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/pp2qpp1/2p1pn1p/3p4/3N4/bP4P1/PBPPPP1P/R2QKB1R w KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
