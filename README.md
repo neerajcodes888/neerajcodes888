@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 468 | 176 | 157 |
+| Current | 476 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Horuzer | win 🥇 | 25/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2B5/8/8/8/4p3/Q1Q5/2k5/3RK3 b - -">Link</a> | Rapid |
 | knjw | **ChessHamper888** | win 🥇 | 25/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k3/4p3/8/8/2q5/4b1K1/1q4q1 w - -">Link</a> | Rapid |
 | StarGheso | **ChessHamper888** | win 🥇 | 25/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/p3ppbp/2pp2p1/4P3/1p1PN1n1/1B1P4/PP3PPP/1RB1K2R w Kkq -">Link</a> | Rapid |
 | **ChessHamper888** | i_amtozi | win 🥇 | 25/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4k2/bpp5/5p2/1PP5/P2P2P1/3KBP1P/Q7 b - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | El_gran_Roberto | **ChessHamper888** | checkmated ❌ | 25/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1nkr1/p2ppp1N/2p3pp/4B3/1R2P3/8/P1P1NPPP/5RK1 b - -">Link</a> | Rapid |
 | An_Nii | **ChessHamper888** | checkmated ❌ | 25/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/pp1bp3/4pkp1/5p2/5P2/4PK2/3P1R2/5rq1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | cat_killler | win 🥇 | 25/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N1bk1b1r/pp1p1ppp/2n2n2/2q1p1N1/8/1P6/PBPPPPPP/R2QKB1R b KQ -">Link</a> | Rapid |
-| Mirixas | **ChessHamper888** | win 🥇 | 25/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p2Qpk2/p4ppb/3R4/8/q4N2/2r1NPPP/5RK1 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
