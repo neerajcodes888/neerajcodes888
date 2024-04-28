@@ -102,7 +102,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="140" height="40"/></a> 
 </p>
-<h3 align="left">Tools</h3>
+<h3 align="left">Tools :</h3>
 <p align="left"> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/Oracle DB-171515?style=for-the-badge&logo=oracle&logoColor=red" alt="oracle" width="120" height="40"/></a> 
@@ -116,7 +116,7 @@
 <a href="https://replit.com/@NeerajCodes" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" width="180" height="40"/></a>
   
-<h3 align="left">Operating System</h3>
+<h3 align="left">Operating Systems :</h3>
 <p align="left"> 
 <a href="https://www.microsoft.com/en-ca/software-download/windows10" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" width="180" height="40"/></a>
