@@ -194,11 +194,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 476 | 176 | 157 |
+| Current | 491 | 176 | 157 |
 | Best | 450 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Peskdor420 | **ChessHamper888** | win 🥇 | 28/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b3r1/pppkp2p/3p4/8/5q2/2P2N1P/Pn6/3R1KNR w - -">Link</a> | Rapid |
+| killerarmy29 | **ChessHamper888** | win 🥇 | 28/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/3Bp3/6K1/7q/8/8/8/7q w - -">Link</a> | Rapid |
 | **ChessHamper888** | eefa-c | repetition ⏸️ | 28/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/ppp5/1q3k1p/8/4Q3/P1P3P1/1B3b1P/R1KR4 w - -">Link</a> | Rapid |
 | Vettec5 | **ChessHamper888** | win 🥇 | 28/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -">Link</a> | Rapid |
 | MrLiberation | **ChessHamper888** | resigned ❌ | 27/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/p1p1k3/b6p/1p3P2/2p5/2P5/PPB3PP/3RR1K1 b - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | **ChessHamper888** | yuvaanshjain123 | checkmated ❌ | 26/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/p5pp/5p2/8/2b5/3r1pPP/qK3P2/2Q1R3 w - -">Link</a> | Rapid |
 | Kalicloudiee | **ChessHamper888** | resigned ❌ | 26/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1r1/pp1qpp1p/6p1/2P5/3NN3/1PBQ4/P4PPP/1R3RK1 b q -">Link</a> | Rapid |
 | **ChessHamper888** | sasayahud | checkmated ❌ | 26/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/4pppp/pp6/2p5/3p2nN/1P4PB/PBPPPq1P/R2QK2R w KQkq -">Link</a> | Rapid |
-| Ishan0506 | **ChessHamper888** | checkmated ❌ | 26/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b5/p1Q5/2kBp2p/1qP1P3/8/1B5P/P1P2PPR/R3K3 b Q -">Link</a> | Rapid |
-| **ChessHamper888** | jubiscreododasilva | win 🥇 | 25/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p4k1p/1p6/2p5/8/nP4P1/P3KP1P/2R5 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
