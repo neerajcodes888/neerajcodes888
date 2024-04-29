@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 507 | 176 | 157 |
+| Current | 499 | 176 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| roooland98 | **ChessHamper888** | checkmated ❌ | 29/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Rkr/5p1p/6pB/8/8/8/P4PPP/5RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | BAVARI_01 | win 🥇 | 29/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k1r2/ppp5/3b1n2/8/2PQ4/3b1P2/P3q1PP/2R3KR b - -">Link</a> | Rapid |
 | **ChessHamper888** | yuoger | win 🥇 | 28/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/Q7/p2ppbp1/1b6/5n2/4PP2/PBPP1K2/R7 b - -">Link</a> | Rapid |
 | Peskdor420 | **ChessHamper888** | win 🥇 | 28/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b3r1/pppkp2p/3p4/8/5q2/2P2N1P/Pn6/3R1KNR w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | MrLiberation | **ChessHamper888** | resigned ❌ | 27/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/p1p1k3/b6p/1p3P2/2p5/2P5/PPB3PP/3RR1K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | subhash192194mishra | checkmated ❌ | 27/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2k3/p1p5/b7/2pp2p1/P1P1p2b/1P1P4/NBQ1P1B1/2RKq3 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Meteoritenoober | win 🥇 | 27/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/ppp2ppp/2n1pq2/2b2bN1/8/1PNP2P1/PB1QPP1P/R3KB1R w KQkq -">Link</a> | Rapid |
-| **ChessHamper888** | yuvaanshjain123 | checkmated ❌ | 26/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/p5pp/5p2/8/2b5/3r1pPP/qK3P2/2Q1R3 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
