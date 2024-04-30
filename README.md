@@ -194,11 +194,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 507 | 176 | 157 |
+| Current | 491 | 176 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | tknigovind | resigned ❌ | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=">Link</a> | Rapid |
+| **ChessHamper888** | Rookie3605 | checkmated ❌ | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1K6/8/q7/k7/1qq5 w - -">Link</a> | Rapid |
 | Ianbilino | **ChessHamper888** | win 🥇 | 29/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk3/p1p4p/1p2q1p1/8/6P1/8/PPP1K1bP/4R3 w - -">Link</a> | Rapid |
 | roooland98 | **ChessHamper888** | checkmated ❌ | 29/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Rkr/5p1p/6pB/8/8/8/P4PPP/5RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | BAVARI_01 | win 🥇 | 29/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k1r2/ppp5/3b1n2/8/2PQ4/3b1P2/P3q1PP/2R3KR b - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | killerarmy29 | **ChessHamper888** | win 🥇 | 28/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/3Bp3/6K1/7q/8/8/8/7q w - -">Link</a> | Rapid |
 | **ChessHamper888** | eefa-c | repetition ⏸️ | 28/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/ppp5/1q3k1p/8/4Q3/P1P3P1/1B3b1P/R1KR4 w - -">Link</a> | Rapid |
 | Vettec5 | **ChessHamper888** | win 🥇 | 28/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -">Link</a> | Rapid |
-| MrLiberation | **ChessHamper888** | resigned ❌ | 27/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/p1p1k3/b6p/1p3P2/2p5/2P5/PPB3PP/3RR1K1 b - -">Link</a> | Rapid |
-| **ChessHamper888** | subhash192194mishra | checkmated ❌ | 27/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2k3/p1p5/b7/2pp2p1/P1P1p2b/1P1P4/NBQ1P1B1/2RKq3 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
