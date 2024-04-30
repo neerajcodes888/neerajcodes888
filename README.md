@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 467 | 176 | 157 |
+| Current | 459 | 176 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Rohanpaki | resigned ❌ | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/8/7n/5b2/1p1b4/1P2q3/r7/2KQ2N1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | krimmz | win 🥇 | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b1r/ppp2ppp/7n/3N4/3B2bP/1P4P1/P1P1PP2/R2QKB1R b KQ -">Link</a> | Rapid |
 | jx1b71 | **ChessHamper888** | win 🥇 | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3p1kp/2pq1pp1/3p4/3P1Pb1/8/PrP4P/4R1K1 w - -">Link</a> | Rapid |
 | J0llSAM | **ChessHamper888** | checkmated ❌ | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R1knr/1pR4p/4ppp1/1B6/1n2P3/4P3/2P3PP/r1B3K1 b - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | drakefan705 | resigned ❌ | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q3k1/1pp2rpp/6b1/3pB3/6Pb/1P5B/P1PPP2P/R3QK1n w - -">Link</a> | Rapid |
 | **ChessHamper888** | tknigovind | resigned ❌ | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=">Link</a> | Rapid |
 | **ChessHamper888** | Rookie3605 | checkmated ❌ | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1K6/8/q7/k7/1qq5 w - -">Link</a> | Rapid |
-| Ianbilino | **ChessHamper888** | win 🥇 | 29/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk3/p1p4p/1p2q1p1/8/6P1/8/PPP1K1bP/4R3 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
