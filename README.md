@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 491 | 176 | 157 |
+| Current | 483 | 176 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | drakefan705 | resigned ❌ | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q3k1/1pp2rpp/6b1/3pB3/6Pb/1P5B/P1PPP2P/R3QK1n w - -">Link</a> | Rapid |
 | **ChessHamper888** | tknigovind | resigned ❌ | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=">Link</a> | Rapid |
 | **ChessHamper888** | Rookie3605 | checkmated ❌ | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1K6/8/q7/k7/1qq5 w - -">Link</a> | Rapid |
 | Ianbilino | **ChessHamper888** | win 🥇 | 29/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk3/p1p4p/1p2q1p1/8/6P1/8/PPP1K1bP/4R3 w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | Peskdor420 | **ChessHamper888** | win 🥇 | 28/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b3r1/pppkp2p/3p4/8/5q2/2P2N1P/Pn6/3R1KNR w - -">Link</a> | Rapid |
 | killerarmy29 | **ChessHamper888** | win 🥇 | 28/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/3Bp3/6K1/7q/8/8/8/7q w - -">Link</a> | Rapid |
 | **ChessHamper888** | eefa-c | repetition ⏸️ | 28/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/ppp5/1q3k1p/8/4Q3/P1P3P1/1B3b1P/R1KR4 w - -">Link</a> | Rapid |
-| Vettec5 | **ChessHamper888** | win 🥇 | 28/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
