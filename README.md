@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 425 | 176 | 157 |
+| Current | 433 | 176 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| epic408 | **ChessHamper888** | win 🥇 | 4/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2b1pk1/7p/5r1P/8/1P6/P1P3r1/1K2R3 w - -">Link</a> | Rapid |
 | GamalSaidcr7 | **ChessHamper888** | timeout ❌ | 3/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/2pk4/1P1pp1K1/8/3bP3/8/8/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Raditarista | win 🥇 | 3/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B6Q/8/3pN3/8/6n1/3Rk3/4P3/4K3 b - -">Link</a> | Rapid |
 | **ChessHamper888** | MrTillman | resigned ❌ | 2/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1pp1k2p/pq6/2RP2Pb/3KN3/P2r3n/8/2R5 w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | arshad4648 | win 🥇 | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4B3/4p1k1/3p4/6Qp/1p2K2P/5P2/1bP5/7q b - -">Link</a> | Rapid |
 | GabeSC30 | **ChessHamper888** | win 🥇 | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/p1pp1p2/pn2p1pp/8/3PP3/8/1P1P1PPP/RNB1K1NR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | pedromomenti | checkmated ❌ | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1ppp/8/2b1P3/8/1P6/PBPPPqPP/RN1QKBNR w KQkq -">Link</a> | Rapid |
-| **ChessHamper888** | JeffManGuyDude | resigned ❌ | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkbnr/1pp3pp/p2p1p2/4pb2/8/PPN4P/1BnPPPP1/R2QKBNR w KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
