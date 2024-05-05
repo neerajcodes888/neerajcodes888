@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 433 | 176 | 157 |
+| Current | 434 | 176 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | motaleb81 | agreed ⏸️ | 5/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/2p3pp/p1nbb3/3ppp2/1p6/1P1P1NP1/P1P1PPBP/RNBQK2R w KQkq -">Link</a> | Rapid |
 | epic408 | **ChessHamper888** | win 🥇 | 4/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2b1pk1/7p/5r1P/8/1P6/P1P3r1/1K2R3 w - -">Link</a> | Rapid |
 | GamalSaidcr7 | **ChessHamper888** | timeout ❌ | 3/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/2pk4/1P1pp1K1/8/3bP3/8/8/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Raditarista | win 🥇 | 3/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B6Q/8/3pN3/8/6n1/3Rk3/4P3/4K3 b - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | Booisang | **ChessHamper888** | timeout ❌ | 1/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/3nKP2/8/8/1k6 b - -">Link</a> | Rapid |
 | **ChessHamper888** | arshad4648 | win 🥇 | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4B3/4p1k1/3p4/6Qp/1p2K2P/5P2/1bP5/7q b - -">Link</a> | Rapid |
 | GabeSC30 | **ChessHamper888** | win 🥇 | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/p1pp1p2/pn2p1pp/8/3PP3/8/1P1P1PPP/RNB1K1NR b KQkq -">Link</a> | Rapid |
-| **ChessHamper888** | pedromomenti | checkmated ❌ | 30/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1ppp/8/2b1P3/8/1P6/PBPPPqPP/RN1QKBNR w KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
