@@ -199,6 +199,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| mrn9 | **ChessHamper888** | stalemate ⏸️ | 9/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b5/8/p3k3/1q6/3K4/8/8/4q3 w - -">Link</a> | Rapid |
 | **ChessHamper888** | kaanosmans | win 🥇 | 9/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/8/8/3k3Q/2p5/2P5/3P4/6K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | superoscarblack | win 🥇 | 9/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1r2/pp4k1/n1p1N2p/3p1p2/1n6/NP4P1/P2PPPBP/R2QK2R b KQ -">Link</a> | Rapid |
 | rahulpedia2 | **ChessHamper888** | checkmated ❌ | 9/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/pppppQbp/2n3p1/6p1/2B1P3/8/PPP2PPP/RN2K1NR b KQkq -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | Krishnamehar14 | checkmated ❌ | 8/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K7/8/5kp1/5p2/q7/8/8/1r6 w - -">Link</a> | Rapid |
 | **ChessHamper888** | tobjurhk | win 🥇 | 8/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pkpB3Q/1pn5/4p3/1P6/P1PP2P1/5K1P/R6R w - -">Link</a> | Rapid |
 | Kubabek | **ChessHamper888** | abandoned  | 8/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/ppp1p3/3RP1p1/5nB1/2n5/2P2N1P/PP2QPP1/5RK1 b q -">Link</a> | Rapid |
-| **ChessHamper888** | Ff711 | win 🥇 | 7/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbnr/1pp2ppp/p1n5/4p1N1/1P6/P1P4P/3PPPP1/RN1QKB1R b KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
