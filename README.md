@@ -194,11 +194,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 434 | 176 | 157 |
+| Current | 450 | 176 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Zalan1007 | **ChessHamper888** | win 🥇 | 10/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b5/2ppkN1p/pp4p1/4q3/1P5P/P2K4/6P1/8 w - -">Link</a> | Rapid |
+| **ChessHamper888** | 650XTX650 | win 🥇 | 10/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kb1r/1p3p2/p2p1N1p/2p2Np1/4p1n1/1P6/PBPPPPPP/R2QKB1R b KQkq -">Link</a> | Rapid |
 | urmom6969696969696696969 | **ChessHamper888** | checkmated ❌ | 10/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/5Qk1/1p1N2pb/3P1b1p/8/1KP2P1P/5P2/3r4 b - -">Link</a> | Rapid |
 | **ChessHamper888** | 213sunil | resigned ❌ | 10/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2kb1r/1Q2pppp/p1n5/8/P7/2qP4/4BPPP/5K1R w k -">Link</a> | Rapid |
 | mrn9 | **ChessHamper888** | stalemate ⏸️ | 9/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b5/8/p3k3/1q6/3K4/8/8/4q3 w - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | rahulpedia2 | **ChessHamper888** | checkmated ❌ | 9/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/pppppQbp/2n3p1/6p1/2B1P3/8/PPP2PPP/RN2K1NR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Pyrotechsickle | win 🥇 | 9/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r3r/1p1n1p2/1pNb4/2pppbpp/N5n1/3P2P1/P1P1PPBP/1RBQK2R b K -">Link</a> | Rapid |
 | Pugazhendhi_123G | **ChessHamper888** | win 🥇 | 9/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3k1r/5p2/4q3/2p5/2P5/8/5K1q/3q4 w - -">Link</a> | Rapid |
-| Skittish0x00 | **ChessHamper888** | win 🥇 | 9/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk3/pppppp1p/8/8/2P5/2r5/PP1P1Rnb/RNBK4 w q -">Link</a> | Rapid |
-| **ChessHamper888** | Krishnamehar14 | checkmated ❌ | 8/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K7/8/5kp1/5p2/q7/8/8/1r6 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
