@@ -199,6 +199,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| kunnekkadan | **ChessHamper888** | checkmated ❌ | 13/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1k1r/pppp1Q2/5pB1/8/8/6P1/P1N2P1P/4RRK1 b - -">Link</a> | Rapid |
+| **ChessHamper888** | aashi_chauhan | win 🥇 | 13/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/ppppn1pp/4pp2/8/2B1N3/1P2P3/PBPP1PPP/RN1QK2R b KQkq -">Link</a> | Rapid |
 | Binkuricebob | **ChessHamper888** | checkmated ❌ | 12/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1Q3/1pp5/6r1/6p1/8/P1P5/1P3PPP/6K1 b - -">Link</a> | Rapid |
 | lucaprig | **ChessHamper888** | checkmated ❌ | 12/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1kRb/1ppppp1P/1n6/p6B/2PPPB2/1P6/P6P/2K5 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Mukhit45 | win 🥇 | 12/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1pBp/8/2b5/7N/1PN5/P1PPPPPP/R2QKB1R b KQkq -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | **ChessHamper888** | 650XTX650 | win 🥇 | 10/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kb1r/1p3p2/p2p1N1p/2p2Np1/4p1n1/1P6/PBPPPPPP/R2QKB1R b KQkq -">Link</a> | Rapid |
 | urmom6969696969696696969 | **ChessHamper888** | checkmated ❌ | 10/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/5Qk1/1p1N2pb/3P1b1p/8/1KP2P1P/5P2/3r4 b - -">Link</a> | Rapid |
 | **ChessHamper888** | 213sunil | resigned ❌ | 10/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2kb1r/1Q2pppp/p1n5/8/P7/2qP4/4BPPP/5K1R w k -">Link</a> | Rapid |
-| mrn9 | **ChessHamper888** | stalemate ⏸️ | 9/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b5/8/p3k3/1q6/3K4/8/8/4q3 w - -">Link</a> | Rapid |
-| **ChessHamper888** | kaanosmans | win 🥇 | 9/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/8/8/3k3Q/2p5/2P5/3P4/6K1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
