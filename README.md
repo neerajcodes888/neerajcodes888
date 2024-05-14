@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 408 | 176 | 157 |
+| Current | 416 | 176 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| juuiuh | **ChessHamper888** | win 🥇 | 14/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2k2r/p1pp1p1p/b4PpP/P2p4/3b4/5q2/8/1q2Kn2 w k -">Link</a> | Rapid |
 | **ChessHamper888** | Stykol | abandoned  | 14/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/2p3qp/1r1p2p1/3Q1p2/2P1p3/7P/P2PPPBP/n4K1R w - -">Link</a> | Rapid |
 | Edpil2002 | **ChessHamper888** | checkmated ❌ | 13/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1Q1/pbpppn2/1p3b1r/8/8/3P4/PPP2PPP/RN2K1NR b KQq -">Link</a> | Rapid |
 | **ChessHamper888** | mithun1030 | checkmated ❌ | 13/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/pppp1ppp/5q2/4N3/1P4n1/5N2/PBPPPbPP/R2QKB1R w KQkq -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | aashi_chauhan | win 🥇 | 13/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/ppppn1pp/4pp2/8/2B1N3/1P2P3/PBPP1PPP/RN1QK2R b KQkq -">Link</a> | Rapid |
 | Binkuricebob | **ChessHamper888** | checkmated ❌ | 12/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1Q3/1pp5/6r1/6p1/8/P1P5/1P3PPP/6K1 b - -">Link</a> | Rapid |
 | lucaprig | **ChessHamper888** | checkmated ❌ | 12/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1kRb/1ppppp1P/1n6/p6B/2PPPB2/1P6/P6P/2K5 b - -">Link</a> | Rapid |
-| **ChessHamper888** | Mukhit45 | win 🥇 | 12/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1pBp/8/2b5/7N/1PN5/P1PPPPPP/R2QKB1R b KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
