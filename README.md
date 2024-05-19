@@ -194,11 +194,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 424 | 176 | 157 |
+| Current | 425 | 176 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Paulosergiobh | **ChessHamper888** | resigned ❌ | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/pp1pp1b1/1B3n1p/3pN3/1P6/P1NB4/2P2PPP/R2QK2R b KQq -">Link</a> | Rapid |
+| **ChessHamper888** | TipToeTips | win 🥇 | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/p1p1pp1p/1p4p1/3p4/8/1P1N2P1/P1PPP1BP/RN1K3R b kq -">Link</a> | Rapid |
 | roszadakrotkq | **ChessHamper888** | resigned ❌ | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2p1Q2/1p3P2/8/3k4/8/PP2KP2/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | mohanadabd_elmohsen | insufficient ⏸️ | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3K1B2/6k1/8/8/8/8/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Thimothy24 | resigned ❌ | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r4/3p3p/1p5n/4Pp2/3p4/KP1P2P1/P1n1q3/R1B5 w - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | **ChessHamper888** | mikolajbelka69 | win 🥇 | 17/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/ppp2ppQ/3p1q2/4n1N1/8/6P1/P3P2P/R1B1KB1n b Q -">Link</a> | Rapid |
 | **ChessHamper888** | Javier-Cupe-Ascarza12 | win 🥇 | 16/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R3nr/1p4pp/1b2kp2/r7/8/Pn1P1N2/1B2PPPP/3QKB1R b K -">Link</a> | Rapid |
 | priyapd28 | **ChessHamper888** | checkmated ❌ | 15/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2bqk2Q/1p1ppp1p/3n2p1/3P4/2B5/1P3N1P/5PP1/4K2R b K -">Link</a> | Rapid |
-| juuiuh | **ChessHamper888** | win 🥇 | 14/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2k2r/p1pp1p1p/b4PpP/P2p4/3b4/5q2/8/1q2Kn2 w k -">Link</a> | Rapid |
-| **ChessHamper888** | Stykol | abandoned  | 14/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/2p3qp/1r1p2p1/3Q1p2/2P1p3/7P/P2PPPBP/n4K1R w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
