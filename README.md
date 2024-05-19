@@ -199,6 +199,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Carabinieri01 | abandoned  | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k3/8/pp1b1p2/5qp1/4r3/P5K1/2NP3P/3Q3R w q -">Link</a> | Rapid |
+| Carabinieri01 | **ChessHamper888** | win 🥇 | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/p1pp4/8/r7/P3P3/5P1q/2P5/6K1 w q -">Link</a> | Rapid |
 | **ChessHamper888** | nopplioasd | win 🥇 | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1kN3Q1/1p6/1P3P1P/6P1/3KP1B1/2R4R b - -">Link</a> | Rapid |
 | pegasus2335 | **ChessHamper888** | checkmated ❌ | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/8/5Bpk/8/8/2P4Q/1b1n1PPP/5bK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | kingpj1 | win 🥇 | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kbnr/pppp1ppp/2q5/4p3/8/1PN2N2/PBPPPPPP/R2QKB1R w KQkq -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | AnandNimmakuri66 | **ChessHamper888** | win 🥇 | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/pppppnbp/6p1/8/4Pp2/3P1N2/PPP2PPP/RN2K2R w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | indiangamer123 | resigned ❌ | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2bnr/1pp2kpp/p1nq4/4p3/3p4/PP6/1BPPPPPP/R2QKB1R w KQ -">Link</a> | Rapid |
 | **ChessHamper888** | cocci46 | checkmated ❌ | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1pp1/1q6/7p/2N5/2P5/PB1PPbPP/RN1QKB1R w KQkq -">Link</a> | Rapid |
-| Romka11 | **ChessHamper888** | resigned ❌ | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k3/p1N1p2p/2p2b2/6p1/P1B5/1P5P/K2N4/3R1R2 b q -">Link</a> | Rapid |
-| Paulosergiobh | **ChessHamper888** | resigned ❌ | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/pp1pp1b1/1B3n1p/3pN3/1P6/P1NB4/2P2PPP/R2QK2R b KQq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
