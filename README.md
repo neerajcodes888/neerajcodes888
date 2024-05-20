@@ -194,11 +194,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 392 | 176 | 157 |
+| Current | 376 | 176 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Chellmac | checkmated ❌ | 20/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kb1r/ppp1pppp/5n2/8/8/1N3B1b/PPPP1P1P/RNBQKq2 w Qkq -">Link</a> | Rapid |
+| graceface18 | **ChessHamper888** | checkmated ❌ | 20/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1r1/pbpppQ1p/1pn3pb/4p1N1/8/P1NP4/1PP2PPP/1RB1K2R b Kq -">Link</a> | Rapid |
 | ccy83 | **ChessHamper888** | checkmated ❌ | 20/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/2p1RQ2/2bp4/8/1p5P/6P1/3P4/4K3 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Carabinieri01 | abandoned  | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k3/8/pp1b1p2/5qp1/4r3/P5K1/2NP3P/3Q3R w q -">Link</a> | Rapid |
 | Carabinieri01 | **ChessHamper888** | win 🥇 | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/p1pp4/8/r7/P3P3/5P1q/2P5/6K1 w q -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | **ChessHamper888** | kingpj1 | win 🥇 | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kbnr/pppp1ppp/2q5/4p3/8/1PN2N2/PBPPPPPP/R2QKB1R w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Vorhales | checkmated ❌ | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1ppp/8/2b1P3/8/1P6/PBPPPqPP/RN1QKBNR w KQkq -">Link</a> | Rapid |
 | Myroedis | **ChessHamper888** | checkmated ❌ | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/pppppQbp/2n3p1/8/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq -">Link</a> | Rapid |
-| AnandNimmakuri66 | **ChessHamper888** | win 🥇 | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/pppppnbp/6p1/8/4Pp2/3P1N2/PPP2PPP/RN2K2R w KQkq -">Link</a> | Rapid |
-| **ChessHamper888** | indiangamer123 | resigned ❌ | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2bnr/1pp2kpp/p1nq4/4p3/3p4/PP6/1BPPPPPP/R2QKB1R w KQ -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
