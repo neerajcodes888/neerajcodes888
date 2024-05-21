@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 391 | 176 | 157 |
+| Current | 382 | 176 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Walid_gun | **ChessHamper888** | abandoned  | 21/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/ppppppbp/2n3p1/8/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | andreaporco | win 🥇 | 21/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk2r/ppp1ppBp/6p1/8/8/1P2pP1N/P1P1P2P/RN1QKB1R b KQkq -">Link</a> | Rapid |
 | redwoodmiss | **ChessHamper888** | win 🥇 | 21/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nr/3pp2p/5pp1/3Pn3/4K2P/6P1/3q2P1/5q2 w k -">Link</a> | Rapid |
 | **ChessHamper888** | Maxo199 | checkmated ❌ | 21/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/K7/5p2/3k4/6n1/8/1r6/q7 w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | ccy83 | **ChessHamper888** | checkmated ❌ | 20/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/2p1RQ2/2bp4/8/1p5P/6P1/3P4/4K3 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Carabinieri01 | abandoned  | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k3/8/pp1b1p2/5qp1/4r3/P5K1/2NP3P/3Q3R w q -">Link</a> | Rapid |
 | Carabinieri01 | **ChessHamper888** | win 🥇 | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/p1pp4/8/r7/P3P3/5P1q/2P5/6K1 w q -">Link</a> | Rapid |
-| **ChessHamper888** | nopplioasd | win 🥇 | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1kN3Q1/1p6/1P3P1P/6P1/3KP1B1/2R4R b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
