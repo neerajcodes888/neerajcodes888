@@ -199,6 +199,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Maxo199 | checkmated ❌ | 21/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/K7/5p2/3k4/6n1/8/1r6/q7 w - -">Link</a> | Rapid |
+| **ChessHamper888** | Mahdi_2024Y | win 🥇 | 21/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppppppp/8/8/8/1P6/P1PPPPPP/RNBQKBNR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Chellmac | checkmated ❌ | 20/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kb1r/ppp1pppp/5n2/8/8/1N3B1b/PPPP1P1P/RNBQKq2 w Qkq -">Link</a> | Rapid |
 | graceface18 | **ChessHamper888** | checkmated ❌ | 20/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1r1/pbpppQ1p/1pn3pb/4p1N1/8/P1NP4/1PP2PPP/1RB1K2R b Kq -">Link</a> | Rapid |
 | ccy83 | **ChessHamper888** | checkmated ❌ | 20/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/2p1RQ2/2bp4/8/1p5P/6P1/3P4/4K3 b - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | **ChessHamper888** | nopplioasd | win 🥇 | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1kN3Q1/1p6/1P3P1P/6P1/3KP1B1/2R4R b - -">Link</a> | Rapid |
 | pegasus2335 | **ChessHamper888** | checkmated ❌ | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/8/5Bpk/8/8/2P4Q/1b1n1PPP/5bK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | kingpj1 | win 🥇 | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kbnr/pppp1ppp/2q5/4p3/8/1PN2N2/PBPPPPPP/R2QKB1R w KQkq -">Link</a> | Rapid |
-| **ChessHamper888** | Vorhales | checkmated ❌ | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1ppp/8/2b1P3/8/1P6/PBPPPqPP/RN1QKBNR w KQkq -">Link</a> | Rapid |
-| Myroedis | **ChessHamper888** | checkmated ❌ | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/pppppQbp/2n3p1/8/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
