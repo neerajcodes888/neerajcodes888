@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 390 | 176 | 157 |
+| Current | 389 | 176 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| abhishekros | **ChessHamper888** | agreed ⏸️ | 25/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq3b/pp1p2k1/2p1pp2/8/4P3/2N2P2/PPPPK1nP/R1B1Q1R1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Jamshid0118 | checkmated ❌ | 24/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn6/pb2k2p/2p5/1pbp2N1/6Bn/1P6/PBPPPq1P/RN1QK2R w KQ -">Link</a> | Rapid |
 | Laelli0 | **ChessHamper888** | win 🥇 | 24/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nr/2ppp2p/q4pp1/1r1P4/8/BP4P1/2P1QP1P/4b1K1 w k -">Link</a> | Rapid |
 | didarkulymbetov | **ChessHamper888** | win 🥇 | 24/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/3pk2p/5b2/q7/4p3/1P4P1/5P1K/8 w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | Walid_gun | **ChessHamper888** | abandoned  | 21/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/ppppppbp/2n3p1/8/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | andreaporco | win 🥇 | 21/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk2r/ppp1ppBp/6p1/8/8/1P2pP1N/P1P1P2P/RN1QKB1R b KQkq -">Link</a> | Rapid |
 | redwoodmiss | **ChessHamper888** | win 🥇 | 21/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nr/3pp2p/5pp1/3Pn3/4K2P/6P1/3q2P1/5q2 w k -">Link</a> | Rapid |
-| **ChessHamper888** | Maxo199 | checkmated ❌ | 21/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/K7/5p2/3k4/6n1/8/1r6/q7 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
