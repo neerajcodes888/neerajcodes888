@@ -199,6 +199,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | pleaseexplaintherules | checkmated ❌ | 26/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1pp2pp1/p7/8/4N1q1/1P6/P1PPR3/R2K3r w - -">Link</a> | Rapid |
+| **ChessHamper888** | tatan8409 | win 🥇 | 26/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/3N2p1/8/8/3BQ3/1q1PPK2/8/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Dankkemus | win 🥇 | 25/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1R4/2p3p1/1p3p2/4b2p/7P/6P1/P4P2/4K3 b - -">Link</a> | Rapid |
 | sant2406 | **ChessHamper888** | resigned ❌ | 25/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bNk1nr/pppp2bp/4p1p1/8/1nB1P3/8/PPPP1PPP/RNBQK2R b KQkq -">Link</a> | Rapid |
 | abhishekros | **ChessHamper888** | agreed ⏸️ | 25/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq3b/pp1p2k1/2p1pp2/8/4P3/2N2P2/PPPPK1nP/R1B1Q1R1 b - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | didarkulymbetov | **ChessHamper888** | win 🥇 | 24/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/3pk2p/5b2/q7/4p3/1P4P1/5P1K/8 w - -">Link</a> | Rapid |
 | rohitkhannaa | **ChessHamper888** | repetition ⏸️ | 24/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k4/8/8/4K3/8/8/4q3 w - -">Link</a> | Rapid |
 | stevcesel | **ChessHamper888** | checkmated ❌ | 22/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk1nr/p1pppQbp/1p4p1/8/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq -">Link</a> | Rapid |
-| **ChessHamper888** | stevcesel | win 🥇 | 22/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2N5/1B3Q2/1k6/7R/P7/2P5/3PP3/R3K3 b Q -">Link</a> | Rapid |
-| Walid_gun | **ChessHamper888** | abandoned  | 21/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/ppppppbp/2n3p1/8/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
