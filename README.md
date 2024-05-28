@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 389 | 176 | 157 |
+| Current | 397 | 176 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Daaaaayezi | win 🥇 | 28/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q1rk1/1b3pp1/p6p/1pp3b1/1P1pPP2/N5P1/P1PQ2BP/1R2K2R b K f3">Link</a> | Rapid |
 | itachiamatarasu | **ChessHamper888** | checkmated ❌ | 27/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1kQ4/1bpp1N2/p3p2p/4P3/7P/5P2/PPn3P1/R5K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Swapnendu25 | win 🥇 | 27/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R5B/8/Q7/8/4B3/8/k4K2/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | pleaseexplaintherules | checkmated ❌ | 26/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1pp2pp1/p7/8/4N1q1/1P6/P1PPR3/R2K3r w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | abhishekros | **ChessHamper888** | agreed ⏸️ | 25/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq3b/pp1p2k1/2p1pp2/8/4P3/2N2P2/PPPPK1nP/R1B1Q1R1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Jamshid0118 | checkmated ❌ | 24/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn6/pb2k2p/2p5/1pbp2N1/6Bn/1P6/PBPPPq1P/RN1QK2R w KQ -">Link</a> | Rapid |
 | Laelli0 | **ChessHamper888** | win 🥇 | 24/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nr/2ppp2p/q4pp1/1r1P4/8/BP4P1/2P1QP1P/4b1K1 w k -">Link</a> | Rapid |
-| didarkulymbetov | **ChessHamper888** | win 🥇 | 24/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/3pk2p/5b2/q7/4p3/1P4P1/5P1K/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
