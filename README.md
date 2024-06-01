@@ -194,11 +194,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 430 | 176 | 157 |
+| Current | 437 | 176 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | snnuuuuuuu | win 🥇 | 1/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1k4/1q1p1Bp1/8/2b5/8/P1P1PPP1/1N1QKB2 b - -">Link</a> | Rapid |
+| Hussein0509 | **ChessHamper888** | checkmated ❌ | 1/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2P5/4Q3/6p1/8/3kQ1K1 b - -">Link</a> | Rapid |
+| Vitalij1422 | **ChessHamper888** | win 🥇 | 1/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/pppp3p/4p1p1/5p2/2Bb4/N4P2/PPPP1P1P/R1B1K1NR w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | marcelasotov | win 🥇 | 31/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb2rk1/ppp2p1p/1b2pnpP/6N1/1P6/2PB4/PB1P1PP1/RN1QK2R b KQ -">Link</a> | Rapid |
 | **ChessHamper888** | Deniss1983 | win 🥇 | 31/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1kb2/1ppp3p/5r1p/p7/8/1PB3R1/P1PNP1P1/R2QKB2 b Q -">Link</a> | Rapid |
 | Gaurav4190 | **ChessHamper888** | win 🥇 | 31/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/4p3/8/2P5/2P2k2/p7/7P/1b1q2K1 w - -">Link</a> | Rapid |
@@ -206,9 +209,6 @@
 | edelynchee | **ChessHamper888** | win 🥇 | 31/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2bk2r1/pp1p2Pp/8/5q1p/8/2P2p2/PPK5/RN2R3 w - -">Link</a> | Rapid |
 | **ChessHamper888** | kambalala | checkmated ❌ | 30/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk2r/1pp4p/5pp1/1Nb1p3/R1P5/1P5P/3P1q2/3QK1R1 w k -">Link</a> | Rapid |
 | Tybbb | **ChessHamper888** | win 🥇 | 30/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6K1/4q3/n5q1/4pk2/8/8/7P/8 w - -">Link</a> | Rapid |
-| **ChessHamper888** | Israel219 | win 🥇 | 30/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/2k5/1p3Q2/1p1B2P1/8/b1P1P3/3P1P2/4K3 b - -">Link</a> | Rapid |
-| Israel219 | **ChessHamper888** | checkmated ❌ | 30/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkR2/2ppp2p/pp4pB/6P1/2B1P1n1/1P6/P1PPK2P/RN6 b q -">Link</a> | Rapid |
-| **ChessHamper888** | Tom9819 | stalemate ⏸️ | 30/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q6Q/3Q4/1k1PN3/8/8/5K2/5P2/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
