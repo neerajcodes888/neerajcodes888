@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 437 | 176 | 157 |
+| Current | 445 | 176 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Hflembo | win 🥇 | 1/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q1k1/1p3pp1/1p1q3p/5b2/3N4/7P/P3PPP1/RN2KB1R b KQ -">Link</a> | Rapid |
 | **ChessHamper888** | snnuuuuuuu | win 🥇 | 1/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1k4/1q1p1Bp1/8/2b5/8/P1P1PPP1/1N1QKB2 b - -">Link</a> | Rapid |
 | Hussein0509 | **ChessHamper888** | checkmated ❌ | 1/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2P5/4Q3/6p1/8/3kQ1K1 b - -">Link</a> | Rapid |
 | Vitalij1422 | **ChessHamper888** | win 🥇 | 1/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/pppp3p/4p1p1/5p2/2Bb4/N4P2/PPPP1P1P/R1B1K1NR w KQkq -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | Adu2255 | checkmated ❌ | 31/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/p1p1p2p/8/5bpP/5P2/nP6/P2PP2R/2RQK1q1 w - -">Link</a> | Rapid |
 | edelynchee | **ChessHamper888** | win 🥇 | 31/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2bk2r1/pp1p2Pp/8/5q1p/8/2P2p2/PPK5/RN2R3 w - -">Link</a> | Rapid |
 | **ChessHamper888** | kambalala | checkmated ❌ | 30/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk2r/1pp4p/5pp1/1Nb1p3/R1P5/1P5P/3P1q2/3QK1R1 w k -">Link</a> | Rapid |
-| Tybbb | **ChessHamper888** | win 🥇 | 30/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6K1/4q3/n5q1/4pk2/8/8/7P/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
