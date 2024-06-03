@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 453 | 176 | 157 |
+| Current | 445 | 176 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | tahmidms | checkmated ❌ | 3/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/6p1/p4p1p/8/8/3Q4/1q3PPP/bK5R w - -">Link</a> | Rapid |
 | **ChessHamper888** | thetootyfruity | win 🥇 | 2/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1n1/ppp3Bp/2n3p1/3p4/5p2/1P6/P1PPP1P1/RN1QKBNR b KQq -">Link</a> | Rapid |
 | danoneadran | **ChessHamper888** | win 🥇 | 2/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/6k1/8/2q3K1 w - -">Link</a> | Rapid |
 | p0my_pomy | **ChessHamper888** | resigned ❌ | 2/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nQ/pbp1p3/1p4p1/6P1/2B5/8/P4K2/2R5 b q -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | Vitalij1422 | **ChessHamper888** | win 🥇 | 1/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/pppp3p/4p1p1/5p2/2Bb4/N4P2/PPPP1P1P/R1B1K1NR w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | marcelasotov | win 🥇 | 31/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb2rk1/ppp2p1p/1b2pnpP/6N1/1P6/2PB4/PB1P1PP1/RN1QK2R b KQ -">Link</a> | Rapid |
 | **ChessHamper888** | Deniss1983 | win 🥇 | 31/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1kb2/1ppp3p/5r1p/p7/8/1PB3R1/P1PNP1P1/R2QKB2 b Q -">Link</a> | Rapid |
-| Gaurav4190 | **ChessHamper888** | win 🥇 | 31/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/4p3/8/2P5/2P2k2/p7/7P/1b1q2K1 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
