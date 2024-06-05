@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 442 | 176 | 157 |
+| Current | 450 | 176 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Holapaloma2023 | **ChessHamper888** | win 🥇 | 5/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/2kpp3/8/8/5P2/4n3/6PP/4q1K1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | pedroleoba | win 🥇 | 5/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/pp2k2p/8/2p1p1p1/3P4/2P4P/P4r2/RN2K3 b - -">Link</a> | Rapid |
 | jbog_makes_oediv | **ChessHamper888** | win 🥇 | 5/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/K1ppkp2/P3p1p1/8/3q1P2/8/8/1q6 w - -">Link</a> | Rapid |
 | **ChessHamper888** | jbog_makes_oediv | resigned ❌ | 5/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kbnr/pp5p/6p1/qb2p1p1/7n/1P1QP2P/P3KP2/RN4R1 w kq -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | MCAL_F_S_L_2023 | **ChessHamper888** | checkmated ❌ | 5/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/p1ppnQ2/1pn2b1p/8/8/P1P1BN2/BP5P/RN2K2R b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Lyz077 | win 🥇 | 5/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Bnbqkbnr/p1p2ppp/3pp3/1p6/8/1P4P1/P1PPPP1P/RNBQK1NR b KQk -">Link</a> | Rapid |
 | adwatc23 | **ChessHamper888** | checkmated ❌ | 5/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p7/k1Qp3p/3N2p1/1p1P4/1N2B1P1/PPP1qP1P/R4RK1 b - -">Link</a> | Rapid |
-| **ChessHamper888** | charlesetsimona | win 🥇 | 5/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3qB/p2r4/b1p3p1/3p4/P5Q1/N3P3/2PP1P2/4K2R b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
