@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 376 | 176 | 157 |
+| Current | 385 | 176 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| jatink_0 | **ChessHamper888** | win 🥇 | 5/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/7p/5p2/8/2P5/1P3b1P/5Pr1/3q1K2 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Hetanshi011 | resigned ❌ | 4/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3r1k/pp3ppp/3p3n/3n4/2B5/1P2P3/P1PP1PPP/4K2R w K -">Link</a> | Rapid |
 | GTaras1 | **ChessHamper888** | checkmated ❌ | 4/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Rk4/R4p1r/p2N3p/8/8/5p2/P5PP/6K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | AbhishekJoshii | resigned ❌ | 4/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/pp2bp2/3P2p1/4Q3/8/P2P2p1/1B3q2/RN1K3r w q -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | Soulhuntter | win 🥇 | 4/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/8/7p/5pp1/3Bk3/4P1P1/2Q1PK1P/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Ilyasolovyew | checkmated ❌ | 3/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p2p2pp/1r3p2/8/p1q3PP/B2b4/K3p3/R3Q3 w - -">Link</a> | Rapid |
 | fujisan2022 | **ChessHamper888** | resigned ❌ | 3/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=">Link</a> | Rapid |
-| Ilyasolovyew | **ChessHamper888** | checkmated ❌ | 3/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1N6/7p/R6Q/7k/b1B1P1p1/P5P1/5PKP/3q4 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
