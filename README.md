@@ -22,7 +22,7 @@
   ###
 - 🌐 I am from Muzaffarpur , Bihar
 
-- 🔌 Welcome to test and anlayze  [Smart Image Descriptor](https://github.com/neerajcodes888/)
+- 🔌 Welcome to test and anlayze  [Smart Image Descriptor](https://github.com/neerajcodes888/Smart-Image-Descriptor)
 
 - 🔭 Analyze and report bugs My  [Library management System](http://ourlms2024.great-site.net)
 
