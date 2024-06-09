@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 538 | 324 | 157 |
+| Current | 546 | 324 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| rehankhan75 | **ChessHamper888** | win 🥇 | 9/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k4/p7/1p3p2/1P3P2/2b1K1r1/r7/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | DaddyPark | win 🥇 | 9/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/p7/1k1Q4/1p1p2p1/8/1P4P1/PBbP1P2/RN2K3 b Q -">Link</a> | Rapid |
 | Marquis323 | **ChessHamper888** | win 🥇 | 9/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rqk1nr/pbpp1p2/1p2p1pp/3P4/2nbP3/2P4N/PP3PPP/RNB1K2R w KQk -">Link</a> | Rapid |
 | **ChessHamper888** | JennyBambu | resigned ❌ | 9/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/5pk1/8/8/2p2P2/4P2B/4K3/2q4q w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | chan71 | **ChessHamper888** | win 🥇 | 9/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Nnbq3r/p2pkpbp/1pp1p1p1/6n1/2B5/8/PPPP1PPP/R1B1K1NR w KQ -">Link</a> | Rapid |
 | Absurd_Watermelon | **ChessHamper888** | win 🥇 | 9/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3p2k1/6P1/4P2K/3q4/p6P/8/8 w - -">Link</a> | Rapid |
 | arie204 | **ChessHamper888** | win 🥇 | 9/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1q1k2/p1pp4/1pn4N/7p/2Pbn3/6P1/P4P1P/5RK1 w - -">Link</a> | Rapid |
-| **ChessHamper888** | IvanKergetic | win 🥇 | 8/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/p1ppk3/1p2p3/1P4Q1/8/2P1Pb2/P2P1P2/4K3 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
