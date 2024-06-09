@@ -194,21 +194,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 513 | 324 | 157 |
+| Current | 538 | 324 | 157 |
 | Best | 499 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | kinunsintamisig | checkmated ❌ | 9/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K4k2/5pp1/5n2/8/r7/8/8/1q6 w - -">Link</a> | Rapid |
+| **ChessHamper888** | touno14 | win 🥇 | 9/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kbr1/p1p3pp/4p3/1pn1R3/8/1P4P1/PBPP2bP/RN1QK3 b Q -">Link</a> | Rapid |
+| chan71 | **ChessHamper888** | win 🥇 | 9/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Nnbq3r/p2pkpbp/1pp1p1p1/6n1/2B5/8/PPPP1PPP/R1B1K1NR w KQ -">Link</a> | Rapid |
+| Absurd_Watermelon | **ChessHamper888** | win 🥇 | 9/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3p2k1/6P1/4P2K/3q4/p6P/8/8 w - -">Link</a> | Rapid |
+| arie204 | **ChessHamper888** | win 🥇 | 9/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1q1k2/p1pp4/1pn4N/7p/2Pbn3/6P1/P4P1P/5RK1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | IvanKergetic | win 🥇 | 8/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/p1ppk3/1p2p3/1P4Q1/8/2P1Pb2/P2P1P2/4K3 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Jagurana | win 🥇 | 8/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/ppp2p1p/5p2/8/3p4/1P4N1/P1PPP2N/R2QKB1R b KQkq -">Link</a> | Blitz |
 | ANormaIPeople | **ChessHamper888** | win 🥇 | 8/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1R6/1P3kr1/P7/6K1/8/8 w - -">Link</a> | Blitz |
 | annoyNoMore | **ChessHamper888** | win 🥇 | 8/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2kp1pb1/r2p3p/1n3P2/pP6/3K4/8/8 w - -">Link</a> | Blitz |
 | sikisken_hamster | **ChessHamper888** | win 🥇 | 8/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/p2rK1k1/6p1/p1n4P/6b1/6P1/8/8 w - -">Link</a> | Rapid |
-| **ChessHamper888** | himanshukaru | win 🥇 | 8/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6QR/8/Pp2kP2/3R2P1/P7/4K3 b - -">Link</a> | Rapid |
-| gm26005 | **ChessHamper888** | checkmated ❌ | 8/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p1p1q1b1/1pb1pkQ1/n7/5P2/2P5/PP1P3P/RNB1K1R1 b Q -">Link</a> | Rapid |
-| **ChessHamper888** | gm26005 | checkmated ❌ | 8/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/8/3N4/2p4N/8/1k1P4/p7/K3r3 w - -">Link</a> | Rapid |
-| gm26005 | **ChessHamper888** | win 🥇 | 8/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n2kb1r/r1pp3p/p3p1p1/8/2NP4/4P3/PPPB1PP1/R4K1q w k -">Link</a> | Rapid |
-| **ChessHamper888** | Nurs007Bankai | repetition ⏸️ | 8/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/1pN1k1pp/3p1pbn/p3b3/4P3/P4P2/3PQKPP/1q3B1R b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
