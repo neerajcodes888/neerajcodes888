@@ -199,6 +199,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | andresperotti | checkmated ❌ | 11/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/p1P5/P5k1/8/6q1/3K1r2 w - -">Link</a> | Rapid |
+| zenkenobi | **ChessHamper888** | win 🥇 | 11/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk2r/p1pp2bp/1p2p1p1/5P2/2B2N2/3P1b2/PPP2PPP/R1B1K2R w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | SHREY-45 | checkmated ❌ | 11/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk1nr/pBp2ppp/8/5b2/1b6/2RP2P1/4PP1P/2q1K1NR w Kk -">Link</a> | Rapid |
 | **ChessHamper888** | sindroJD | resigned ❌ | 11/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp3pp/8/1Nbp4/3N1p2/1PKP1P1b/PBP1P2P/R4n1q w kq -">Link</a> | Rapid |
 | tezec | **ChessHamper888** | win 🥇 | 11/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k7/3p4/2b5/2B3p1/1P6/pP2K1P1/P6P/7q w - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | mario8120 | **ChessHamper888** | checkmated ❌ | 11/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk1nr/p1pppQbp/1p4p1/8/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | 2elefantetelepatadeguerra | win 🥇 | 10/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp2kppp/4p3/2Q5/8/2b3P1/P5KP/7R b - -">Link</a> | Rapid |
 | Lechar10 | **ChessHamper888** | win 🥇 | 10/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/3pk3/p4b2/2P1p1p1/4R3/8/P1n3PP/7K w - -">Link</a> | Rapid |
-| **ChessHamper888** | MisterH90 | resigned ❌ | 10/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/ppp2pp1/2nb4/1N1pp3/1P6/P6q/RBPPPP2/3Q1KNr w - -">Link</a> | Rapid |
-| binklebonkletinkletonkle | **ChessHamper888** | win 🥇 | 10/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/Q7/4k3/6K1/8/5q1q/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
