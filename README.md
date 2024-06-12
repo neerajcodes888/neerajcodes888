@@ -194,11 +194,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 545 | 324 | 157 |
+| Current | 544 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Blackmamba2501 | **ChessHamper888** | resigned ❌ | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3B4/rbpp4/ppn1p1Q1/2b1kp2/2B3P1/P1P5/1P6/RN2K3 b Q -">Link</a> | Rapid |
+| **ChessHamper888** | jain_alaudeen | win 🥇 | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k3p/1p3p1b/1N2n3/P7/1Pr2PP1/4P2P/R2QK1R1 b Q -">Link</a> | Rapid |
 | **ChessHamper888** | SAITAMAS3XY | win 🥇 | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4B1k1/p1p5/1p6/8/3p4/PK1P1R2/4P3/8 b - -">Link</a> | Rapid |
 | stavrosperakis | **ChessHamper888** | win 🥇 | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2r2/4pk1p/8/4p1P1/8/6P1/5q1P/1K6 w - -">Link</a> | Rapid |
 | **ChessHamper888** | andresperotti | checkmated ❌ | 11/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/p1P5/P5k1/8/6q1/3K1r2 w - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | **ChessHamper888** | sindroJD | resigned ❌ | 11/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp3pp/8/1Nbp4/3N1p2/1PKP1P1b/PBP1P2P/R4n1q w kq -">Link</a> | Rapid |
 | tezec | **ChessHamper888** | win 🥇 | 11/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k7/3p4/2b5/2B3p1/1P6/pP2K1P1/P6P/7q w - -">Link</a> | Rapid |
 | scaryjerry2112 | **ChessHamper888** | win 🥇 | 11/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/ppp1ppbp/6p1/3P4/6b1/2P5/PP1P1PPP/RNB1KBNR w KQkq -">Link</a> | Rapid |
-| **ChessHamper888** | darrelsinclair | checkmated ❌ | 11/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb2rk1/pppp3p/6p1/8/4p3/1P2N2P/P1PPPqB1/R2QK2R w KQ -">Link</a> | Rapid |
-| mario8120 | **ChessHamper888** | checkmated ❌ | 11/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk1nr/p1pppQbp/1p4p1/8/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
