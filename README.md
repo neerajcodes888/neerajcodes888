@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 536 | 324 | 157 |
+| Current | 528 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| parul123456788 | **ChessHamper888** | checkmated ❌ | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/7Q/8/7k/P3B2B/2P2P2/3K4/8 b - -">Link</a> | Rapid |
 | RAeVENiwnl | **ChessHamper888** | win 🥇 | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/2p5/pp2p1pp/4b3/8/P4P1P/1PP2P2/R1B2RK1 w kq -">Link</a> | Rapid |
 | **ChessHamper888** | AG2380 | win 🥇 | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/1PR2ppp/8/3p4/8/1k1P1PPN/1b5P/3K4 b - -">Link</a> | Rapid |
 | AG2380 | **ChessHamper888** | win 🥇 | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2p4/3kq3/4q2K/7P/8/8/8 w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | Crestw | checkmated ❌ | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2ppp/2n1b3/3p4/4n3/PP2P2P/1BPNPqB1/R2Q1KNR w - -">Link</a> | Rapid |
 | **ChessHamper888** | PaulT83 | win 🥇 | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/pp4Rk/2bp1Q2/2bp3p/8/1P2P2B/P1PP4/R3K3 b Q -">Link</a> | Rapid |
 | sgmaid | **ChessHamper888** | checkmated ❌ | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5knr/p4Q2/4p2p/4P3/8/8/2q3rP/3R1R1K b - -">Link</a> | Rapid |
-| KzARS777 | **ChessHamper888** | checkmated ❌ | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1kn1/p1pp1Q2/bp3b1p/1N6/2B1Pp2/8/PPP2PPP/R4RK1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
