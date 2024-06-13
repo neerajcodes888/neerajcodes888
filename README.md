@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 512 | 324 | 157 |
+| Current | 520 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Sunaya1994 | **ChessHamper888** | win 🥇 | 13/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nB/1bpq3p/6p1/p2P4/2p5/2N5/PPP2PPP/R4RK1 w q -">Link</a> | Rapid |
 | **ChessHamper888** | AlejoFG | abandoned  | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/pp4pk/2nQ2n1/8/1P4q1/P2P4/1B1P1P2/RN3BK1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | heyder001 | checkmated ❌ | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3rk1/5p1p/p5p1/1pp5/3p3n/PP4b1/1BPP1q2/RN1Q1K2 w - -">Link</a> | Rapid |
 | parul123456788 | **ChessHamper888** | checkmated ❌ | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/7Q/8/7k/P3B2B/2P2P2/3K4/8 b - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | AG2380 | checkmated ❌ | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kb1r/pp1pp1pp/2p5/5p2/6n1/1P3NP1/PBPPPqBP/RN1QK1R1 w Qkq -">Link</a> | Rapid |
 | AG2380 | **ChessHamper888** | checkmated ❌ | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/1b1n2q1/ppp1p3/3k1p2/2PP1Q2/1P6/P4K1P/RN3R2 b - -">Link</a> | Rapid |
 | **ChessHamper888** | AG2380 | win 🥇 | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6p/3P1B2/2Q5/2P5/1P4P1/P1k4P/RN3K2 b - -">Link</a> | Rapid |
-| **ChessHamper888** | Crestw | checkmated ❌ | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2ppp/2n1b3/3p4/4n3/PP2P2P/1BPNPqB1/R2Q1KNR w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
