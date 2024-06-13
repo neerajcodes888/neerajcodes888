@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 512 | 324 | 157 |
+| Current | 520 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| PrithwishChatterjee | **ChessHamper888** | win 🥇 | 13/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/4p1k1/P3Pp2/6pK/1p1q4/1P5r/2P1b3/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | prathapreddy24122 | win 🥇 | 13/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Nk/Q5Q1/7P/8/8/8/2p5/R3K3 b Q -">Link</a> | Rapid |
 | **ChessHamper888** | rhygolo | checkmated ❌ | 13/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1p2pp1/1p5p/1N6/Pn6/1PB4b/2q5/2K5 w - -">Link</a> | Rapid |
 | SHIVANSHHU | **ChessHamper888** | resigned ❌ | 13/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1knr/1b1np1b1/1pp1N1p1/p6p/P1B5/1PN5/2PB1PPP/R2Q1RK1 b - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | parul123456788 | **ChessHamper888** | checkmated ❌ | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/7Q/8/7k/P3B2B/2P2P2/3K4/8 b - -">Link</a> | Rapid |
 | RAeVENiwnl | **ChessHamper888** | win 🥇 | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/2p5/pp2p1pp/4b3/8/P4P1P/1PP2P2/R1B2RK1 w kq -">Link</a> | Rapid |
 | **ChessHamper888** | AG2380 | win 🥇 | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/1PR2ppp/8/3p4/8/1k1P1PPN/1b5P/3K4 b - -">Link</a> | Rapid |
-| AG2380 | **ChessHamper888** | win 🥇 | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2p4/3kq3/4q2K/7P/8/8/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
