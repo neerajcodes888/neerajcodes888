@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 545 | 324 | 157 |
+| Current | 537 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | sharmanamita7 | resigned ❌ | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2r2k/qp6/p1p3p1/6Np/2P1PR1P/PP6/R2Pb3/4K3 w - -">Link</a> | Rapid |
 | Vb_20 | **ChessHamper888** | resigned ❌ | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q3kr/2p1Npb1/6p1/1pN1P2p/1P3B1P/r1P3P1/4QP2/3R1RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | sss_bpsss | win 🥇 | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/p1k5/5P2/3N3K/P4r2/8/8 b - -">Link</a> | Rapid |
 | nberk17 | **ChessHamper888** | win 🥇 | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/2pp2bp/pp2p3/5pN1/2B2P2/2P5/PP1P1P1P/RNB2RK1 b kq -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | jagadeesh08 | win 🥇 | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/1pp2p1p/1bPpbp1n/p7/5P2/P3P2P/2PP2BR/RN1QK1N1 b Qkq -">Link</a> | Rapid |
 | **ChessHamper888** | aarushidegaonkar | stalemate ⏸️ | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3K1/2p5/5q1r/p7/8/8/8/8 w - -">Link</a> | Rapid |
 | naemzfran | **ChessHamper888** | checkmated ❌ | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/pbpppQbp/1p4p1/8/2B1P3/7N/PPPP1PPP/RNB1K2R b KQkq -">Link</a> | Rapid |
-| **ChessHamper888** | PR4T1KP4TiL | checkmated ❌ | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/1p3ppp/2p5/p2nN3/PP6/3Pp1PP/1B2PqB1/RN1QK2R w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
