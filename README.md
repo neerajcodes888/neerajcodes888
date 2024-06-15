@@ -194,11 +194,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 537 | 324 | 157 |
+| Current | 520 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| naemzfran | **ChessHamper888** | checkmated ❌ | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/pbpppQbp/1p4p1/8/2B1P3/7N/PPPP1PPP/RNB1K2R b KQkq -">Link</a> | Rapid |
+| **ChessHamper888** | PR4T1KP4TiL | checkmated ❌ | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/1p3ppp/2p5/p2nN3/PP6/3Pp1PP/1B2PqB1/RN1QK2R w - -">Link</a> | Rapid |
 | Tranxxxx | **ChessHamper888** | win 🥇 | 14/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/3pppb1/p2p2pp/1p1b4/2B1P3/4BN2/PPP2PPP/R4RK1 w - -">Link</a> | Rapid |
 | Ningrat24 | **ChessHamper888** | win 🥇 | 14/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kr2/8/p3pK2/1p6/8/7P/P5r1/4q3 w - -">Link</a> | Rapid |
 | yessiriamgaming | **ChessHamper888** | win 🥇 | 14/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/4pk2/1p6/r5K1/3nbP2/8/7P/8 w - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | justoddchess | **ChessHamper888** | resigned ❌ | 14/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2k2r/p1q1p2p/6p1/1P2Np2/2PPn3/1P2P1P1/1B2BP2/R2QR1K1 b k c3">Link</a> | Rapid |
 | alok1916 | **ChessHamper888** | checkmated ❌ | 14/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p5Rk/3pN2p/3P4/1KPP4/1PB4q/P7/8 b - -">Link</a> | Rapid |
 | Nikhil_636 | **ChessHamper888** | resigned ❌ | 14/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/4p1k1/6p1/8/7P/2N5/P4R2/2Q1K3 b - -">Link</a> | Rapid |
-| **ChessHamper888** | LeTiroirACulotte | resigned ❌ | 14/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2rnr/p1p3p1/1p2b3/nP1p3p/8/P1PPbpq1/RBK1Q2N/8 w - -">Link</a> | Rapid |
-| **ChessHamper888** | Leopremoli99 | win 🥇 | 14/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2ppp/2npbB2/2b5/4Bp2/PP4PP/R1PPP2R/1N1QK1N1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
