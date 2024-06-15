@@ -194,11 +194,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 514 | 324 | 157 |
+| Current | 497 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | jimmy03lad | checkmated ❌ | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/p6p/1p1p4/1P1R1p2/P4P1P/4rKP1/2P1r3/8 w - -">Link</a> | Rapid |
+| **ChessHamper888** | JangMinKim | resigned ❌ | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rk3r/3n2pp/5p2/8/4KP2/1p4PP/p3P3/R7 w - -">Link</a> | Rapid |
 | Godfather1225 | **ChessHamper888** | win 🥇 | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/p1p3bp/1p3pp1/8/4P3/1b6/PPPP1PPP/RNB1K2R w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | eliveltontp | win 🥇 | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppp5/8/4R3/8/PPPk1K2/8/8 b - -">Link</a> | Rapid |
 | Arun-Varma | **ChessHamper888** | win 🥇 | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk2r/1b1ppp2/6p1/1Bp3N1/P6P/N7/2P2P1K/b7 w kq -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | **ChessHamper888** | Nzokal | checkmated ❌ | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/ppp3pp/1b2b3/4P1q1/3Pp2P/PP4n1/RBPP3R/1N1QKrN1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | GN2022 | resigned ❌ | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p2/7p/8/8/1p3K2/8/2q5 w - -">Link</a> | Rapid |
 | GN2022 | **ChessHamper888** | checkmated ❌ | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q2k4/1R2pp2/2Rpr2p/8/7P/5Pp1/2P3P1/6K1 b - -">Link</a> | Rapid |
-| BRWSK-11 | **ChessHamper888** | checkmated ❌ | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/pbpp1Q2/1p2p1pp/6N1/2B1P3/8/PPPP1PPP/RNB1K2R b KQkq -">Link</a> | Rapid |
-| **ChessHamper888** | BRWSK-11 | resigned ❌ | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/pp1k2p1/2pb4/3p4/8/1P1P2P1/2P1K2P/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
