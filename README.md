@@ -194,11 +194,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 473 | 324 | 157 |
+| Current | 457 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Petro_IT | **ChessHamper888** | checkmated ❌ | 16/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4R3/prp2R1k/1p6/5PP1/PP4KP/8 b - -">Link</a> | Rapid |
+| **ChessHamper888** | hj18480 | resigned ❌ | 16/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kbnr/p1p1pppp/8/1P1n4/3N4/PP1K2P1/1B1P1P2/RN1q4 w kq -">Link</a> | Rapid |
 | hellodan2020 | **ChessHamper888** | stalemate ⏸️ | 16/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/5P2/3k1K1p/7P/4q3/8/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | ClaudioRiccardo | resigned ❌ | 16/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1n1/pp6/2pq1pp1/5r2/4p3/1P2P1bP/2PP2BK/1R1Q3R w q -">Link</a> | Rapid |
 | **ChessHamper888** | abhiprime | checkmated ❌ | 16/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p3n1pp/1b1p1p2/5b2/N7/PP3PP1/3PPq1P/B2Q1KNR w - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | MrSlavek | **ChessHamper888** | win 🥇 | 16/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q2nr/p1pp1kbp/1p2p1p1/5P2/2B5/3P1b2/PPP2PPP/RNB1K2R w KQ -">Link</a> | Rapid |
 | **ChessHamper888** | Gumis1 | resigned ❌ | 16/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn4k1/pp5p/2pq1p2/5p2/3P1n2/PP2r2P/RBP1P1BN/1N3K2 w - -">Link</a> | Rapid |
 | **ChessHamper888** | ChessCat9000 | resigned ❌ | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp5p/6k1/6r1/4r3/P7/3PKP2/8 w - -">Link</a> | Rapid |
-| ChessCat9000 | **ChessHamper888** | resigned ❌ | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/1bppppQ1/p5pp/1p1P4/2B3P1/1PP2P2/PB2N2P/RN2K2R b KQk -">Link</a> | Rapid |
-| mmmahesh420 | **ChessHamper888** | checkmated ❌ | 15/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6K1/8/8/8/7Q/1Q2k3 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
