@@ -194,11 +194,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 441 | 324 | 157 |
+| Current | 457 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | diguinfr | win 🥇 | 18/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2pQ1/2n1b3/8/8/PP1PpB1q/1B1PK3/R7 b - -">Link</a> | Rapid |
+| pajanqnn | **ChessHamper888** | win 🥇 | 18/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq1bnr/p1pp1k1p/1p2p1p1/8/2B1P3/8/PPPP1PPP/RNB1K1NR w KQ -">Link</a> | Rapid |
 | gskala4 | **ChessHamper888** | abandoned  | 17/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk2B/1b2p3/2p1B3/7p/pp4pP/8/PPPN1PP1/R2QK2R b KQq -">Link</a> | Rapid |
 | SirDan025 | **ChessHamper888** | abandoned  | 16/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk2r/1b2ppb1/1p1p2pp/p2P4/P4B2/2P2P2/1P3QPP/RN2KBNR b KQkq -">Link</a> | Rapid |
 | Petro_IT | **ChessHamper888** | checkmated ❌ | 16/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4R3/prp2R1k/1p6/5PP1/PP4KP/8 b - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | **ChessHamper888** | ClaudioRiccardo | resigned ❌ | 16/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1n1/pp6/2pq1pp1/5r2/4p3/1P2P1bP/2PP2BK/1R1Q3R w q -">Link</a> | Rapid |
 | **ChessHamper888** | abhiprime | checkmated ❌ | 16/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p3n1pp/1b1p1p2/5b2/N7/PP3PP1/3PPq1P/B2Q1KNR w - -">Link</a> | Rapid |
 | mrudulmn | **ChessHamper888** | win 🥇 | 16/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3knr/8/p2pP2p/4p3/6Q1/3q1KPB/P3r2P/7R w - -">Link</a> | Rapid |
-| **ChessHamper888** | mrudulmn | checkmated ❌ | 16/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/ppp1pppp/8/3p4/1P4n1/1P1P1NP1/P4qBP/2RQ1K1R w kq -">Link</a> | Rapid |
-| MrSlavek | **ChessHamper888** | win 🥇 | 16/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q2nr/p1pp1kbp/1p2p1p1/5P2/2B5/3P1b2/PPP2PPP/RNB1K2R w KQ -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
