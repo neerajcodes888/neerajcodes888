@@ -199,6 +199,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | PranavKende | checkmated ❌ | 20/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/ppp2ppp/2n5/2bpp3/5P1N/1P4n1/PBPPPq2/RN1QK3 w - -">Link</a> | Rapid |
+| JamunaP | **ChessHamper888** | win 🥇 | 20/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/3kp2p/4N1p1/1P3p2/7P/2PPPP2/qN2KPR1/r7 w - -">Link</a> | Rapid |
 | **ChessHamper888** | st_alee | win 🥇 | 20/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2B/ppp1pp1p/2n3p1/3p4/6n1/1P6/P1PPPPBP/RN1QK1NR b KQq -">Link</a> | Rapid |
 | Ashoka_1905 | **ChessHamper888** | win 🥇 | 20/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/pb1pppbp/1p4p1/8/4P3/P4P1N/1PP1N1PP/R1B1KB1R w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | TOMIRITA | win 🥇 | 20/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Bn1Q2r1/p4p1p/2p2p1k/5n2/5P2/1PP4P/P1P1K3/R5R1 w - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | **ChessHamper888** | albeeeezy | win 🥇 | 19/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/2R4p/6pk/3Q4/5p2/PP5q/3PP3/3K3R b - -">Link</a> | Rapid |
 | phucnguyn205 | **ChessHamper888** | resigned ❌ | 19/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/pkPp4/8/5N2/7P/1P1Q2K1/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Manish_thespartan | win 🥇 | 19/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1r1/p1p5/8/2p1R3/4p3/1P4Pn/PBP4P/3K4 b - -">Link</a> | Rapid |
-| **ChessHamper888** | diguinfr | win 🥇 | 18/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2pQ1/2n1b3/8/8/PP1PpB1q/1B1PK3/R7 b - -">Link</a> | Rapid |
-| pajanqnn | **ChessHamper888** | win 🥇 | 18/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq1bnr/p1pp1k1p/1p2p1p1/8/2B1P3/8/PPPP1PPP/RNB1K1NR w KQ -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
