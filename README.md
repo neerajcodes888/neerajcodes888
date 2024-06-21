@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 511 | 324 | 157 |
+| Current | 519 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | ahmet4yba | win 🥇 | 21/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1nr/pppp1ppp/2n3q1/2b5/2P5/1P2PP1N/PB1P3P/RNQ1KB1R b KQkq -">Link</a> | Rapid |
 | alejandronoise | **ChessHamper888** | resigned ❌ | 21/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1q1kr2/p1pp4/np2p1Q1/6B1/3PN3/8/PPP2PPP/R4RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | fendix_x | checkmated ❌ | 21/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p6p/1p6/2b5/P4pN1/1PN5/2PPP2P/R2Q1K1q w - -">Link</a> | Rapid |
 | vishalarora01 | **ChessHamper888** | resigned ❌ | 21/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3r2/2p2k1p/1pBpPnp1/4p3/2P5/P2PQ1P1/P2B3P/5RK1 b - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | mohdo93 | **ChessHamper888** | resigned ❌ | 21/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2B1k3/Q1p1p2r/npp2np1/4p1p1/8/1PN1BP2/6KP/3R4 b - -">Link</a> | Rapid |
 | JRCC66 | **ChessHamper888** | repetition ⏸️ | 21/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/2kpp3/R1p4p/4Pq2/3P4/1n4P1/5PKP/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | barneystinson919 | win 🥇 | 21/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbQ2k1/p1p2ppp/1p6/8/8/1Pq1N1P1/P1P3BP/R4K1R b - -">Link</a> | Rapid |
-| GalangArdia | **ChessHamper888** | repetition ⏸️ | 21/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1n1/1bpppp2/6p1/1p1P4/2P1P3/p1q3P1/P3KP2/R2Q1B2 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
