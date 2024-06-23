@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 473 | 324 | 157 |
+| Current | 481 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | RafaFSLN | win 🥇 | 23/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/1pp2pBp/8/p2p3q/6P1/1P2PN2/P1PQ1KBP/RN3R2 b kq -">Link</a> | Rapid |
 | aniket99109910 | **ChessHamper888** | resigned ❌ | 23/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/1bBpppb1/pp3npp/3P4/4P3/3B1N2/PP2NPPP/R2Q1RK1 b kq -">Link</a> | Rapid |
 | **ChessHamper888** | hawta234 | resigned ❌ | 23/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r4/ppR3pp/8/4Q3/6P1/qPNP4/2P5/1K3r2 w - -">Link</a> | Rapid |
 | **ChessHamper888** | RahulSinghal03 | checkmated ❌ | 23/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/pppp1p1p/8/2b1P3/6nN/1P2P3/PBPP1qP1/RN1QKB1R w KQkq -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | Vjay_yadav_1N | checkmated ❌ | 23/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6NB/3n1P1p/8/6P1/2k5/1pp1P3/2K5 w - -">Link</a> | Rapid |
 | Vjay_yadav_1N | **ChessHamper888** | win 🥇 | 23/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4ppp/8/4k3/8/1P4P1/P4q1P/2K5 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Vjay_yadav_1N | checkmated ❌ | 23/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1R/ppp1pppQ/8/P1p1B3/4n3/1P3P1b/3PP3/RN2K1r1 w Qq -">Link</a> | Rapid |
-| Vjay_yadav_1N | **ChessHamper888** | checkmated ❌ | 23/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/pbpppQ1p/1p4p1/8/2BPp3/2N5/PPP2PPP/R1B1K1NR b KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
