@@ -199,6 +199,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| nimmi25 | **ChessHamper888** | repetition ⏸️ | 24/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3p4/8/2Q5/k7/3K4/8/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | modney1 | resigned ❌ | 24/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2krr3/ppp2ppp/2n5/3p1b2/8/PPP2PnP/RB1P4/1N3KNR w - -">Link</a> | Rapid |
 | **ChessHamper888** | TonyMontana1994 | resigned ❌ | 24/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1r1k1/pppp1ppp/5n2/6N1/3b4/1P6/PQP3PP/RN2KB1R w KQ -">Link</a> | Rapid |
 | jesusjuarez88 | **ChessHamper888** | resigned ❌ | 24/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/pb1pp3/6p1/3Bb2p/N6P/P7/R2B2P1/3QK1NR b Kkq -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | imjustdumbsometimes | **ChessHamper888** | win 🥇 | 23/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=b4k2/3ppp2/1p4pn/1n1Nb3/8/1P1K1P2/Pq4PP/R6R b - -">Link</a> | Rapid |
 | AuraJT | **ChessHamper888** | win 🥇 | 23/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/1bppp3/pp3ppp/3P4/2BBP3/2N2N2/PPP2PPP/R4RK1 w kq -">Link</a> | Rapid |
 | **ChessHamper888** | Kiruarima | checkmated ❌ | 23/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2p1r1pp/pp1n4/2b3p1/3p4/PP2PN1b/RBPP1P2/1N1QKq2 w - -">Link</a> | Rapid |
-| **ChessHamper888** | RafaFSLN | win 🥇 | 23/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/1pp2pBp/8/p2p3q/6P1/1P2PN2/P1PQ1KBP/RN3R2 b kq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
