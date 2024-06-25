@@ -199,6 +199,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | HotC4 | win 🥇 | 25/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q1b2k2/1p6/1p6/8/2pp2P1/7B/3PP2P/4K3 b - -">Link</a> | Rapid |
+| **ChessHamper888** | stoxicity | checkmated ❌ | 25/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R1nk2/2p2ppp/8/3p4/3N2P1/7P/3NPPB1/2r2K1R w - -">Link</a> | Rapid |
 | nimmi25 | **ChessHamper888** | repetition ⏸️ | 24/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3p4/8/2Q5/k7/3K4/8/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | modney1 | resigned ❌ | 24/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2krr3/ppp2ppp/2n5/3p1b2/8/PPP2PnP/RB1P4/1N3KNR w - -">Link</a> | Rapid |
 | **ChessHamper888** | TonyMontana1994 | resigned ❌ | 24/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1r1k1/pppp1ppp/5n2/6N1/3b4/1P6/PQP3PP/RN2KB1R w KQ -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | **ChessHamper888** | TalDoPhRochaa | win 🥇 | 24/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/Q7/1p5p/kP4q1/P7/2KP4/8 b - -">Link</a> | Rapid |
 | fats_tomino | **ChessHamper888** | win 🥇 | 24/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k3/1b1pp3/pp3b2/8/6q1/1BN5/PPP2P2/R2QRK1r w q -">Link</a> | Rapid |
 | imjustdumbsometimes | **ChessHamper888** | win 🥇 | 23/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=b4k2/3ppp2/1p4pn/1n1Nb3/8/1P1K1P2/Pq4PP/R6R b - -">Link</a> | Rapid |
-| AuraJT | **ChessHamper888** | win 🥇 | 23/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/1bppp3/pp3ppp/3P4/2BBP3/2N2N2/PPP2PPP/R4RK1 w kq -">Link</a> | Rapid |
-| **ChessHamper888** | Kiruarima | checkmated ❌ | 23/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2p1r1pp/pp1n4/2b3p1/3p4/PP2PN1b/RBPP1P2/1N1QKq2 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
