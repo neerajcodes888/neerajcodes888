@@ -194,11 +194,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 522 | 324 | 157 |
+| Current | 506 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | dimssxx | abandoned  | 26/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/p1p3pp/5p2/8/5qbb/1P6/PBP1P3/R4KN1 w - -">Link</a> | Rapid |
+| rayenbouh | **ChessHamper888** | resigned ❌ | 26/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Qn2k1nr/3p3p/p3p1p1/8/8/8/2B2PPP/1q4KR w k -">Link</a> | Rapid |
 | GOAT4201 | **ChessHamper888** | checkmated ❌ | 26/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/2N3k1/6P1/8/6Q1/8/5R2/6K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Chitanral | win 🥇 | 26/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/p1p2ppp/p1B2n2/8/3p4/1P1p2P1/1BP1PP1P/RN1QK1NR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Azzedine27 | stalemate ⏸️ | 26/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k7/7N/1Q6/8/8/p2P3P/R2K4/8 b - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | ZingerBoxMeal | **ChessHamper888** | win 🥇 | 25/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2pn4/2p1k3/2P5/q7/8/1K6/3n1q2 w - -">Link</a> | Rapid |
 | Dhamsvet | **ChessHamper888** | win 🥇 | 25/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/p5pp/1pp5/5n2/8/5PPK/PP1q3P/8 w kq -">Link</a> | Rapid |
 | **ChessHamper888** | Dhamsvet | win 🥇 | 25/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6nk/p6R/2N4p/6p1/3P2P1/1P1Q4/P1P1P2P/RN2K3 b Q -">Link</a> | Rapid |
-| ForfeitedKnight | **ChessHamper888** | win 🥇 | 25/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6n1/4pk2/K4p2/8/8/8/1q6/q7 w - -">Link</a> | Rapid |
-| **ChessHamper888** | HotC4 | win 🥇 | 25/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q1b2k2/1p6/1p6/8/2pp2P1/7B/3PP2P/4K3 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
