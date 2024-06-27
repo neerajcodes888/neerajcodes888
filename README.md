@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 498 | 324 | 157 |
+| Current | 490 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| WolF1N | **ChessHamper888** | abandoned  | 27/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk3/2p1pQ2/bp4p1/p3p1N1/Pn1P4/2N4P/1PP2PP1/2KR3R b q -">Link</a> | Rapid |
 | PC72 | **ChessHamper888** | resigned ❌ | 27/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1r1/p2p4/1p6/8/7P/1P2B2K/PR3R2/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | dimssxx | abandoned  | 26/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/p1p3pp/5p2/8/5qbb/1P6/PBP1P3/R4KN1 w - -">Link</a> | Rapid |
 | rayenbouh | **ChessHamper888** | resigned ❌ | 26/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Qn2k1nr/3p3p/p3p1p1/8/8/8/2B2PPP/1q4KR w k -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | sunil120866 | **ChessHamper888** | win 🥇 | 26/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3p4/6k1/5r1p/4B3/2r3K1/3P1P1P/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Bab123456789876 | win 🥇 | 26/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R1k1r/p5pp/2Q2p2/7b/8/1Pb2PP1/P1P1K1BP/6NR b - -">Link</a> | Rapid |
 | ZingerBoxMeal | **ChessHamper888** | win 🥇 | 25/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2pn4/2p1k3/2P5/q7/8/1K6/3n1q2 w - -">Link</a> | Rapid |
-| Dhamsvet | **ChessHamper888** | win 🥇 | 25/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/p5pp/1pp5/5n2/8/5PPK/PP1q3P/8 w kq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
