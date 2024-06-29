@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 473 | 324 | 157 |
+| Current | 480 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Wanhelsing343 | **ChessHamper888** | win 🥇 | 29/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/p1pp1ppp/1p2p3/4P3/2BP3q/2P2Pn1/P5bP/RN2K3 w Qkq -">Link</a> | Rapid |
 | Rhythymoftheknight95 | **ChessHamper888** | resigned ❌ | 29/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/p1kp2b1/1p1n2N1/3B3p/6n1/2P5/PP4PP/R1B3K1 w - -">Link</a> | Rapid |
 | i_praedep | **ChessHamper888** | resigned ❌ | 28/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k1r3/p1pp4/np2p3/5p2/4P3/bP6/P1PPNPPP/Q1BK3R b - -">Link</a> | Rapid |
 | **ChessHamper888** | KHAOPUN17 | checkmated ❌ | 28/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1q5K/q7/8/1k6/8/8/7b/4n3 w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | Ahmer_Chaudhri | win 🥇 | 28/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rb2rk1/pp3ppp/2n5/2bB4/5P2/1P2P3/P1PP3P/R2QK1NR b KQ -">Link</a> | Rapid |
 | abhiabhinay | **ChessHamper888** | stalemate ⏸️ | 28/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/5K2/5Q2/7k b - -">Link</a> | Rapid |
 | **ChessHamper888** | RedPel | win 🥇 | 28/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1k3R/p1ppn3/b3pQ2/8/1q2N3/3P4/P1n1PPB1/RN3K2 b - -">Link</a> | Rapid |
-| **ChessHamper888** | MINTUVAKIL | checkmated ❌ | 28/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk3/ppp2p1p/1bn5/3p3P/1P2B3/2N5/PBPPPn2/R1Q1K1r1 w Qq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
