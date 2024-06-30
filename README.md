@@ -199,16 +199,16 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Joel_i_1221 | **ChessHamper888** | win 🥇 | 30/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1q2r2/p1p1R2p/2kp1Qp1/5n2/2pn1B2/N4P2/PPP2P1P/6K1 w - -">Link</a> | Rapid |
+| jay071116 | **ChessHamper888** | checkmated ❌ | 30/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q4k/4Q3/8/8/3K4/p7/N7/8 b - -">Link</a> | Rapid |
+| GIACOMO0622 | **ChessHamper888** | stalemate ⏸️ | 30/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q2r2/3k1P2/5P2/3K4/3P4/8/8/q3q3 w - -">Link</a> | Rapid |
+| **ChessHamper888** | gideonkirsch9 | repetition ⏸️ | 30/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/1P2bk2/5p2/2pQ3p/3p4/P6P/2PP4/3K4 b - -">Link</a> | Rapid |
 | **ChessHamper888** | aspectproyt | win 🥇 | 30/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2k1r1/p1p1npbp/1p1p2p1/8/1P3P2/P6N/RBPPP1R1/1N1QK3 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Shubh_143 | win 🥇 | 30/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkbnB/p1p1pp1p/8/1p1p4/1n5p/1PN2PP1/P1PPPNb1/R2QK3 b Qq -">Link</a> | Rapid |
 | Daniele3210 | **ChessHamper888** | resigned ❌ | 30/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n5Q/1bk2p2/1p1p2pp/1P2B3/8/2q2P2/5KPP/4R3 w - -">Link</a> | Rapid |
 | LyubSko | **ChessHamper888** | checkmated ❌ | 30/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/pb1p1Qb1/4p1pp/2p3N1/2B1P3/2P5/P2P1PPP/RNB1K2R b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Vikslick123 | resigned ❌ | 30/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/ppp2ppp/5q2/3p4/3nn3/1P1NP1P1/PBPP1PBP/RN1bK2R w KQkq -">Link</a> | Rapid |
 | Vikslick123 | **ChessHamper888** | resigned ❌ | 30/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1N1B4/1p4k1/8/5P2/3P3P/3K4 b - -">Link</a> | Rapid |
-| **ChessHamper888** | Vikslick123 | win 🥇 | 30/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/8/3Q4/7k/P4K2/1p6/P4P2/8 b - -">Link</a> | Rapid |
-| Aurum9Chess | **ChessHamper888** | win 🥇 | 30/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4r1k1/1K4P1/n4q2/8/8/8/7q w - -">Link</a> | Rapid |
-| MIHIR110503 | **ChessHamper888** | resigned ❌ | 30/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnR1k2r/p3p2p/3p2pn/1P3p2/3P3N/8/bP2BPPP/3QK2R b Kkq -">Link</a> | Rapid |
-| **ChessHamper888** | KINGOFCHESS3605 | win 🥇 | 29/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kbr1/pp2pp1p/5n2/2np1Np1/8/1P4P1/P1P1PPBP/RN1QK2R b KQq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
