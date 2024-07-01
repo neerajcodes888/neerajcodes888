@@ -194,11 +194,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 551 | 324 | 157 |
+| Current | 567 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Himanshumakwana890 | win 🥇 | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R2Q3p/3kr3/8/3K4/3P1PP1/8/8 b - -">Link</a> | Rapid |
+| Catherine1556 | **ChessHamper888** | win 🥇 | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2bb1k2/5p1r/7P/7K/8/4n3/8/7q w - -">Link</a> | Rapid |
 | mkii11 | **ChessHamper888** | win 🥇 | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6b1/3k4/K6P/8/8/1q6/q7 w - -">Link</a> | Rapid |
 | **ChessHamper888** | SKYass4 | win 🥇 | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r1b1r/pQp4p/3p1p1n/4p1p1/7B/PP4PP/2P2PB1/RN2K2R b KQ -">Link</a> | Rapid |
 | anilgngr | **ChessHamper888** | win 🥇 | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/3ppp1p/6p1/pp6/1P2B3/B4N2/P1PP1PPP/R5K1 w kq -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | domen5667 | **ChessHamper888** | win 🥇 | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/pbpp1ppp/1pq1p3/1N6/2nP4/2P5/P1P1QPPP/R1B1K2R w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | aboyunis | win 🥇 | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/1P6/8/8/3K3p/7Q/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | NiyatkhanDostan | checkmated ❌ | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nB/2pb4/1p2p1p1/p1b4p/7R/PP1P1N2/3PPq2/RN1QK3 w Q -">Link</a> | Rapid |
-| maariakamaari | **ChessHamper888** | win 🥇 | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/p1p1p3/6pB/8/6P1/1Pq2b2/P6P/2K5 w - -">Link</a> | Rapid |
-| **ChessHamper888** | ALEikhin | win 🥇 | 30/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/pp3r1p/2n5/8/4p3/1P2P1NP/P1PP4/R2QK2R b Q -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
