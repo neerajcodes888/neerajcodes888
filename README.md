@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 567 | 324 | 157 |
+| Current | 559 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | jeanncl | abandoned  | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p1p3pp/2n2q2/8/5pb1/1PRP3P/P2Q1P2/4KB2 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Himanshumakwana890 | win 🥇 | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R2Q3p/3kr3/8/3K4/3P1PP1/8/8 b - -">Link</a> | Rapid |
 | Catherine1556 | **ChessHamper888** | win 🥇 | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2bb1k2/5p1r/7P/7K/8/4n3/8/7q w - -">Link</a> | Rapid |
 | mkii11 | **ChessHamper888** | win 🥇 | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6b1/3k4/K6P/8/8/1q6/q7 w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | Mulla9191 | **ChessHamper888** | win 🥇 | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=q4bk1/5p1p/6p1/6P1/3P1P1P/4P1N1/5K2/8 w - -">Link</a> | Rapid |
 | domen5667 | **ChessHamper888** | win 🥇 | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/pbpp1ppp/1pq1p3/1N6/2nP4/2P5/P1P1QPPP/R1B1K2R w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | aboyunis | win 🥇 | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/1P6/8/8/3K3p/7Q/8 b - -">Link</a> | Rapid |
-| **ChessHamper888** | NiyatkhanDostan | checkmated ❌ | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nB/2pb4/1p2p1p1/p1b4p/7R/PP1P1N2/3PPq2/RN1QK3 w Q -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
