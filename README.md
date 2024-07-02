@@ -199,6 +199,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| luffy_s1 | **ChessHamper888** | win 🥇 | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=bn2k2B/3ppp2/6pp/3p4/B3P2P/1P1PqPR1/2P1n1P1/4K3 b - -">Link</a> | Rapid |
+| **ChessHamper888** | Stas_SV88 | checkmated ❌ | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/1pp5/5k2/p4p1K/P2n1N2/BPN5/R1nP4/8 w - -">Link</a> | Rapid |
 | inaylucu | **ChessHamper888** | agreed ⏸️ | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk3/1bppn2r/pp3ppb/7p/2N1PP2/PP1PQN1B/1BP1R2P/5RK1 b q -">Link</a> | Rapid |
 | **ChessHamper888** | inaylucu | checkmated ❌ | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/4r1b1/1p1p4/p7/3B2RQ/Pb1P4/2q5/2K3R1 w - -">Link</a> | Rapid |
 | inaylucu | **ChessHamper888** | checkmated ❌ | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5R2/5kp1/6N1/5PPP/p3K3/r7/8 b - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | Vishnuff | **ChessHamper888** | win 🥇 | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/pbpppnpp/1p6/8/2B1N3/8/PPPP1PPP/R1B1K1NR w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | pruthvi_09 | win 🥇 | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/ppp2B1k/5Q2/8/P6Q/BP2P3/4P3/1R2K1N1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | KaranSingh2003 | insufficient ⏸️ | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/k7/8/K7/8/8/8 w - -">Link</a> | Rapid |
-| yessinghanmi | **ChessHamper888** | checkmated ❌ | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1k1b1r/2Q3pp/1p2qp2/1B6/p3bB2/1P6/P1P2PPP/1K2R1NR b - -">Link</a> | Rapid |
-| **ChessHamper888** | jayesh372007 | win 🥇 | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rq/ppp5/5p2/3Pk2N/2P5/1P1QPB2/P6K/R7 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
