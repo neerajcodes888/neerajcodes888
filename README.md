@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 539 | 324 | 157 |
+| Current | 531 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Mr_KHaLiL_x | **ChessHamper888** | resigned ❌ | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1Bkbnr/1bpp1p2/pp2p3/5N2/2BPP3/2N2P2/PPP3PP/R2Q1RK1 b kq -">Link</a> | Rapid |
 | luffy_s1 | **ChessHamper888** | win 🥇 | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=bn2k2B/3ppp2/6pp/3p4/B3P2P/1P1PqPR1/2P1n1P1/4K3 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Stas_SV88 | checkmated ❌ | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/1pp5/5k2/p4p1K/P2n1N2/BPN5/R1nP4/8 w - -">Link</a> | Rapid |
 | inaylucu | **ChessHamper888** | agreed ⏸️ | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk3/1bppn2r/pp3ppb/7p/2N1PP2/PP1PQN1B/1BP1R2P/5RK1 b q -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | sbs2020 | resigned ❌ | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p1bp1kp/p1n3p1/2P4n/8/PK6/4r3/8 w - -">Link</a> | Rapid |
 | Vishnuff | **ChessHamper888** | win 🥇 | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/pbpppnpp/1p6/8/2B1N3/8/PPPP1PPP/R1B1K1NR w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | pruthvi_09 | win 🥇 | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/ppp2B1k/5Q2/8/P6Q/BP2P3/4P3/1R2K1N1 b - -">Link</a> | Rapid |
-| **ChessHamper888** | KaranSingh2003 | insufficient ⏸️ | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/k7/8/K7/8/8/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
