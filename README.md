@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 545 | 324 | 157 |
+| Current | 537 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Halconflight | **ChessHamper888** | checkmated ❌ | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q2kn1/2pp1p1r/4p2p/5Np1/4P1P1/q3BPK1/r3b2P/7R b - -">Link</a> | Rapid |
 | **ChessHamper888** | Cosmicfloats | resigned ❌ | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rbq2k1/p1p2ppp/1b4n1/8/Pp2r3/1P2PPPP/1BBP3R/RN2K3 w Q -">Link</a> | Rapid |
 | Porowski | **ChessHamper888** | resigned ❌ | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k4/p2pnp1p/Bp4p1/4B3/8/1P6/P1P2PPP/2KR2NR b - -">Link</a> | Rapid |
 | idioutest | **ChessHamper888** | abandoned  | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k2/1bp2p2/pp1p1n2/5NR1/3KPN2/3P1QBr/PPP5/R7 b - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | A_Ben56 | **ChessHamper888** | stalemate ⏸️ | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/5K2/5P1P/6NB/8/8/8/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Gowthamprasath1 | win 🥇 | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3p1Q2/b1p5/8/k4P2/P1P1P3/2P4P/R3KB1R b KQ -">Link</a> | Rapid |
 | **ChessHamper888** | saragam_dev | win 🥇 | 2/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1bnr/pppqp2p/2n1b1p1/6P1/3P4/1P6/PBPP1PB1/RN1QK1NR b KQ -">Link</a> | Rapid |
-| satansgod | **ChessHamper888** | checkmated ❌ | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1k1r/1b1ppBb1/p4nNp/1p6/2Q1PB2/2N5/PPP2PPP/R3K2R b KQ -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
