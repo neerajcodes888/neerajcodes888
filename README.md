@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 531 | 324 | 157 |
+| Current | 539 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| BullionDynasty | **ChessHamper888** | win 🥇 | 4/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b2r2/n6p/3k2p1/6P1/1P6/6KP/r7/2b1q3 w - -">Link</a> | Rapid |
 | santhosh_1234 | **ChessHamper888** | win 🥇 | 4/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn5r/2k5/1p2pq2/1p6/4P3/8/PPP4P/6K1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | dima310378 | win 🥇 | 4/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/2pp1p2/1pn2B1b/p6p/5p2/PP4P1/2PPP1B1/RN1QK1NR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | michelle13ts | resigned ❌ | 3/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp2qppp/2n1b3/2pp4/3P3b/PPPQPN2/RB2Bn2/1N1K4 w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | AlphaDiall | **ChessHamper888** | resigned ❌ | 3/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n2k1nr/3pppbp/b5p1/QN1P4/4P3/5P2/NP4PP/1RB1KB1R b Kk -">Link</a> | Rapid |
 | **ChessHamper888** | AlphaDiall | repetition ⏸️ | 3/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4krpp/1pQ2p1n/4p3/2bpP1PP/Pq3P2/3P1K2/8 w - -">Link</a> | Rapid |
 | AlphaDiall | **ChessHamper888** | checkmated ❌ | 3/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1Q1/1b1ppp2/1p4pB/p7/2B1P3/NP3P2/P5PP/4K1NR b K -">Link</a> | Rapid |
-| **ChessHamper888** | u5x6033 | abandoned  | 3/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn6/pp1kr1pp/8/3pQ3/2P5/NP3P1P/4K3/q5bR w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
