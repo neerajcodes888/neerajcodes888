@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 540 | 324 | 157 |
+| Current | 532 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | kaptol1 | checkmated ❌ | 6/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/1p3B2/p5p1/8/7k/r4pp1/6K1 w - -">Link</a> | Rapid |
 | JerrysDog | **ChessHamper888** | checkmated ❌ | 5/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/1b2Qp1p/p5p1/2BP4/q1n3P1/2pN1P2/7P/2KRR3 b kq -">Link</a> | Rapid |
 | vojojciec | **ChessHamper888** | win 🥇 | 5/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n2kr2/4pp1p/8/2p1q3/6K1/8/5Pq1/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | vojojciec | checkmated ❌ | 5/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1ppp/4p3/2b5/8/1PP3P1/P2PPqBP/RNBQK1NR w KQkq -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | Jojocool5418 | checkmated ❌ | 5/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/ppp2ppp/8/2b5/3p1Q2/PP1P3N/RB2qP2/1N2K2R w - -">Link</a> | Rapid |
 | LeoXey | **ChessHamper888** | agreed ⏸️ | 5/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/1bp1ppb1/pp1p4/6pp/3PP1N1/2NBB3/PPP2PPP/R2Q1RK1 w kq -">Link</a> | Rapid |
 | **ChessHamper888** | ghamduxjddj | win 🥇 | 5/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2Q2/ppp5/2n5/Pk3P1R/8/1P4pK/R1P1B3/1N4q1 b - -">Link</a> | Rapid |
-| SRBewakuf | **ChessHamper888** | repetition ⏸️ | 5/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/7P/3q4/5BK1/8/8/8/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
