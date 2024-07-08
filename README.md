@@ -194,11 +194,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 453 | 324 | 157 |
+| Current | 437 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | omar_naimi | checkmated ❌ | 8/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1ppp/8/2b1p3/8/1P4P1/PBPPPqBP/RN1QK1NR w KQkq -">Link</a> | Rapid |
+| **ChessHamper888** | Shaidhead | resigned ❌ | 8/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kbnr/pp3ppp/2pq4/4p3/3p3P/1P1n1NP1/3P1PB1/2RQK2R w Kkq -">Link</a> | Rapid |
 | **ChessHamper888** | NICE_MY_BRO | resigned ❌ | 8/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/ppp2pbp/8/4p3/4B2q/1P2Q3/P1n2P2/RNB1K1N1 w Q -">Link</a> | Rapid |
 | htm178 | **ChessHamper888** | abandoned  | 7/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6k1/P6R/6P1/8/1PP2P1P/2K5 b - g3">Link</a> | Rapid |
 | Manaab | **ChessHamper888** | checkmated ❌ | 7/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1nk5/r2p2QN/pBpNp2n/4P3/5P1p/3P4/PPP4q/R1K2B1b b - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | **ChessHamper888** | mattrolt | checkmated ❌ | 7/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/p1k5/8/P2B4/5p2/2Pb3P/3P3b/RN1K1r2 w - -">Link</a> | Rapid |
 | ad_h_oc | **ChessHamper888** | checkmated ❌ | 7/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q2k1/1R6/8/8/8/4K3/8/8 b - -">Link</a> | Rapid |
 | imyai | **ChessHamper888** | win 🥇 | 7/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1qk1nr/2p1p2p/bp2p1p1/5PK1/8/6PP/2qq4/7r w k -">Link</a> | Rapid |
-| **ChessHamper888** | Robinsinghgun | resigned ❌ | 6/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1r1/1b1p1pBp/p1p1p3/2p5/2P5/P5P1/1n1PPPBP/RN2K1NR w KQq -">Link</a> | Rapid |
-| Akash_ak | **ChessHamper888** | resigned ❌ | 6/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/pbppppBp/1p4p1/8/N7/1P6/P1PPPPPP/R2QKBNR b KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
