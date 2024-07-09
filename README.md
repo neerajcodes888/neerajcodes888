@@ -194,11 +194,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 453 | 324 | 157 |
+| Current | 469 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | harsh-kulkarni | win 🥇 | 9/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/Q2k4/8/3B3P/p3PNRB/3P1K2/8 b - -">Link</a> | Rapid |
+| Shoxruxbek_E | **ChessHamper888** | win 🥇 | 9/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1r1/2pp1n1p/1p2P1p1/1B6/5pP1/5b2/PPP2P1b/1K1RR3 w q -">Link</a> | Rapid |
 | **ChessHamper888** | Riiii99 | win 🥇 | 9/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/pp6/3k3R/n1p2B2/P4P2/N1Pq4/1Q1PN3/4K3 b - -">Link</a> | Rapid |
 | king_of0universe | **ChessHamper888** | win 🥇 | 9/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/p1pp1pbp/1p2p1p1/4P3/2B5/5b1N/PPPP1PPP/RNB1K2R w KQkq -">Link</a> | Rapid |
 | petermarigold | **ChessHamper888** | checkmated ❌ | 9/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk2r/1b1ppQb1/ppp2npp/1B2N3/3P4/2N1P3/PPP2PPP/R1B1K2R b KQkq -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | JaneBB123 | **ChessHamper888** | win 🥇 | 8/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/1kp4p/p1npp3/1pK5/8/2N5/PP5P/R7 w - -">Link</a> | Rapid |
 | DevilDadDuels | **ChessHamper888** | resigned ❌ | 8/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1Bk1n1/pbpp2br/1p2p1N1/4P2p/2BP2p1/8/PPP3PP/RN1QK2R b KQq -">Link</a> | Rapid |
 | **ChessHamper888** | DevilDadDuels | checkmated ❌ | 8/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1nb1kb1r/6pp/p7/1p6/1P2n3/6PP/R1PPPq2/1N1QK1NR w Kk -">Link</a> | Rapid |
-| Maf130 | **ChessHamper888** | repetition ⏸️ | 8/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3Q2/p1pp1R1p/1pk1p1p1/8/3b4/6P1/PP1Pq1KP/RNB5 w - -">Link</a> | Rapid |
-| **ChessHamper888** | ApostoiuStefania | win 🥇 | 8/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/8/7k/6pP/1p4P1/pP6/P2K1P2/7R b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
