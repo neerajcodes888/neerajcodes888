@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 499 | 324 | 157 |
+| Current | 491 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Abir_556 | timeout ❌ | 10/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3q3/8/Q4K2/8/Pk6/5R2/8 w - -">Link</a> | Rapid |
 | syedZakirshah | **ChessHamper888** | win 🥇 | 10/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q3r/p1pp1k2/1pb1pnp1/n1b3p1/3QpP2/2N5/PPPP2PP/R1B2RK1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | syedZakirshah | win 🥇 | 10/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pQ2N3/3k1B2/3Q4/5P2/1P1p4/3P4/4K3 b - -">Link</a> | Rapid |
 | **ChessHamper888** | AMO9527 | win 🥇 | 10/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q3Q1/p7/7p/2kB1p1R/8/6P1/4KP2/6N1 b - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | harsh-kulkarni | win 🥇 | 9/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/Q2k4/8/3B3P/p3PNRB/3P1K2/8 b - -">Link</a> | Rapid |
 | Shoxruxbek_E | **ChessHamper888** | win 🥇 | 9/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1r1/2pp1n1p/1p2P1p1/1B6/5pP1/5b2/PPP2P1b/1K1RR3 w q -">Link</a> | Rapid |
 | **ChessHamper888** | Riiii99 | win 🥇 | 9/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/pp6/3k3R/n1p2B2/P4P2/N1Pq4/1Q1PN3/4K3 b - -">Link</a> | Rapid |
-| king_of0universe | **ChessHamper888** | win 🥇 | 9/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/p1pp1pbp/1p2p1p1/4P3/2B5/5b1N/PPPP1PPP/RNB1K2R w KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
