@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 451 | 324 | 157 |
+| Current | 459 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Ghost_773747 | **ChessHamper888** | win 🥇 | 11/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1q3knr/2p1pp2/6pp/8/3P4/1B3NP1/P1P2P1P/3nK2R w K -">Link</a> | Rapid |
 | **ChessHamper888** | vipul19932712 | win 🥇 | 11/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkbnr/ppp2ppp/2n5/3pp3/6b1/1P4PP/PBPPPPB1/RN1QK1NR b KQkq -">Link</a> | Rapid |
 | enzitocapo | **ChessHamper888** | checkmated ❌ | 10/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/pbpppQ1p/1p4p1/8/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | visheshgola | resigned ❌ | 10/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqr1k1/pp5p/8/7Q/4B3/3P2nP/1BP1K3/RN4b1 w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | mateicatei8 | checkmated ❌ | 10/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1ppp/8/2b1p3/8/1P4P1/PBPPPqBP/RN1QK1NR w KQkq -">Link</a> | Rapid |
 | nursenumber1 | **ChessHamper888** | checkmated ❌ | 10/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/1K6/7k/4p3/4P3/8/8/7Q b - -">Link</a> | Rapid |
 | MrQuerist | **ChessHamper888** | checkmated ❌ | 10/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1qk1Qnb/p1ppp2p/1pn3p1/8/2BP4/8/PPb2PPP/RNB2RK1 b - -">Link</a> | Rapid |
-| **ChessHamper888** | Abir_556 | timeout ❌ | 10/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3q3/8/Q4K2/8/Pk6/5R2/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
