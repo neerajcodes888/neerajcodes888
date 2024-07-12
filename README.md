@@ -194,11 +194,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 529 | 324 | 157 |
+| Current | 545 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| MahmoodAref007 | **ChessHamper888** | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/1bpppp1p/1p4p1/3P4/3bP3/2P5/PP3PPP/RNB1K1NR w KQkq -">Link</a> | Rapid |
+| **ChessHamper888** | Infal18 | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2ppp/5n2/4p3/1P1q2P1/2N4P/1QP1NPB1/R3K2R b KQ -">Link</a> | Rapid |
 | **ChessHamper888** | John_Wayne123 | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nr/r1p2pp1/1pN1p2p/pP6/2P5/1P4PP/1B1qPP2/RN1QK2R w KQk -">Link</a> | Rapid |
 | **ChessHamper888** | osamushka | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1k2/pp3Q1p/8/bP4N1/5P2/P3P2P/2PP4/R3K1N1 b Q -">Link</a> | Rapid |
 | Aafiyah1410 | **ChessHamper888** | checkmated ❌ | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k1r/3ppQ2/p4n1p/5N1B/8/P1q4P/2P2PP1/1R3RK1 b - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | **ChessHamper888** | mehr50 | resigned ❌ | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2B/rpp1qp2/8/p3n3/Pb2n2p/1P2P2P/2P2K2/3R2NR w - -">Link</a> | Rapid |
 | axarta | **ChessHamper888** | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk2r/2p1p1bp/1p6/p4pN1/P1P2Pn1/2N5/1PP2P1P/R1B1K2R w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | chiken86 | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3kR1/1pp5/r2pQ2p/p7/4B3/1P2P3/PBP5/RN2K3 b - -">Link</a> | Rapid |
-| Hashem_19 | **ChessHamper888** | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/3ppp2/pp4pp/2Pbb3/2B1P3/2N5/PPP2PPP/R1B2RK1 w kq -">Link</a> | Rapid |
-| **ChessHamper888** | anashasa | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1r1k1/p1p2ppp/2B2n2/8/8/PP4PP/RBPPR3/1N1QK3 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
