@@ -194,11 +194,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 545 | 324 | 157 |
+| Current | 529 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| alexandreratel | **ChessHamper888** | abandoned  | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/1bpp1r2/p3pp2/2Q5/BnP1PP2/2N5/PP4PP/R3K2R b KQq -">Link</a> | Rapid |
+| **ChessHamper888** | narvalo72 | resigned ❌ | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/p7/3P4/5k1p/4r1p1/P2n4/5K2/2R5 w - -">Link</a> | Rapid |
 | MahmoodAref007 | **ChessHamper888** | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/1bpppp1p/1p4p1/3P4/3bP3/2P5/PP3PPP/RNB1K1NR w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Infal18 | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2ppp/5n2/4p3/1P1q2P1/2N4P/1QP1NPB1/R3K2R b KQ -">Link</a> | Rapid |
 | **ChessHamper888** | John_Wayne123 | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nr/r1p2pp1/1pN1p2p/pP6/2P5/1P4PP/1B1qPP2/RN1QK2R w KQk -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | JSuazo123 | **ChessHamper888** | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2q1P3/5kB1/3K2pP/2n3P1/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | volvoJoe | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/pp2pppp/2n2n2/2pp1b2/1P6/P5PP/1BPPP1BR/RN1QK1N1 b Qkq -">Link</a> | Rapid |
 | **ChessHamper888** | mehr50 | resigned ❌ | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2B/rpp1qp2/8/p3n3/Pb2n2p/1P2P2P/2P2K2/3R2NR w - -">Link</a> | Rapid |
-| axarta | **ChessHamper888** | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk2r/2p1p1bp/1p6/p4pN1/P1P2Pn1/2N5/1PP2P1P/R1B1K2R w KQkq -">Link</a> | Rapid |
-| **ChessHamper888** | chiken86 | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3kR1/1pp5/r2pQ2p/p7/4B3/1P2P3/PBP5/RN2K3 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
