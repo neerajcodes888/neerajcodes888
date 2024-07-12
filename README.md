@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 514 | 324 | 157 |
+| Current | 522 | 324 | 157 |
 | Best | 554 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| JSuazo123 | **ChessHamper888** | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2q1P3/5kB1/3K2pP/2n3P1/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | volvoJoe | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/pp2pppp/2n2n2/2pp1b2/1P6/P5PP/1BPPP1BR/RN1QK1N1 b Qkq -">Link</a> | Rapid |
 | **ChessHamper888** | mehr50 | resigned ❌ | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2B/rpp1qp2/8/p3n3/Pb2n2p/1P2P2P/2P2K2/3R2NR w - -">Link</a> | Rapid |
 | axarta | **ChessHamper888** | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk2r/2p1p1bp/1p6/p4pN1/P1P2Pn1/2N5/1PP2P1P/R1B1K2R w KQkq -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | AnkitDon7 | **ChessHamper888** | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1n1/1b1ppp2/2r5/4Q1Np/4PP2/P2P3P/2nN2B1/3Kq3 w - -">Link</a> | Rapid |
 | **ChessHamper888** | grfaltas | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/7p/3p4/N4p2/5P2/1P4P1/P1P2K1P/6NR b - -">Link</a> | Rapid |
 | yash97foryou | **ChessHamper888** | resigned ❌ | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/4pp1p/2P3p1/8/2B1N2P/5KP1/1b3P2/2BQ2NR b kq -">Link</a> | Rapid |
-| **ChessHamper888** | yash97foryou | checkmated ❌ | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kb1Q/1pp1p1p1/5p2/4p2P/8/8/P2Pq1N1/3bKn2 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
