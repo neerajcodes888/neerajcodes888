@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 568 | 324 | 157 |
+| Current | 575 | 324 | 157 |
 | Best | 574 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Fenko17 | **ChessHamper888** | win 🥇 | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/3Qnp2/nbpBp3/7r/3P2p1/8/5qr1/4RK2 w - -">Link</a> | Rapid |
 | **ChessHamper888** | 91xixo | win 🥇 | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/7P/1k6/2p5/8/2r2P2/p3PK2/R7 b - -">Link</a> | Rapid |
 | ja12509 | **ChessHamper888** | win 🥇 | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/p1ppp1bp/1p4p1/5PN1/8/3B1b2/PPPP1PPP/RNB1K2R w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | asungot08 | win 🥇 | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1p1Q1p1/1p2r3/4B3/8/P7/R2PN3/1N2K3 b - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | kaz_David | resigned ❌ | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rqk3/ppp1bn2/2n5/3p4/4pp2/PP2P3/1BPP1P2/RN1QK1r1 w Q -">Link</a> | Rapid |
 | kaz_David | **ChessHamper888** | checkmated ❌ | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/pbp2Qb1/1p2p1pp/6N1/2B5/3P4/PPP2PPP/RNB1K2R b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | harshhitjoshi | win 🥇 | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb2rk1/pppp1ppp/5B2/2b5/5pQ1/1P2P1P1/P1PP2BP/RN2K1NR b KQ -">Link</a> | Rapid |
-| ahad1919 | **ChessHamper888** | win 🥇 | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k1p1r/p3Bnpp/2P1b3/P6P/5K1P/3r1P2/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
