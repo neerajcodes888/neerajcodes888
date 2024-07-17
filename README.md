@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 578 | 324 | 157 |
+| Current | 570 | 324 | 157 |
 | Best | 584 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | shakha057 | checkmated ❌ | 17/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb2/p3p3/n1p2p2/1p1p1b1p/5N2/1P2P3/PBPP1qrn/R2QK2R w Qq -">Link</a> | Rapid |
 | KenBingo | **ChessHamper888** | resigned ❌ | 17/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1r1/3p1p1B/pp2pn2/4n3/3P4/2N2N1P/PPPQ1PP1/R1B2RK1 b q -">Link</a> | Rapid |
 | **ChessHamper888** | Kyran1982 | timeout ❌ | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/pQpk1ppp/8/8/4p3/PP1qP3/R2P1P2/5K2 w - -">Link</a> | Rapid |
 | PopeyeMarinele | **ChessHamper888** | win 🥇 | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnq4r/p2pk1b1/1pp5/5p2/2B5/2NP1P2/PPP2P1P/R5K1 w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | Parth_115 | **ChessHamper888** | checkmated ❌ | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1r1/3Q1p1p/nN2pPpB/2P5/1p6/1q1NK3/5PbP/3r1B1R b - -">Link</a> | Rapid |
 | **ChessHamper888** | Danielgasparoni | win 🥇 | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp2ppp/8/3p4/3Bbp2/PP4PP/R1PPPK2/1N1Q2NR b kq -">Link</a> | Rapid |
 | Fenko17 | **ChessHamper888** | win 🥇 | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/3Qnp2/nbpBp3/7r/3P2p1/8/5qr1/4RK2 w - -">Link</a> | Rapid |
-| **ChessHamper888** | 91xixo | win 🥇 | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/7P/1k6/2p5/8/2r2P2/p3PK2/R7 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
