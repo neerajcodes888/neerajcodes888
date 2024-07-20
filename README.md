@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 600 | 324 | 157 |
-| Best | 584 | No Rating | No Rating |
+| Current | 593 | 324 | 157 |
+| Best | 593 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Aahil_Ahad | **ChessHamper888** | abandoned  | 20/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbqr/p6p/n1pQ2p1/1p1p1pN1/5BP1/1B1P4/PPP2PP1/RN2R1K1 b - -">Link</a> | Rapid |
 | CevapciciChef | **ChessHamper888** | checkmated ❌ | 19/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1k1r/pb1ppQb1/5n1p/2p5/2B1P3/8/PPP2PPP/RNB2RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | detroit227 | checkmated ❌ | 19/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1ppp/8/2b1p3/8/1P4P1/PBPPPqBP/RN1QK1NR w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Plutsonek | checkmated ❌ | 19/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b3k1/ppp4p/6p1/2b1nr2/3p3P/PP4n1/RBPP4/1N1QKqN1 w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | helicopterwiktor | **ChessHamper888** | win 🥇 | 19/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/3ppp2/1pb3pp/p2P4/4PN2/2b2P2/P1P3PP/R1BQKB1R w KQkq -">Link</a> | Rapid |
 | ary4N1X | **ChessHamper888** | win 🥇 | 19/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/r1p5/p6p/P2b4/2q2P2/2K1b1P1/1PP4P/4R3 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Tarun_rr | win 🥇 | 18/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6QR/6k1/p2P1p2/Pp2p2p/4P2K/3P2p1/4n3 b - -">Link</a> | Rapid |
-| 2ndBlvd | **ChessHamper888** | win 🥇 | 18/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/1bp2p2/p3p2p/1p2N1p1/8/1BP4P/PP2NPq1/R1BQ1RK1 w k -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
