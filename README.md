@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 577 | 324 | 157 |
+| Current | 585 | 324 | 157 |
 | Best | 593 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | AZeidan27 | win 🥇 | 22/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/6k1/p3B1pp/1p6/1P3q2/3P4/P1P4P/RN1K3b b - -">Link</a> | Rapid |
 | **ChessHamper888** | anmol7203 | checkmated ❌ | 22/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/pp2pppp/n1p5/3p4/4nN1P/PP4P1/1BPPPqB1/RN1QK2R w KQkq -">Link</a> | Rapid |
 | Jeremy0200 | **ChessHamper888** | resigned ❌ | 22/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n2kbnr/1b1ppp1p/1N4p1/BB1P4/4P3/R4N2/1PP2PPP/3QK2R b K -">Link</a> | Rapid |
 | **ChessHamper888** | Hansha007 | win 🥇 | 22/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2k1nr/2p1n1p1/8/p1b1B2p/4N2p/PP1PP3/2Q2P2/R3K1NR b KQk -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | ooxnugroho | **ChessHamper888** | win 🥇 | 21/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n6/K2pkp1r/6p1/6Pp/7P/q7/8/1q6 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Quickstamp | repetition ⏸️ | 21/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/1nPn4/1PK5/8/8/8/8/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | motivater_man | checkmated ❌ | 21/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/2p4p/2n3b1/p5P1/2P2pBN/1P2p1qK/1B1b4/R2Q1R2 w - -">Link</a> | Rapid |
-| **ChessHamper888** | Maxichrome | win 🥇 | 21/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/p1p4p/8/8/8/P2PQNbP/4P1B1/3K4 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
