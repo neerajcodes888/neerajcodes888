@@ -199,6 +199,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| WMTDKIV | **ChessHamper888** | insufficient ⏸️ | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3b4/8/3K4/6k1/B7/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | 1982Rodrigo | resigned ❌ | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3r1k/ppp4p/2b2p2/7p/4P3/PQ1P1B2/4P3/R3K1q1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Dope7767 | checkmated ❌ | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppp3P1/1k6/8/1n6/4P3/3r4/3r3K w - -">Link</a> | Rapid |
 | **ChessHamper888** | Glizzy3 | abandoned  | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/pp1q2p1/5n2/2bp1b1p/4p2P/P7/1BPPPPB1/RN1QK1NR w KQkq -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | MaktoO7 | win 🥇 | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/ppp1pppp/2B2nb1/8/1np3P1/1P1P3P/PB2PP2/RN1QK1NR b KQkq -">Link</a> | Rapid |
 | davidb3116 | **ChessHamper888** | resigned ❌ | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n6/r1ppk1br/pp3p1p/5P2/2BPQ3/2N3P1/PPP4P/R1B3K1 b - -">Link</a> | Rapid |
 | Watareeop_I | **ChessHamper888** | win 🥇 | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/2Bn1k1K/2b4R/8/pp5r/2b5/P1P2P1P/4R3 w - -">Link</a> | Rapid |
-| **ChessHamper888** | Insight2054 | checkmated ❌ | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/1Bp1kppp/1p3n2/1N6/6P1/7P/2bPPR2/r3K3 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
