@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 603 | 324 | 157 |
+| Current | 595 | 324 | 157 |
 | Best | 603 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Zio21 | checkmated ❌ | 25/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3rk1/pp3ppp/2p5/3ppb1P/8/PPQP1Pb1/1BP1PqB1/RN3KNR w - -">Link</a> | Rapid |
 | SAMI2534 | **ChessHamper888** | win 🥇 | 25/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7b/1R2pk2/p7/1p6/7P/3P4/PP2r1PK/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | parjehe | resigned ❌ | 24/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n2kbnr/r1q4p/ppbpp1p1/2p2p2/8/1N2PQP1/P1PP1PBP/1R2K2R w Kk -">Link</a> | Rapid |
 | nafamartin | **ChessHamper888** | win 🥇 | 24/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q3r/2pp1k2/pp3Npp/8/8/5b2/PPP2PBP/R4RK1 w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | Dope7767 | checkmated ❌ | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppp3P1/1k6/8/1n6/4P3/3r4/3r3K w - -">Link</a> | Rapid |
 | **ChessHamper888** | Glizzy3 | abandoned  | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/pp1q2p1/5n2/2bp1b1p/4p2P/P7/1BPPPPB1/RN1QK1NR w KQkq -">Link</a> | Rapid |
 | Glizzy3 | **ChessHamper888** | resigned ❌ | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1q4/rbk2N2/1p6/1P3B2/5B1Q/P4p1P/5P2/5RK1 b - -">Link</a> | Rapid |
-| **ChessHamper888** | Emmalapolla | win 🥇 | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5qk/8/4b2P/8/5K2/8/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
