@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 576 | 324 | 157 |
+| Current | 568 | 324 | 157 |
 | Best | 603 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| RajuAR123 | **ChessHamper888** | resigned ❌ | 29/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=b2Q1kB1/r1pp1p2/p2np2p/1p4pN/1P1P4/2P1P3/P4PPP/R1B1K2R b KQ -">Link</a> | Rapid |
 | **ChessHamper888** | iamviishu | checkmated ❌ | 29/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/pBpp1pkp/1p4p1/6N1/5P1P/PP4P1/2QP1n2/q1NK3R w - -">Link</a> | Rapid |
 | **ChessHamper888** | rdtg | checkmated ❌ | 28/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k1p2/7p/3BQ1pK/2P1P1P1/P6r/3P1P2/5R2 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Zio21 | checkmated ❌ | 25/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3rk1/pp3ppp/2p5/3ppb1P/8/PPQP1Pb1/1BP1PqB1/RN3KNR w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | JadEid82 | **ChessHamper888** | win 🥇 | 24/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q4nr/B2kpp2/p5pp/4P3/1b1N4/8/P4PPP/3q2K1 w - -">Link</a> | Rapid |
 | WMTDKIV | **ChessHamper888** | insufficient ⏸️ | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3b4/8/3K4/6k1/B7/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | 1982Rodrigo | resigned ❌ | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3r1k/ppp4p/2b2p2/7p/4P3/PQ1P1B2/4P3/R3K1q1 w - -">Link</a> | Rapid |
-| **ChessHamper888** | Dope7767 | checkmated ❌ | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppp3P1/1k6/8/1n6/4P3/3r4/3r3K w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
