@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 584 | 324 | 157 |
+| Current | 592 | 324 | 157 |
 | Best | 603 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Diarmuidjj | win 🥇 | 31/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/7Q/7k/8/p4p2/P3P2P/2PPP1B1/4K2R b K -">Link</a> | Rapid |
 | **ChessHamper888** | Yamafs8 | win 🥇 | 31/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Qk5/pp1b1r2/5r2/1n6/4pB1N/PP4P1/2PP1R1P/R3K3 b Q -">Link</a> | Rapid |
 | dddidada | **ChessHamper888** | resigned ❌ | 31/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/1Qb5/pp3n1p/8/2P5/6P1/PP3N1P/R1B1K1R1 b Qk -">Link</a> | Rapid |
 | hrushikessh31 | **ChessHamper888** | resigned ❌ | 31/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1q1r3/1b1p4/pB1N1Q2/1k6/8/8/PPP2PPP/4R1K1 b - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | gordonandersso | **ChessHamper888** | win 🥇 | 30/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk2r/1bppppb1/pp3npp/8/3PP3/2NBBN2/PPPQ1PPP/R3R1K1 w q -">Link</a> | Rapid |
 | jonesy0521 | **ChessHamper888** | abandoned  | 30/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R3k1r/Q1Bppp2/2p3np/p2P2p1/4P3/P7/2P2PPP/6K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | jonesy0521 | checkmated ❌ | 30/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1ppp/8/2b1p3/8/1P4P1/PBPPPqBP/RN1QK1NR w KQkq -">Link</a> | Rapid |
-| wshamy | **ChessHamper888** | win 🥇 | 30/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3kr3/2p5/p1p3p1/2b2p2/3N4/1BB3P1/PP3RKP/2q5 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
