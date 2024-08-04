@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 628 | 324 | 157 |
+| Current | 636 | 324 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ssarabj | **ChessHamper888** | win 🥇 | 4/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk3/1bppnpbr/pp3p1p/8/2BN4/P1NPBQ1P/1PP5/R3K1R1 b Q -">Link</a> | Rapid |
 | **ChessHamper888** | taupe_poilue | checkmated ❌ | 3/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp2ppp/8/2b1N3/6P1/PP5q/1BP1P3/3RQK1b w kq -">Link</a> | Rapid |
 | **ChessHamper888** | Sahilpirwani | win 🥇 | 3/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q1k2/p2p2r1/1p4B1/2p5/2P2P2/1P4P1/P2P1P2/RN2K3 b Q -">Link</a> | Rapid |
 | muhammedkujabi | **ChessHamper888** | checkmated ❌ | 3/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2k1r/1qp1pQ2/1pN1P2p/pP4p1/P7/n2K3N/2P2PPP/2B4R b - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | DaddyUndeadSins | **ChessHamper888** | checkmated ❌ | 1/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3qk1Q1/2ppp2r/3r3p/2n3p1/8/5N2/P2B1PPP/5RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Kenvic28 | win 🥇 | 1/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pp1p3p/4p3/2p1Np2/8/NP5P/P1PPPPBR/R2QK3 b Qkq -">Link</a> | Rapid |
 | anmolvermaji | **ChessHamper888** | win 🥇 | 1/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Qnr/3kpp2/3p3p/1p4p1/3pP3/2q5/2P1P1PP/r2K1B1R w - -">Link</a> | Rapid |
-| kemet252 | **ChessHamper888** | win 🥇 | 31/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r3/2pk2b1/p1n4p/6p1/1p2p3/5N1P/PPP2PP1/2K1R3 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
