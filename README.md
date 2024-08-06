@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 556 | 324 | 157 |
+| Current | 548 | 324 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Flixi3000 | **ChessHamper888** | resigned ❌ | 6/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3kqr/1b1pR3/1p3Q2/p2N4/8/7P/PPP2PP1/3R2K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | manuela23 | resigned ❌ | 6/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/pp2pppp/8/2pp4/8/1P3PPP/PBPPP1b1/RN1QK1NR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | sarveshpunda | checkmated ❌ | 6/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/7Q/3b1p2/p7/8/1P5P/P1PN3q/5R1K w - -">Link</a> | Rapid |
 | Kauma_Navardze | **ChessHamper888** | resigned ❌ | 5/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnq1k1nr/1bPp1pb1/1p1Np1pp/4P3/P1P5/5N2/5PPP/2BQKB1R b Kk -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | jeovaloiola | checkmated ❌ | 5/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/ppp1n1pp/5p2/3ppb2/8/PP1Pn1bP/RB2P1B1/1N1Q1KNR w kq -">Link</a> | Rapid |
 | dlaxodnr | **ChessHamper888** | checkmated ❌ | 5/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q2n1/2pP2br/ppb2pkp/8/2B1P1Q1/2N1B3/PPP2PPP/R4RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | partymice | win 🥇 | 5/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3p4/6Q1/3N4/4P3/3Q1k2/3P4/4K3 b - -">Link</a> | Rapid |
-| ThatsNowAQueen | **ChessHamper888** | stalemate ⏸️ | 5/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/5P2/5K2/R7/8/8/8/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
