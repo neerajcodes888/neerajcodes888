@@ -194,11 +194,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 548 | 324 | 157 |
+| Current | 556 | 324 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | SMcDaid07 | win 🥇 | 8/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/1np2ppp/Q7/b3p3/6P1/P3P2P/R1PN2B1/4K2R b - -">Link</a> | Rapid |
+| abdullahx4 | **ChessHamper888** | win 🥇 | 8/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4qkr/pb1np1bp/1p6/3p2B1/3P4/2P3PN/PP3P1P/RN3RK1 w - -">Link</a> | Rapid |
+| **ChessHamper888** | pratjoshi54 | resigned ❌ | 8/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k1r/p2nb1pp/p1p2p2/8/3p1PP1/P6P/1r1P4/1NN1K2R w K -">Link</a> | Rapid |
 | itsemitremmus | **ChessHamper888** | agreed ⏸️ | 7/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3K1k2/8/6Q1/8/8/8/8 w - -">Link</a> | Rapid |
 | Flixi3000 | **ChessHamper888** | resigned ❌ | 6/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3kqr/1b1pR3/1p3Q2/p2N4/8/7P/PPP2PP1/3R2K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | manuela23 | resigned ❌ | 6/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/pp2pppp/8/2pp4/8/1P3PPP/PBPPP1b1/RN1QK1NR b KQkq -">Link</a> | Rapid |
@@ -206,9 +209,6 @@
 | Kauma_Navardze | **ChessHamper888** | resigned ❌ | 5/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnq1k1nr/1bPp1pb1/1p1Np1pp/4P3/P1P5/5N2/5PPP/2BQKB1R b Kk -">Link</a> | Rapid |
 | schristiana28 | **ChessHamper888** | win 🥇 | 5/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/7p/pp2p3/5p2/2RNNP2/3Bn2P/PPP5/2Kq4 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Alok_play2learn | checkmated ❌ | 5/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/pppn1ppp/2n5/2bpp3/7P/PP4P1/1BPPPqB1/RN1QK1NR w Q -">Link</a> | Rapid |
-| TonyKukocBulls | **ChessHamper888** | win 🥇 | 5/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k1p/3K4/4p2r/8/7P/4p3/8 w - -">Link</a> | Rapid |
-| **ChessHamper888** | jeovaloiola | checkmated ❌ | 5/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/ppp1n1pp/5p2/3ppb2/8/PP1Pn1bP/RB2P1B1/1N1Q1KNR w kq -">Link</a> | Rapid |
-| dlaxodnr | **ChessHamper888** | checkmated ❌ | 5/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q2n1/2pP2br/ppb2pkp/8/2B1P1Q1/2N1B3/PPP2PPP/R4RK1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
