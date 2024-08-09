@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 556 | 324 | 157 |
+| Current | 549 | 324 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | ademi24 | resigned ❌ | 9/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/pppp1ppp/2n5/4p3/4N3/PP1P2Pq/1BP1P3/R1Q1K1bB w Qkq -">Link</a> | Rapid |
 | **ChessHamper888** | SMcDaid07 | win 🥇 | 8/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/1np2ppp/Q7/b3p3/6P1/P3P2P/R1PN2B1/4K2R b - -">Link</a> | Rapid |
 | abdullahx4 | **ChessHamper888** | win 🥇 | 8/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4qkr/pb1np1bp/1p6/3p2B1/3P4/2P3PN/PP3P1P/RN3RK1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | pratjoshi54 | resigned ❌ | 8/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k1r/p2nb1pp/p1p2p2/8/3p1PP1/P6P/1r1P4/1NN1K2R w K -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | sarveshpunda | checkmated ❌ | 6/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/7Q/3b1p2/p7/8/1P5P/P1PN3q/5R1K w - -">Link</a> | Rapid |
 | Kauma_Navardze | **ChessHamper888** | resigned ❌ | 5/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnq1k1nr/1bPp1pb1/1p1Np1pp/4P3/P1P5/5N2/5PPP/2BQKB1R b Kk -">Link</a> | Rapid |
 | schristiana28 | **ChessHamper888** | win 🥇 | 5/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/7p/pp2p3/5p2/2RNNP2/3Bn2P/PPP5/2Kq4 w - -">Link</a> | Rapid |
-| **ChessHamper888** | Alok_play2learn | checkmated ❌ | 5/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/pppn1ppp/2n5/2bpp3/7P/PP4P1/1BPPPqB1/RN1QK1NR w Q -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
