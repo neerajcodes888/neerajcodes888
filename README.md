@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 549 | 324 | 157 |
+| Current | 557 | 324 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| VearonRogers | **ChessHamper888** | win 🥇 | 10/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/1b1p4/3N1k2/p7/n1B5/5P2/1P4P1/2B1K3 w - -">Link</a> | Rapid |
 | **ChessHamper888** | HaloSurv | resigned ❌ | 10/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/pp4pp/8/8/2Kb4/P4q1P/1B4r1/R2N3R b - -">Link</a> | Rapid |
 | jain310m | **ChessHamper888** | win 🥇 | 9/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/3qp3/4Nk1p/3p1P2/4Q1R1/1Pb5/2P4P/3K4 w - -">Link</a> | Rapid |
 | **ChessHamper888** | ademi24 | resigned ❌ | 9/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/pppp1ppp/2n5/4p3/4N3/PP1P2Pq/1BP1P3/R1Q1K1bB w Qkq -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | itsemitremmus | **ChessHamper888** | agreed ⏸️ | 7/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3K1k2/8/6Q1/8/8/8/8 w - -">Link</a> | Rapid |
 | Flixi3000 | **ChessHamper888** | resigned ❌ | 6/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3kqr/1b1pR3/1p3Q2/p2N4/8/7P/PPP2PP1/3R2K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | manuela23 | resigned ❌ | 6/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/pp2pppp/8/2pp4/8/1P3PPP/PBPPP1b1/RN1QK1NR b KQkq -">Link</a> | Rapid |
-| **ChessHamper888** | sarveshpunda | checkmated ❌ | 6/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/7Q/3b1p2/p7/8/1P5P/P1PN3q/5R1K w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
