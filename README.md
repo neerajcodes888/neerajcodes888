@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 572 | 324 | 157 |
+| Current | 565 | 324 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Mmm9282i | checkmated ❌ | 12/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/p3rp1p/1p3np1/1N1p4/3P2bP/6b1/3PP3/R2QKB1R w K -">Link</a> | Rapid |
 | **ChessHamper888** | gato7z | resigned ❌ | 12/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/pb5p/2n3pQ/1pb5/8/1P2Pr1P/1BPP3q/RN2K3 b q -">Link</a> | Rapid |
 | KELL_z | **ChessHamper888** | checkmated ❌ | 12/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3r4/6R1/5Pk1/6P1/6K1/8/8 b - -">Link</a> | Rapid |
 | Paradise_ghost | **ChessHamper888** | win 🥇 | 10/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1qk1n1/1bppp3/1p2p1N1/1P1P3P/2B5/8/3b1r1P/2rK3R w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | VearonRogers | **ChessHamper888** | win 🥇 | 10/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/1b1p4/3N1k2/p7/n1B5/5P2/1P4P1/2B1K3 w - -">Link</a> | Rapid |
 | **ChessHamper888** | HaloSurv | resigned ❌ | 10/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/pp4pp/8/8/2Kb4/P4q1P/1B4r1/R2N3R b - -">Link</a> | Rapid |
 | jain310m | **ChessHamper888** | win 🥇 | 9/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/3qp3/4Nk1p/3p1P2/4Q1R1/1Pb5/2P4P/3K4 w - -">Link</a> | Rapid |
-| **ChessHamper888** | ademi24 | resigned ❌ | 9/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/pppp1ppp/2n5/4p3/4N3/PP1P2Pq/1BP1P3/R1Q1K1bB w Qkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
