@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 550 | 324 | 157 |
+| Current | 541 | 324 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Naruto_Uchiha_9 | checkmated ❌ | 13/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp2p1p/2n3p1/2b5/4PPnP/PP3NP1/RB2P1B1/1N1qK2R w - -">Link</a> | Rapid |
 | **ChessHamper888** | htoo333 | checkmated ❌ | 13/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2b1r/p1p3pp/8/1Q2PpN1/8/1PPr2nP/1B2q3/1R2K3 w - -">Link</a> | Rapid |
 | na313490 | **ChessHamper888** | checkmated ❌ | 12/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p1Np1pb1/4k2n/1pB1P3/1P3P2/P2B4/3KN1q1/R3n2q b - -">Link</a> | Rapid |
 | **ChessHamper888** | Mmm9282i | checkmated ❌ | 12/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/p3rp1p/1p3np1/1N1p4/3P2bP/6b1/3PP3/R2QKB1R w K -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | Zain-Mujtaba | **ChessHamper888** | win 🥇 | 10/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/7p/2R5/2n3p1/6k1/2b1P1P1/P1P1KP1P/7q b - -">Link</a> | Rapid |
 | **ChessHamper888** | Elderberry79 | win 🥇 | 10/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B6Q/p3pk1R/1p3p2/2p5/1n3Nb1/1P1P4/PBP1PK2/R7 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Anurag2137 | win 🥇 | 10/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b1r/pQpq1p1p/4bp2/6N1/P7/1P1P2PP/2nP1PB1/RN3K1R b - -">Link</a> | Rapid |
-| VearonRogers | **ChessHamper888** | win 🥇 | 10/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/1b1p4/3N1k2/p7/n1B5/5P2/1P4P1/2B1K3 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
