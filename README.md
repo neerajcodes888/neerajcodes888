@@ -16,7 +16,7 @@
 </div>
 <details>
 
- <summary align="center"><h2>Click here For More Information ⬇️ </h2></summary>
+ <summary align="center"><h2>Here More info about me ⬇️ </h2></summary>
  
   # 💫 About Me
   ###
