@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 557 | 324 | 157 |
+| Current | 565 | 324 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | im_syyam | win 🥇 | 17/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2b/pp3p1p/5n2/2Rppb2/8/PP1P2PP/3NPPB1/4K1NR b Kq -">Link</a> | Rapid |
 | Mariette59 | **ChessHamper888** | win 🥇 | 15/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1k4/7r/pb5p/3P4/1K2q3/8/PP6/1RB5 w - -">Link</a> | Rapid |
 | hehe6106 | **ChessHamper888** | win 🥇 | 15/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/2pp1p2/2bb3p/5P1N/p5Q1/2P3P1/R3B2P/4K1q1 w kq -">Link</a> | Rapid |
 | **ChessHamper888** | Naruto_Uchiha_9 | checkmated ❌ | 13/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp2p1p/2n3p1/2b5/4PPnP/PP3NP1/RB2P1B1/1N1qK2R w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | gato7z | resigned ❌ | 12/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/pb5p/2n3pQ/1pb5/8/1P2Pr1P/1BPP3q/RN2K3 b q -">Link</a> | Rapid |
 | KELL_z | **ChessHamper888** | checkmated ❌ | 12/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3r4/6R1/5Pk1/6P1/6K1/8/8 b - -">Link</a> | Rapid |
 | Paradise_ghost | **ChessHamper888** | win 🥇 | 10/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1qk1n1/1bppp3/1p2p1N1/1P1P3P/2B5/8/3b1r1P/2rK3R w - -">Link</a> | Rapid |
-| Zain-Mujtaba | **ChessHamper888** | win 🥇 | 10/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/7p/2R5/2n3p1/6k1/2b1P1P1/P1P1KP1P/7q b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
