@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 565 | 324 | 157 |
+| Current | 573 | 324 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| cricri130 | **ChessHamper888** | win 🥇 | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kbnr/p5pp/1pp5/8/P1B5/1P6/2P2P1P/qNB1K1Nb w kq -">Link</a> | Rapid |
 | **ChessHamper888** | The_Saint_2000 | checkmated ❌ | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/1p3p2/2p1k3/q2p3Q/P2P4/2b5/2PNPP2/4K1r1 w - -">Link</a> | Rapid |
 | mmmapache | **ChessHamper888** | checkmated ❌ | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn5r/5pbp/3Q1kp1/p2Pp3/2B1P3/5N2/P4PPP/2R3K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | blunderrolls | checkmated ❌ | 21/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/2p2p2/rp4p1/p3P2p/1P5P/P1P1p1n1/1BQ1P3/R5Kq w - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | PECO50 | **ChessHamper888** | win 🥇 | 18/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n2k1nr/rb1p1p2/p2P2p1/1p2B1Np/1P6/2NQ2P1/P3BP1P/R4RKq w - -">Link</a> | Rapid |
 | RishSari | **ChessHamper888** | checkmated ❌ | 18/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/1P5k/5P2/7Q/5KR1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | im_syyam | win 🥇 | 17/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2b/pp3p1p/5n2/2Rppb2/8/PP1P2PP/3NPPB1/4K1NR b Kq -">Link</a> | Rapid |
-| Mariette59 | **ChessHamper888** | win 🥇 | 15/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1k4/7r/pb5p/3P4/1K2q3/8/PP6/1RB5 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
