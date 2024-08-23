@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 581 | 324 | 157 |
+| Current | 573 | 324 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| mmmapache | **ChessHamper888** | checkmated ❌ | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn5r/5pbp/3Q1kp1/p2Pp3/2B1P3/5N2/P4PPP/2R3K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | blunderrolls | checkmated ❌ | 21/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/2p2p2/rp4p1/p3P2p/1P5P/P1P1p1n1/1BQ1P3/R5Kq w - -">Link</a> | Rapid |
 | prakashpalanisamy | **ChessHamper888** | win 🥇 | 21/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/1bppppb1/pp4p1/6p1/2B1P3/P1NP4/1PP2PPP/R1BQK2R w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | dboy977777 | win 🥇 | 19/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kb1r/pp4pp/4bn2/8/P1Np4/qP4PP/2PPP1B1/RN1QK2R w KQkq -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | im_syyam | win 🥇 | 17/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2b/pp3p1p/5n2/2Rppb2/8/PP1P2PP/3NPPB1/4K1NR b Kq -">Link</a> | Rapid |
 | Mariette59 | **ChessHamper888** | win 🥇 | 15/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1k4/7r/pb5p/3P4/1K2q3/8/PP6/1RB5 w - -">Link</a> | Rapid |
 | hehe6106 | **ChessHamper888** | win 🥇 | 15/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/2pp1p2/2bb3p/5P1N/p5Q1/2P3P1/R3B2P/4K1q1 w kq -">Link</a> | Rapid |
-| **ChessHamper888** | Naruto_Uchiha_9 | checkmated ❌ | 13/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp2p1p/2n3p1/2b5/4PPnP/PP3NP1/RB2P1B1/1N1qK2R w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
