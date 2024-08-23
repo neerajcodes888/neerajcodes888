@@ -199,6 +199,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | CryptoCactus | win 🥇 | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1r2/1pp2p2/2n2k1R/4pNp1/pPP1B3/P5P1/1B2K3/RN6 b - -">Link</a> | Rapid |
+| CryptoCactus | **ChessHamper888** | checkmated ❌ | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5r2/8/p2b2Q1/1n1P1Bk1/8/1PP2PPP/5RK1 b - -">Link</a> | Rapid |
 | cricri130 | **ChessHamper888** | win 🥇 | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kbnr/p5pp/1pp5/8/P1B5/1P6/2P2P1P/qNB1K1Nb w kq -">Link</a> | Rapid |
 | **ChessHamper888** | The_Saint_2000 | checkmated ❌ | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/1p3p2/2p1k3/q2p3Q/P2P4/2b5/2PNPP2/4K1r1 w - -">Link</a> | Rapid |
 | mmmapache | **ChessHamper888** | checkmated ❌ | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn5r/5pbp/3Q1kp1/p2Pp3/2B1P3/5N2/P4PPP/2R3K1 b - -">Link</a> | Rapid |
@@ -207,8 +209,6 @@
 | **ChessHamper888** | dboy977777 | win 🥇 | 19/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kb1r/pp4pp/4bn2/8/P1Np4/qP4PP/2PPP1B1/RN1QK2R w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | john-benedict | win 🥇 | 18/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/p6p/2Bb1qp1/1rp5/7P/PP1P2P1/2P2P1R/5K2 b - -">Link</a> | Rapid |
 | PECO50 | **ChessHamper888** | win 🥇 | 18/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n2k1nr/rb1p1p2/p2P2p1/1p2B1Np/1P6/2NQ2P1/P3BP1P/R4RKq w - -">Link</a> | Rapid |
-| RishSari | **ChessHamper888** | checkmated ❌ | 18/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/1P5k/5P2/7Q/5KR1 b - -">Link</a> | Rapid |
-| **ChessHamper888** | im_syyam | win 🥇 | 17/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2b/pp3p1p/5n2/2Rppb2/8/PP1P2PP/3NPPB1/4K1NR b Kq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
