@@ -194,11 +194,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 558 | 324 | 157 |
+| Current | 567 | 324 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| adjoshi73 | **ChessHamper888** | win 🥇 | 24/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn4k1/p1bp3p/bpp3p1/8/3BB3/5P2/P3N1PP/1N1R2K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | SneakyNeas | win 🥇 | 24/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6pp/P4p2/b3pB2/6PP/P2K4/8/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Abdus7 | resigned ❌ | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1p3pp1/2pq2b1/3pn2p/3Bp2P/4P3/r1nPQP2/3K1BNR w - -">Link</a> | Rapid |
 | Vighupool14 | **ChessHamper888** | resigned ❌ | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rk4/1R5p/8/p4p2/8/2B5/PP5P/2K1R3 b - -">Link</a> | Rapid |
@@ -208,7 +209,6 @@
 | **ChessHamper888** | CryptoCactus | win 🥇 | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1r2/1pp2p2/2n2k1R/4pNp1/pPP1B3/P5P1/1B2K3/RN6 b - -">Link</a> | Rapid |
 | CryptoCactus | **ChessHamper888** | checkmated ❌ | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5r2/8/p2b2Q1/1n1P1Bk1/8/1PP2PPP/5RK1 b - -">Link</a> | Rapid |
 | cricri130 | **ChessHamper888** | win 🥇 | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kbnr/p5pp/1pp5/8/P1B5/1P6/2P2P1P/qNB1K1Nb w kq -">Link</a> | Rapid |
-| **ChessHamper888** | The_Saint_2000 | checkmated ❌ | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/1p3p2/2p1k3/q2p3Q/P2P4/2b5/2PNPP2/4K1r1 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
