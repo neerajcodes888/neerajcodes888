@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 559 | 324 | 157 |
+| Current | 567 | 324 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Ossammas | **ChessHamper888** | win 🥇 | 25/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kr2/1b5p/pp4p1/2p1b1B1/3p4/3P2P1/PP3P1P/2R1Q1Kq w q -">Link</a> | Rapid |
 | **ChessHamper888** | Joe-KEY | abandoned  | 25/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/8/nbp5/pp5k/3Kb3/PP6/2P2P2/R7 w - -">Link</a> | Rapid |
 | adjoshi73 | **ChessHamper888** | win 🥇 | 24/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn4k1/p1bp3p/bpp3p1/8/3BB3/5P2/P3N1PP/1N1R2K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | SneakyNeas | win 🥇 | 24/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6pp/P4p2/b3pB2/6PP/P2K4/8/8 b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | KazooMinions | resigned ❌ | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2pk4/1p2nK2/1q6/3p4/8/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | indekato | win 🥇 | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pbpn2Qp/1p2q2n/3p4/8/1P3PP1/PBP1P1B1/RN2K1NR b KQ -">Link</a> | Rapid |
 | **ChessHamper888** | CryptoCactus | win 🥇 | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1r2/1pp2p2/2n2k1R/4pNp1/pPP1B3/P5P1/1B2K3/RN6 b - -">Link</a> | Rapid |
-| CryptoCactus | **ChessHamper888** | checkmated ❌ | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5r2/8/p2b2Q1/1n1P1Bk1/8/1PP2PPP/5RK1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
