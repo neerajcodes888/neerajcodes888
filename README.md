@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 567 | 324 | 157 |
+| Current | 559 | 324 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | HWKINSANE | checkmated ❌ | 26/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pp3p1p/3P4/1Q3p2/3b1P2/P7/b1PP2PP/1NK1rB1n w - -">Link</a> | Rapid |
 | HossainKhan123 | **ChessHamper888** | win 🥇 | 26/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3k1r/1b1pnp2/p2p1b2/8/2B1Q3/2R5/P5Pq/4R2K w - -">Link</a> | Rapid |
 | **ChessHamper888** | LokeshMarupuri | win 🥇 | 26/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kbnr/pp3ppp/5B2/8/4p3/1P2p1P1/P2P1PBP/RNQ1K1NR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | fgesess | resigned ❌ | 25/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/1p3ppp/pn1b4/4p1P1/8/3q2NP/bB2NP1R/7K w - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | adjoshi73 | **ChessHamper888** | win 🥇 | 24/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn4k1/p1bp3p/bpp3p1/8/3BB3/5P2/P3N1PP/1N1R2K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | SneakyNeas | win 🥇 | 24/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6pp/P4p2/b3pB2/6PP/P2K4/8/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Abdus7 | resigned ❌ | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1p3pp1/2pq2b1/3pn2p/3Bp2P/4P3/r1nPQP2/3K1BNR w - -">Link</a> | Rapid |
-| Vighupool14 | **ChessHamper888** | resigned ❌ | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rk4/1R5p/8/p4p2/8/2B5/PP5P/2K1R3 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
