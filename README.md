@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **neerajmail888@gmail.com**
   
-- ⚡ Fun fact  :  The last step against all odds
+- ⚡ Fun fact  :  Waiting for my bug
 
 ###
   
