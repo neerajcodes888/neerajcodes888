@@ -200,6 +200,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Abdulkhadar_11 | agreed ⏸️ | 27/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rq1rk1/2pbbpp1/p1n2n1p/P7/1p6/1P2P1PP/RBP1P1B1/1N1QK1NR w - -">Link</a> | Rapid |
 | abravi | **ChessHamper888** | win 🥇 | 27/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn5r/p1pp1kpp/1p1b4/5p2/5n1P/8/PP3Pq1/6K1 w - -">Link</a> | Rapid |
 | Fl_2l1 | **ChessHamper888** | win 🥇 | 27/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1k1bnr/p5pp/1pp5/4Pp2/2q5/2N5/PPP2PPP/R1B2K1R w - -">Link</a> | Rapid |
 | **ChessHamper888** | HWKINSANE | checkmated ❌ | 26/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pp3p1p/3P4/1Q3p2/3b1P2/P7/b1PP2PP/1NK1rB1n w - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | Namiq7778899 | **ChessHamper888** | checkmated ❌ | 25/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1q2nr/rbp1pB2/pp1p3p/2kPP3/1P5N/P1PQ4/6PP/RNB2RK1 b - b3">Link</a> | Rapid |
 | Ossammas | **ChessHamper888** | win 🥇 | 25/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kr2/1b5p/pp4p1/2p1b1B1/3p4/3P2P1/PP3P1P/2R1Q1Kq w q -">Link</a> | Rapid |
 | **ChessHamper888** | Joe-KEY | abandoned  | 25/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/8/nbp5/pp5k/3Kb3/PP6/2P2P2/R7 w - -">Link</a> | Rapid |
-| adjoshi73 | **ChessHamper888** | win 🥇 | 24/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn4k1/p1bp3p/bpp3p1/8/3BB3/5P2/P3N1PP/1N1R2K1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
