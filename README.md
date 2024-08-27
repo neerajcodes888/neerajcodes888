@@ -1,4 +1,4 @@
- <h1 align="center"><code>Hello People 👋 Myself Neeraj Kumar </code></h1>
+ <h1 align="center"><code>Hello People 👋 Myself Neeraj Kumar</code></h1>
  
 
 
