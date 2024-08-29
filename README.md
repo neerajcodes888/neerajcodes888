@@ -200,6 +200,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | franchoME | win 🥇 | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R3Qb1r/5pkp/p2p4/4pN2/r3P3/2PP1K2/8 b - -">Link</a> | Rapid |
+| **ChessHamper888** | abbasrezai | resigned ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/5p2/4b3/8/8/2q1n3/7r/5K2 w - -">Link</a> | Rapid |
 | zorozorozorozorozoro | **ChessHamper888** | win 🥇 | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/2Qp1pbp/bp2P1p1/p7/4PN2/4BPP1/nqP4P/1K1R1BNR w kq -">Link</a> | Rapid |
 | TheFallenPriest | **ChessHamper888** | win 🥇 | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/2p1ppb1/pp5p/4P1p1/2B3q1/2N5/PPP2PPP/R1BR2K1 w kq -">Link</a> | Rapid |
 | baskar19958 | **ChessHamper888** | checkmated ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1r1/1b2Q3/1pp2nN1/p2p4/5P2/3P2P1/P1PK3P/Bq4NR b q -">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | **ChessHamper888** | papis0987 | win 🥇 | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/2P2p2/3K1B2/b7/2RP4/8/8 b - -">Link</a> | Rapid |
 | anirana | **ChessHamper888** | resigned ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=bn2k2r/2N1p1bp/q2pPnp1/3P1p2/5P2/6PN/1PP3BP/2BQK2R b Kk -">Link</a> | Rapid |
 | theompro | **ChessHamper888** | repetition ⏸️ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/1bpp1pbp/4p1p1/p3n1B1/4P3/N1P2P1N/PP2B1PP/R2QK2R b KQkq -">Link</a> | Rapid |
-| **ChessHamper888** | Alltot70 | win 🥇 | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q1kr3r/2pqp1b1/pp3p2/6p1/5pP1/1P6/1B1P4/2R2KNR b - -">Link</a> | Rapid |
-| Alltot70 | **ChessHamper888** | repetition ⏸️ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn6/1bppp1kp/p4n2/3P4/2B5/1PQ2P2/P2N3q/4KR2 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
