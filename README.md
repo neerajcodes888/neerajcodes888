@@ -200,16 +200,16 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| baskar19958 | **ChessHamper888** | checkmated ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1r1/1b2Q3/1pp2nN1/p2p4/5P2/3P2P1/P1PK3P/Bq4NR b q -">Link</a> | Rapid |
+| **ChessHamper888** | PAPAPEC | checkmated ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/pp4p1/5b2/K7/8/8/r7/1q6 w - -">Link</a> | Rapid |
+| venkat130 | **ChessHamper888** | win 🥇 | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k7/1bQ5/p1n3pp/1p1r4/8/8/P1P2PPP/4R1K1 w - -">Link</a> | Rapid |
+| **ChessHamper888** | papis0987 | win 🥇 | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/2P2p2/3K1B2/b7/2RP4/8/8 b - -">Link</a> | Rapid |
 | anirana | **ChessHamper888** | resigned ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=bn2k2r/2N1p1bp/q2pPnp1/3P1p2/5P2/6PN/1PP3BP/2BQK2R b Kk -">Link</a> | Rapid |
 | theompro | **ChessHamper888** | repetition ⏸️ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/1bpp1pbp/4p1p1/p3n1B1/4P3/N1P2P1N/PP2B1PP/R2QK2R b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Alltot70 | win 🥇 | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q1kr3r/2pqp1b1/pp3p2/6p1/5pP1/1P6/1B1P4/2R2KNR b - -">Link</a> | Rapid |
 | Alltot70 | **ChessHamper888** | repetition ⏸️ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn6/1bppp1kp/p4n2/3P4/2B5/1PQ2P2/P2N3q/4KR2 b - -">Link</a> | Rapid |
 | **ChessHamper888** | JahirUrb | resigned ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr3/1Bpk1p2/7P/4p3/2bn4/8/3BPn2/3K2NR w - -">Link</a> | Rapid |
 | **ChessHamper888** | Yaxyo13 | timeout ❌ | 28/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/2pp4/8/1k6/3r4/R7/5K2 w - -">Link</a> | Blitz |
-| lokmane20 | **ChessHamper888** | checkmated ❌ | 28/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2kb1B/p2Q4/B1p1p1p1/8/4b3/N6P/P4P1R/2KR2N1 b - -">Link</a> | Blitz |
-| **ChessHamper888** | martin_turm | win 🥇 | 28/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2r2pp/2p2pk1/4p3/7P/PKPq2P1/2R2P2/8 b - -">Link</a> | Blitz |
-| **ChessHamper888** | ploopeded | win 🥇 | 28/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/6RR/5p2/4p2p/2npP3/5N1P/2PPK3/1rb5 b - -">Link</a> | Rapid |
-| Gonzalo-Ibarbe | **ChessHamper888** | win 🥇 | 28/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/pb1p2b1/1pp1P3/6B1/2B5/2NP1Q2/PPP2PPq/R4RK1 w kq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
