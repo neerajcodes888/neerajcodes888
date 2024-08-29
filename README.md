@@ -195,11 +195,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 615 | 295 | 157 |
+| Current | 607 | 295 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| anirana | **ChessHamper888** | resigned ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=bn2k2r/2N1p1bp/q2pPnp1/3P1p2/5P2/6PN/1PP3BP/2BQK2R b Kk -">Link</a> | Rapid |
+| theompro | **ChessHamper888** | repetition ⏸️ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/1bpp1pbp/4p1p1/p3n1B1/4P3/N1P2P1N/PP2B1PP/R2QK2R b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Alltot70 | win 🥇 | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q1kr3r/2pqp1b1/pp3p2/6p1/5pP1/1P6/1B1P4/2R2KNR b - -">Link</a> | Rapid |
 | Alltot70 | **ChessHamper888** | repetition ⏸️ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn6/1bppp1kp/p4n2/3P4/2B5/1PQ2P2/P2N3q/4KR2 b - -">Link</a> | Rapid |
 | **ChessHamper888** | JahirUrb | resigned ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr3/1Bpk1p2/7P/4p3/2bn4/8/3BPn2/3K2NR w - -">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | **ChessHamper888** | martin_turm | win 🥇 | 28/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2r2pp/2p2pk1/4p3/7P/PKPq2P1/2R2P2/8 b - -">Link</a> | Blitz |
 | **ChessHamper888** | ploopeded | win 🥇 | 28/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/6RR/5p2/4p2p/2npP3/5N1P/2PPK3/1rb5 b - -">Link</a> | Rapid |
 | Gonzalo-Ibarbe | **ChessHamper888** | win 🥇 | 28/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/pb1p2b1/1pp1P3/6B1/2B5/2NP1Q2/PPP2PPq/R4RK1 w kq -">Link</a> | Rapid |
-| aditya1234679 | **ChessHamper888** | win 🥇 | 28/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/pb1p1pbp/1p2p1p1/2p5/3P1Q1P/1B6/PPP2Pq1/RNB1R1K1 w kq -">Link</a> | Rapid |
-| **ChessHamper888** | kryswills | checkmated ❌ | 28/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/ppp2ppp/2nb4/8/6P1/1P2pN1P/PBP1PqB1/R2Q1KNR w kq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
