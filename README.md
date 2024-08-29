@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 615 | 295 | 157 |
+| Current | 623 | 295 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| zorozorozorozorozoro | **ChessHamper888** | win 🥇 | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/2Qp1pbp/bp2P1p1/p7/4PN2/4BPP1/nqP4P/1K1R1BNR w kq -">Link</a> | Rapid |
 | TheFallenPriest | **ChessHamper888** | win 🥇 | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/2p1ppb1/pp5p/4P1p1/2B3q1/2N5/PPP2PPP/R1BR2K1 w kq -">Link</a> | Rapid |
 | baskar19958 | **ChessHamper888** | checkmated ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1r1/1b2Q3/1pp2nN1/p2p4/5P2/3P2P1/P1PK3P/Bq4NR b q -">Link</a> | Rapid |
 | **ChessHamper888** | PAPAPEC | checkmated ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/pp4p1/5b2/K7/8/8/r7/1q6 w - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | theompro | **ChessHamper888** | repetition ⏸️ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/1bpp1pbp/4p1p1/p3n1B1/4P3/N1P2P1N/PP2B1PP/R2QK2R b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Alltot70 | win 🥇 | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q1kr3r/2pqp1b1/pp3p2/6p1/5pP1/1P6/1B1P4/2R2KNR b - -">Link</a> | Rapid |
 | Alltot70 | **ChessHamper888** | repetition ⏸️ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn6/1bppp1kp/p4n2/3P4/2B5/1PQ2P2/P2N3q/4KR2 b - -">Link</a> | Rapid |
-| **ChessHamper888** | JahirUrb | resigned ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr3/1Bpk1p2/7P/4p3/2bn4/8/3BPn2/3K2NR w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
