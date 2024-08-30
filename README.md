@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 606 | 295 | 157 |
+| Current | 614 | 295 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| romex92 | **ChessHamper888** | win 🥇 | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n2k3/rb1pp2B/pp1p4/8/5q2/8/P1P3rP/3Q2KR w - -">Link</a> | Rapid |
 | LeonardPeters2612 | **ChessHamper888** | checkmated ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/pbpppQ1p/1p4p1/8/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Praveenphshyjj | checkmated ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6K1/6q1/4n3/6k1/8/8/8/8 w - -">Link</a> | Rapid |
 | Praveenphshyjj | **ChessHamper888** | checkmated ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/1b1ppQb1/ppn2npp/5p2/2B2B2/2P1PP2/PP4PP/RN2K1NR b KQkq -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | zorozorozorozorozoro | **ChessHamper888** | win 🥇 | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/2Qp1pbp/bp2P1p1/p7/4PN2/4BPP1/nqP4P/1K1R1BNR w kq -">Link</a> | Rapid |
 | TheFallenPriest | **ChessHamper888** | win 🥇 | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/2p1ppb1/pp5p/4P1p1/2B3q1/2N5/PPP2PPP/R1BR2K1 w kq -">Link</a> | Rapid |
 | baskar19958 | **ChessHamper888** | checkmated ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1r1/1b2Q3/1pp2nN1/p2p4/5P2/3P2P1/P1PK3P/Bq4NR b q -">Link</a> | Rapid |
-| **ChessHamper888** | PAPAPEC | checkmated ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/pp4p1/5b2/K7/8/8/r7/1q6 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
