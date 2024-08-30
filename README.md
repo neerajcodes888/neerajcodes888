@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 614 | 295 | 157 |
+| Current | 622 | 295 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| vinchukarthic17 | **ChessHamper888** | win 🥇 | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n6/1kp5/2b5/2P4K/8/6q1/8/7r w - -">Link</a> | Rapid |
 | Plsgoezonmethx | **ChessHamper888** | win 🥇 | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1p2k3/3R3p/1B1PpPr1/6PK/1r6/5R2 w - -">Link</a> | Rapid |
 | **ChessHamper888** | mohdisham | resigned ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pkpN3p/1p2R3/8/8/1r6/r5K1/8 w - -">Link</a> | Rapid |
 | romex92 | **ChessHamper888** | win 🥇 | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n2k3/rb1pp2B/pp1p4/8/5q2/8/P1P3rP/3Q2KR w - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | louloukoi02 | win 🥇 | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q5Q1/2k5/8/K7/4p3/4P3/4P3/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | franchoME | win 🥇 | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R3Qb1r/5pkp/p2p4/4pN2/r3P3/2PP1K2/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | abbasrezai | resigned ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/5p2/4b3/8/8/2q1n3/7r/5K2 w - -">Link</a> | Rapid |
-| zorozorozorozorozoro | **ChessHamper888** | win 🥇 | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/2Qp1pbp/bp2P1p1/p7/4PN2/4BPP1/nqP4P/1K1R1BNR w kq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
