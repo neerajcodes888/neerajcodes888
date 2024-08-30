@@ -200,6 +200,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Agusgaa | win 🥇 | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/p1p2pQp/1pn3p1/2bb2P1/4p2P/PP1P4/RBP2PnR/1N1K2N1 b - -">Link</a> | Rapid |
+| **ChessHamper888** | wachiyuki | resigned ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2q1k1/pp5p/4brp1/3B2nP/8/1P1P4/P3pK2/RN4NR w - -">Link</a> | Rapid |
 | vinchukarthic17 | **ChessHamper888** | resigned ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3kn1/r3q1b1/1pppp1N1/8/3PN1P1/2PB4/P3K1P1/R1B4Q b - -">Link</a> | Rapid |
 | **ChessHamper888** | vinchukarthic17 | checkmated ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/pp6/2pb4/6p1/P2p2b1/NP4q1/1BPP1K2/5R2 w q -">Link</a> | Rapid |
 | vinchukarthic17 | **ChessHamper888** | win 🥇 | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n6/1kp5/2b5/2P4K/8/6q1/8/7r w - -">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | romex92 | **ChessHamper888** | win 🥇 | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n2k3/rb1pp2B/pp1p4/8/5q2/8/P1P3rP/3Q2KR w - -">Link</a> | Rapid |
 | LeonardPeters2612 | **ChessHamper888** | checkmated ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/pbpppQ1p/1p4p1/8/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Praveenphshyjj | checkmated ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6K1/6q1/4n3/6k1/8/8/8/8 w - -">Link</a> | Rapid |
-| Praveenphshyjj | **ChessHamper888** | checkmated ❌ | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/1b1ppQb1/ppn2npp/5p2/2B2B2/2P1PP2/PP4PP/RN2K1NR b KQkq -">Link</a> | Rapid |
-| **ChessHamper888** | louloukoi02 | win 🥇 | 29/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q5Q1/2k5/8/K7/4p3/4P3/4P3/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
