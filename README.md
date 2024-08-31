@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 589 | 295 | 157 |
+| Current | 597 | 295 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | PatBateman02 | win 🥇 | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/1bp2pQp/2n5/p1bp3R/1p3P2/PP2PN2/1BPP2B1/RN2K3 b Q -">Link</a> | Rapid |
 | **ChessHamper888** | Nikoo1396 | checkmated ❌ | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pp5p/2p5/3p1p2/1P2pb2/P1NP4/1BPKB3/R5q1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | ertonello | checkmated ❌ | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K2q2k1/4rppp/1p6/P7/8/8/8/8 w - -">Link</a> | Rapid |
 | dumbguy2012 | **ChessHamper888** | win 🥇 | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/p1pp1p1p/1p2p1p1/4P3/2B5/5b2/PPPP1PPP/RNB1K1NR w KQkq -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | Agusgaa | win 🥇 | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/p1p2pQp/1pn3p1/2bb2P1/4p2P/PP1P4/RBP2PnR/1N1K2N1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | wachiyuki | resigned ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2q1k1/pp5p/4brp1/3B2nP/8/1P1P4/P3pK2/RN4NR w - -">Link</a> | Rapid |
 | vinchukarthic17 | **ChessHamper888** | resigned ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3kn1/r3q1b1/1pppp1N1/8/3PN1P1/2PB4/P3K1P1/R1B4Q b - -">Link</a> | Rapid |
-| **ChessHamper888** | vinchukarthic17 | checkmated ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/pp6/2pb4/6p1/P2p2b1/NP4q1/1BPP1K2/5R2 w q -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
