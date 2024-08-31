@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 605 | 295 | 157 |
+| Current | 597 | 295 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | ertonello | checkmated ❌ | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K2q2k1/4rppp/1p6/P7/8/8/8/8 w - -">Link</a> | Rapid |
 | dumbguy2012 | **ChessHamper888** | win 🥇 | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/p1pp1p1p/1p2p1p1/4P3/2B5/5b2/PPPP1PPP/RNB1K1NR w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | turas13 | abandoned  | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/pp2pn2/2p1b1n1/5p1R/N7/PP3Q2/2q2PB1/3r1KN1 w - -">Link</a> | Rapid |
 | randre2016 | **ChessHamper888** | checkmated ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/5Qk1/7p/2qB2p1/8/6PN/5PKP/8 b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | vinchukarthic17 | **ChessHamper888** | resigned ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3kn1/r3q1b1/1pppp1N1/8/3PN1P1/2PB4/P3K1P1/R1B4Q b - -">Link</a> | Rapid |
 | **ChessHamper888** | vinchukarthic17 | checkmated ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/pp6/2pb4/6p1/P2p2b1/NP4q1/1BPP1K2/5R2 w q -">Link</a> | Rapid |
 | vinchukarthic17 | **ChessHamper888** | win 🥇 | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n6/1kp5/2b5/2P4K/8/6q1/8/7r w - -">Link</a> | Rapid |
-| Plsgoezonmethx | **ChessHamper888** | win 🥇 | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1p2k3/3R3p/1B1PpPr1/6PK/1r6/5R2 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
