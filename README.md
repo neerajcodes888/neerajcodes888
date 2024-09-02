@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 605 | 295 | 157 |
+| Current | 614 | 295 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | jeffersonford | win 🥇 | 2/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q1k2/pp3rpp/8/6P1/1P1P1p2/P1KP3P/1B3q2/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | BoilermakerChess | checkmated ❌ | 1/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp4Bp/2p3p1/3P4/8/PP3P1P/2QPr1q1/1R5K w - -">Link</a> | Rapid |
 | jonasmayeur | **ChessHamper888** | win 🥇 | 1/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1nbqk1n1/r1ppp1br/pp3pNp/3P4/2PBPPQ1/2NB4/PP4PP/R4RK1 w - -">Link</a> | Rapid |
 | Ammarala362 | **ChessHamper888** | win 🥇 | 1/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/1bp3b1/ppk4p/3p1Q2/P2q4/1B1N4/2P2PPP/3K2R1 w - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | dumbguy2012 | **ChessHamper888** | win 🥇 | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/p1pp1p1p/1p2p1p1/4P3/2B5/5b2/PPPP1PPP/RNB1K1NR w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | turas13 | abandoned  | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/pp2pn2/2p1b1n1/5p1R/N7/PP3Q2/2q2PB1/3r1KN1 w - -">Link</a> | Rapid |
 | randre2016 | **ChessHamper888** | checkmated ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/5Qk1/7p/2qB2p1/8/6PN/5PKP/8 b - -">Link</a> | Rapid |
-| madhan333 | **ChessHamper888** | win 🥇 | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kbr1/1bpp4/p3p2p/1p6/3NP2q/1B5N/PPP3PP/R3K2R w KQ -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
