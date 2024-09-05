@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 637 | 295 | 157 |
+| Current | 629 | 295 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| andretilaar | **ChessHamper888** | resigned ❌ | 5/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6nr/4pkb1/1q3ppp/p3n3/Q7/3PB3/2PK1PPP/3R3R w - -">Link</a> | Rapid |
 | **ChessHamper888** | qxjj | repetition ⏸️ | 5/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1k3/2B1r1p1/p7/2P2B2/7P/r4P2/4RK2 w - -">Link</a> | Rapid |
 | semire00 | **ChessHamper888** | win 🥇 | 5/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n5r/3pkp1p/5b2/1p6/1Pp5/2K3R1/r6P/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Mwansa5 | win 🥇 | 5/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3N1k1Q/r6p/1p1K2p1/p7/8/1P5P/PBP5/R6R b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | jaimejuarezJumj6005 | win 🥇 | 3/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/ppp1pppp/8/3p1b2/8/1P4P1/P1PPPPBP/RNBQK1NR b KQkq -">Link</a> | Rapid |
 | arjunchandel87 | **ChessHamper888** | checkmated ❌ | 3/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnk1Qb1r/pbp3p1/1p2N2p/5p2/4P3/3P4/P1P2PPP/qN3RK1 b - -">Link</a> | Rapid |
 | mr_shidlovskiy | **ChessHamper888** | checkmated ❌ | 2/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k1bnr/pb1Q4/1pp4p/3p1B2/5q2/2P2N2/PP3PPP/RN2K2R b KQ -">Link</a> | Rapid |
-| **ChessHamper888** | jesper_1010 | checkmated ❌ | 2/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/p4pbp/2pp4/8/4n3/PP1P2P1/1BP1Pq1P/R2QK3 w Q -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
