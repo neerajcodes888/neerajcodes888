@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 605 | 295 | 157 |
+| Current | 613 | 295 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Gallagher1347 | **ChessHamper888** | win 🥇 | 5/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k1r/p3pp2/1p1p1b1p/3P2p1/8/1P1R2B1/nqP2PPP/1K2N2R w - -">Link</a> | Rapid |
 | Apemeh95 | **ChessHamper888** | win 🥇 | 3/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/p1pppp1p/1p4p1/8/3P4/4P1P1/PPP2PbP/RNBQK1NR w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | jaimejuarezJumj6005 | win 🥇 | 3/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/ppp1pppp/8/3p1b2/8/1P4P1/P1PPPPBP/RNBQK1NR b KQkq -">Link</a> | Rapid |
 | arjunchandel87 | **ChessHamper888** | checkmated ❌ | 3/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnk1Qb1r/pbp3p1/1p2N2p/5p2/4P3/3P4/P1P2PPP/qN3RK1 b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | BoilermakerChess | checkmated ❌ | 1/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp4Bp/2p3p1/3P4/8/PP3P1P/2QPr1q1/1R5K w - -">Link</a> | Rapid |
 | jonasmayeur | **ChessHamper888** | win 🥇 | 1/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1nbqk1n1/r1ppp1br/pp3pNp/3P4/2PBPPQ1/2NB4/PP4PP/R4RK1 w - -">Link</a> | Rapid |
 | Ammarala362 | **ChessHamper888** | win 🥇 | 1/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/1bp3b1/ppk4p/3p1Q2/P2q4/1B1N4/2P2PPP/3K2R1 w - -">Link</a> | Rapid |
-| **ChessHamper888** | PatBateman02 | win 🥇 | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/1bp2pQp/2n5/p1bp3R/1p3P2/PP2PN2/1BPP2B1/RN2K3 b Q -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
