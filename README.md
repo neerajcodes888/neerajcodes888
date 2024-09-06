@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 604 | 295 | 157 |
+| Current | 613 | 295 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Shubhss | win 🥇 | 6/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1Q/1p2p3/5pp1/p7/5B2/P6P/2PP4/2KR2NR b q -">Link</a> | Rapid |
 | Ykay0612 | **ChessHamper888** | resigned ❌ | 6/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3">Link</a> | Rapid |
 | legiabao461 | **ChessHamper888** | resigned ❌ | 6/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1nq1k1n1/1r1p2br/p2Np2p/4Ppp1/B7/5N2/P1P2PPP/R1BQ1RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Elrico94 | win 🥇 | 6/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k3q3/nQ5p/5r2/p7/5P2/P6P/2PPN3/1R2K3 b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | qxjj | repetition ⏸️ | 5/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1k3/2B1r1p1/p7/2P2B2/7P/r4P2/4RK2 w - -">Link</a> | Rapid |
 | semire00 | **ChessHamper888** | win 🥇 | 5/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n5r/3pkp1p/5b2/1p6/1Pp5/2K3R1/r6P/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Mwansa5 | win 🥇 | 5/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3N1k1Q/r6p/1p1K2p1/p7/8/1P5P/PBP5/R6R b - -">Link</a> | Rapid |
-| **ChessHamper888** | dewxcw | win 🥇 | 5/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bk2N1/pp3Q2/2p1pB2/4P3/8/1q3NPP/n3P1K1/7R b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
