@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 621 | 295 | 157 |
+| Current | 629 | 295 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Bndnxj | **ChessHamper888** | win 🥇 | 6/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2b/pbpp4/np2p1p1/5pp1/2BPP3/4B3/PPP2PPP/R3K2R w KQq -">Link</a> | Rapid |
 | **ChessHamper888** | simoncastley | win 🥇 | 6/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/p4ppp/4pk2/8/7P/1P2rbP1/7R/R5K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Shubhss | win 🥇 | 6/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1Q/1p2p3/5pp1/p7/5B2/P6P/2PP4/2KR2NR b q -">Link</a> | Rapid |
 | Ykay0612 | **ChessHamper888** | resigned ❌ | 6/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | matiu2009 | checkmated ❌ | 5/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/ppp2ppp/3p4/8/3P1Pb1/1P4P1/PBPPq2P/RNQ1KR2 w Qkq -">Link</a> | Rapid |
 | andretilaar | **ChessHamper888** | resigned ❌ | 5/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6nr/4pkb1/1q3ppp/p3n3/Q7/3PB3/2PK1PPP/3R3R w - -">Link</a> | Rapid |
 | **ChessHamper888** | qxjj | repetition ⏸️ | 5/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1k3/2B1r1p1/p7/2P2B2/7P/r4P2/4RK2 w - -">Link</a> | Rapid |
-| semire00 | **ChessHamper888** | win 🥇 | 5/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n5r/3pkp1p/5b2/1p6/1Pp5/2K3R1/r6P/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
