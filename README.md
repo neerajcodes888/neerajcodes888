@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 629 | 295 | 157 |
+| Current | 638 | 295 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| crispyJ62 | **ChessHamper888** | win 🥇 | 10/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5nr/1b1p1k2/p3p2p/1pP2p2/1P4pP/2NBP3/P1P1QP1P/R4RKq w - -">Link</a> | Rapid |
 | loogooloo | **ChessHamper888** | win 🥇 | 9/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nr/4p1b1/2q2p1p/5P2/7P/6n1/PP1B4/R2K4 w k -">Link</a> | Rapid |
 | **ChessHamper888** | omdulll | resigned ❌ | 9/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p1pn1npp/3p4/2b1p3/2B2PP1/PP2P2P/3P4/qN2K2R w K -">Link</a> | Rapid |
 | **ChessHamper888** | Ahmed_Faizan | resigned ❌ | 9/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b2rk1/5ppp/r1pq1n2/4p3/p2p2P1/P2P3P/2P1PPB1/RnB2KNR w - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | LazyReo | **ChessHamper888** | checkmated ❌ | 8/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1Qk1nr/1b2ppb1/2p4p/p3Pqp1/2B5/P1N1BN1P/1PP2PP1/2KR3R b kq -">Link</a> | Rapid |
 | Chaudz808 | **ChessHamper888** | win 🥇 | 8/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/pbpp1pbp/1p2p1p1/6q1/2BPP3/2N5/PPP2PPP/R1BQ1RK1 b kq d3">Link</a> | Rapid |
 | **ChessHamper888** | njnjnjnjnjnjnjnjnjnjnj | stalemate ⏸️ | 8/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4QQ2/6K1/8/p2k4/P1p5/2P5/8/8 b - -">Link</a> | Rapid |
-| **ChessHamper888** | 777Yarik777 | win 🥇 | 8/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkb1r/1p2nppp/8/p1p5/3p4/1P1P1P2/PBPNQ1PP/R3KBNR b KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
