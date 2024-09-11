@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 654 | 295 | 157 |
+| Current | 646 | 295 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| skdididud | **ChessHamper888** | resigned ❌ | 11/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/3p3p/p2Np3/2P2kP1/8/4BB2/P4P1P/5K2 b - -">Link</a> | Rapid |
 | SAKSHAM-777 | **ChessHamper888** | win 🥇 | 11/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4nbr1/2pk1p2/3p3p/1N1Q4/8/5N2/P5qP/3R3K w - -">Link</a> | Rapid |
 | **ChessHamper888** | SLY_KT | checkmated ❌ | 10/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k2n1/pR3p1p/3B4/8/4q3/KP6/P7/2q5 w - -">Link</a> | Rapid |
 | **ChessHamper888** | metricstroller | win 🥇 | 10/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/8/4pp1k/4R1p1/N1P5/P3P2Q/5P2/4K2B b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | crispyJ62 | **ChessHamper888** | win 🥇 | 10/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5nr/1b1p1k2/p3p2p/1pP2p2/1P4pP/2NBP3/P1P1QP1P/R4RKq w - -">Link</a> | Rapid |
 | loogooloo | **ChessHamper888** | win 🥇 | 9/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nr/4p1b1/2q2p1p/5P2/7P/6n1/PP1B4/R2K4 w k -">Link</a> | Rapid |
 | **ChessHamper888** | omdulll | resigned ❌ | 9/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p1pn1npp/3p4/2b1p3/2B2PP1/PP2P2P/3P4/qN2K2R w K -">Link</a> | Rapid |
-| **ChessHamper888** | Ahmed_Faizan | resigned ❌ | 9/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b2rk1/5ppp/r1pq1n2/4p3/p2p2P1/P2P3P/2P1PPB1/RnB2KNR w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
