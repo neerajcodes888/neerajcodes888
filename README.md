@@ -195,11 +195,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 653 | 295 | 157 |
+| Current | 653 | 300 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| dopatron420 | **ChessHamper888** | resigned ❌ | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3knr/p2p3p/Pp2p3/5p2/3R1P2/3B4/1PPP3P/2B1K1R1 b - -">Link</a> | Blitz |
+| **ChessHamper888** | deekshasinha | win 🥇 | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq1k1r/ppp1ppbp/3p1np1/8/8/1P4PP/PBPPPPB1/RN1QK1NR w KQ -">Link</a> | Blitz |
 | Aelii136 | **ChessHamper888** | abandoned  | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/4p1Q1/2pqBp1p/p1N5/1p1BP2N/8/P1P2PPP/1R3RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Nilsx179 | win 🥇 | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q2k1/pQp2ppp/2n5/3p2r1/1b2p3/1P2P2P/1BPP1PB1/RN3KNR b - -">Link</a> | Rapid |
 | Chestoinou | **ChessHamper888** | win 🥇 | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkr2/7p/pp2Bnp1/2p1bPB1/8/2N2b2/PPP2PPP/R3K2R w KQq -">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | CoachT0316 | **ChessHamper888** | abandoned  | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k3r/7p/2BppRpb/1P6/5P2/8/1PPPK1PP/1NB4R b - -">Link</a> | Rapid |
 | **ChessHamper888** | SajjadJ1357 | win 🥇 | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1k3r/pBp2Q1p/3b4/8/1n6/1P1P3P/PBP1P1K1/RN5R b - -">Link</a> | Rapid |
 | **ChessHamper888** | Loro414 | checkmated ❌ | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p1p3k1/5pp1/7p/1PP2P1K/P4nPP/8/3R4 w - -">Link</a> | Rapid |
-| zyademadd | **ChessHamper888** | resigned ❌ | 11/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1r/4kp1p/b7/6N1/P3Q2P/8/2rP1P2/R3K2R b KQ -">Link</a> | Rapid |
-| **ChessHamper888** | StaliinOffPlanet | stalemate ⏸️ | 11/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/4P3/4K1p1/6Pp/1p5P/1P6/8/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
