@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 653 | 295 | 157 |
+| Current | 645 | 295 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Loro414 | checkmated ❌ | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p1p3k1/5pp1/7p/1PP2P1K/P4nPP/8/3R4 w - -">Link</a> | Rapid |
 | zyademadd | **ChessHamper888** | resigned ❌ | 11/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1r/4kp1p/b7/6N1/P3Q2P/8/2rP1P2/R3K2R b KQ -">Link</a> | Rapid |
 | **ChessHamper888** | StaliinOffPlanet | stalemate ⏸️ | 11/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/4P3/4K1p1/6Pp/1p5P/1P6/8/8 b - -">Link</a> | Rapid |
 | StaliinOffPlanet | **ChessHamper888** | resigned ❌ | 11/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/1bp1p1b1/pp2p1Bp/8/2P3p1/2N1BN2/PP2QPPP/3R1RK1 b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | skdididud | **ChessHamper888** | resigned ❌ | 11/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/3p3p/p2Np3/2P2kP1/8/4BB2/P4P1P/5K2 b - -">Link</a> | Rapid |
 | SAKSHAM-777 | **ChessHamper888** | win 🥇 | 11/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4nbr1/2pk1p2/3p3p/1N1Q4/8/5N2/P5qP/3R3K w - -">Link</a> | Rapid |
 | **ChessHamper888** | SLY_KT | checkmated ❌ | 10/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k2n1/pR3p1p/3B4/8/4q3/KP6/P7/2q5 w - -">Link</a> | Rapid |
-| **ChessHamper888** | metricstroller | win 🥇 | 10/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/8/4pp1k/4R1p1/N1P5/P3P2Q/5P2/4K2B b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
