@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 653 | 300 | 157 |
+| Current | 645 | 300 | 157 |
 | Best | 627 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| randomUserPog | **ChessHamper888** | checkmated ❌ | 25/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1knb/1bpppQ2/pp3p2/6N1/P1BPP3/2N5/1PP2PP1/R1B1K3 b Q -">Link</a> | Rapid |
 | dopatron420 | **ChessHamper888** | resigned ❌ | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3knr/p2p3p/Pp2p3/5p2/3R1P2/3B4/1PPP3P/2B1K1R1 b - -">Link</a> | Blitz |
 | **ChessHamper888** | deekshasinha | win 🥇 | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq1k1r/ppp1ppbp/3p1np1/8/8/1P4PP/PBPPPPB1/RN1QK1NR w KQ -">Link</a> | Blitz |
 | Aelii136 | **ChessHamper888** | abandoned  | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/4p1Q1/2pqBp1p/p1N5/1p1BP2N/8/P1P2PPP/1R3RK1 b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | Rinni1966 | **ChessHamper888** | resigned ❌ | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Qnk1R3/2pp1p2/1p3q2/pP6/2P5/P7/8/R3KB2 b - -">Link</a> | Rapid |
 | CoachT0316 | **ChessHamper888** | abandoned  | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k3r/7p/2BppRpb/1P6/5P2/8/1PPPK1PP/1NB4R b - -">Link</a> | Rapid |
 | **ChessHamper888** | SajjadJ1357 | win 🥇 | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1k3r/pBp2Q1p/3b4/8/1n6/1P1P3P/PBP1P1K1/RN5R b - -">Link</a> | Rapid |
-| **ChessHamper888** | Loro414 | checkmated ❌ | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p1p3k1/5pp1/7p/1PP2P1K/P4nPP/8/3R4 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
