@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 665 | 300 | 157 |
+| Current | 657 | 300 | 157 |
 | Best | 657 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | LTFAUJI | abandoned  | 1/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p4pk1/P7/5K2/8/1p6/8 w - -">Link</a> | Rapid |
 | limpowsan | **ChessHamper888** | win 🥇 | 26/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/4Rpk1/3p2p1/6P1/4P3/5N2/5PK1/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | sgrr_saurabh | win 🥇 | 26/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1p2p1p/1p4p1/8/P5R1/1P2r3/R1P4K/3Q4 b - -">Link</a> | Rapid |
 | randomUserPog | **ChessHamper888** | checkmated ❌ | 25/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1knb/1bpppQ2/pp3p2/6N1/P1BPP3/2N5/1PP2PP1/R1B1K3 b Q -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | Nilsx179 | win 🥇 | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q2k1/pQp2ppp/2n5/3p2r1/1b2p3/1P2P2P/1BPP1PB1/RN3KNR b - -">Link</a> | Rapid |
 | Chestoinou | **ChessHamper888** | win 🥇 | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkr2/7p/pp2Bnp1/2p1bPB1/8/2N2b2/PPP2PPP/R3K2R w KQq -">Link</a> | Rapid |
 | **ChessHamper888** | Hafizrana | win 🥇 | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/8/8/8/2pK4/2P5/Q1k5 b - -">Link</a> | Rapid |
-| Rinni1966 | **ChessHamper888** | resigned ❌ | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Qnk1R3/2pp1p2/1p3q2/pP6/2P5/P7/8/R3KB2 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
