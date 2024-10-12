@@ -195,11 +195,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 657 | 300 | 157 |
+| Current | 649 | 300 | 157 |
 | Best | 657 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Sbshr | **ChessHamper888** | abandoned  | 12/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn5r/pb1p1k1p/1pp5/5Q2/6n1/1P1PP1P1/P1P2PBP/R4RK1 b - -">Link</a> | Rapid |
+| **ChessHamper888** | b3ndle | win 🥇 | 12/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k3Q/p1p3Q1/2p5/1p3p2/1P1B4/5P2/P2PPR2/4KN2 b - -">Link</a> | Rapid |
+| **ChessHamper888** | tkskvk | checkmated ❌ | 12/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1ppp/8/2b1p3/8/1P4P1/PBPPPqBP/RN1QK1NR w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | LTFAUJI | abandoned  | 1/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p4pk1/P7/5K2/8/1p6/8 w - -">Link</a> | Rapid |
 | limpowsan | **ChessHamper888** | win 🥇 | 26/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/4Rpk1/3p2p1/6P1/4P3/5N2/5PK1/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | sgrr_saurabh | win 🥇 | 26/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1p2p1p/1p4p1/8/P5R1/1P2r3/R1P4K/3Q4 b - -">Link</a> | Rapid |
@@ -207,9 +210,6 @@
 | dopatron420 | **ChessHamper888** | resigned ❌ | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3knr/p2p3p/Pp2p3/5p2/3R1P2/3B4/1PPP3P/2B1K1R1 b - -">Link</a> | Blitz |
 | **ChessHamper888** | deekshasinha | win 🥇 | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq1k1r/ppp1ppbp/3p1np1/8/8/1P4PP/PBPPPPB1/RN1QK1NR w KQ -">Link</a> | Blitz |
 | Aelii136 | **ChessHamper888** | abandoned  | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/4p1Q1/2pqBp1p/p1N5/1p1BP2N/8/P1P2PPP/1R3RK1 b - -">Link</a> | Rapid |
-| **ChessHamper888** | Nilsx179 | win 🥇 | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q2k1/pQp2ppp/2n5/3p2r1/1b2p3/1P2P2P/1BPP1PB1/RN3KNR b - -">Link</a> | Rapid |
-| Chestoinou | **ChessHamper888** | win 🥇 | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkr2/7p/pp2Bnp1/2p1bPB1/8/2N2b2/PPP2PPP/R3K2R w KQq -">Link</a> | Rapid |
-| **ChessHamper888** | Hafizrana | win 🥇 | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/8/8/8/2pK4/2P5/Q1k5 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
