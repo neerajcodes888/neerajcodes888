@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 649 | 300 | 157 |
+| Current | 640 | 300 | 157 |
 | Best | 657 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Maingi70 | resigned ❌ | 17/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/1pp2p2/p1nb1n2/4p3/1P1P4/P4P1q/1BPr4/RN1Q1K2 w - -">Link</a> | Rapid |
 | Sbshr | **ChessHamper888** | abandoned  | 12/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn5r/pb1p1k1p/1pp5/5Q2/6n1/1P1PP1P1/P1P2PBP/R4RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | b3ndle | win 🥇 | 12/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k3Q/p1p3Q1/2p5/1p3p2/1P1B4/5P2/P2PPR2/4KN2 b - -">Link</a> | Rapid |
 | **ChessHamper888** | tkskvk | checkmated ❌ | 12/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1ppp/8/2b1p3/8/1P4P1/PBPPPqBP/RN1QK1NR w KQkq -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | randomUserPog | **ChessHamper888** | checkmated ❌ | 25/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1knb/1bpppQ2/pp3p2/6N1/P1BPP3/2N5/1PP2PP1/R1B1K3 b Q -">Link</a> | Rapid |
 | dopatron420 | **ChessHamper888** | resigned ❌ | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3knr/p2p3p/Pp2p3/5p2/3R1P2/3B4/1PPP3P/2B1K1R1 b - -">Link</a> | Blitz |
 | **ChessHamper888** | deekshasinha | win 🥇 | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq1k1r/ppp1ppbp/3p1np1/8/8/1P4PP/PBPPPPB1/RN1QK1NR w KQ -">Link</a> | Blitz |
-| Aelii136 | **ChessHamper888** | abandoned  | 12/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/4p1Q1/2pqBp1p/p1N5/1p1BP2N/8/P1P2PPP/1R3RK1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
