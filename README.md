@@ -195,11 +195,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 639 | 300 | 157 |
+| Current | 655 | 300 | 157 |
 | Best | 657 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | cerroalameda | win 🥇 | 18/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B5Q1/3qk1p1/1p3p1p/1Rb2b2/2Ppp2P/N7/1B1PP3/4K1NR w K -">Link</a> | Rapid |
+| **ChessHamper888** | rlanke | win 🥇 | 18/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/2R2Q2/2n4r/8/8/1P2P3/4KP1P/1q6 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Miguel-Mayay | win 🥇 | 18/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R5rk/1Q6/4b1N1/5p1p/5P1q/2P2K2/4P2r/1N6 b - -">Link</a> | Rapid |
 | Dmitry554778 | **ChessHamper888** | repetition ⏸️ | 18/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/8/1k5b/8/1P2K3/2PP4/P7/R7 b - -">Link</a> | Rapid |
 | YXWVUTSRQPONMLKJI | **ChessHamper888** | checkmated ❌ | 18/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k7/8/R7/1R6/5K2/8/8/8 b - -">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | **ChessHamper888** | b3ndle | win 🥇 | 12/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k3Q/p1p3Q1/2p5/1p3p2/1P1B4/5P2/P2PPR2/4KN2 b - -">Link</a> | Rapid |
 | **ChessHamper888** | tkskvk | checkmated ❌ | 12/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1ppp/8/2b1p3/8/1P4P1/PBPPPqBP/RN1QK1NR w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | LTFAUJI | abandoned  | 1/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p4pk1/P7/5K2/8/1p6/8 w - -">Link</a> | Rapid |
-| limpowsan | **ChessHamper888** | win 🥇 | 26/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/4Rpk1/3p2p1/6P1/4P3/5N2/5PK1/8 w - -">Link</a> | Rapid |
-| **ChessHamper888** | sgrr_saurabh | win 🥇 | 26/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1p2p1p/1p4p1/8/P5R1/1P2r3/R1P4K/3Q4 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
