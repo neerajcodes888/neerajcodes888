@@ -200,6 +200,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| hamed_adeli20 | **ChessHamper888** | win 🥇 | 18/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1knr/p2p1pb1/1p1p3p/6p1/P1b5/2N2N2/1PP2PPP/R1B1KB1R w KQ -">Link</a> | Rapid |
+| Ruca122 | **ChessHamper888** | resigned ❌ | 18/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1k2nr/2ppB3/2b2pQp/1p6/3P1P2/6KN/R5PP/5B1R b - -">Link</a> | Rapid |
 | **ChessHamper888** | cerroalameda | win 🥇 | 18/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B5Q1/3qk1p1/1p3p1p/1Rb2b2/2Ppp2P/N7/1B1PP3/4K1NR w K -">Link</a> | Rapid |
 | **ChessHamper888** | rlanke | win 🥇 | 18/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/2R2Q2/2n4r/8/8/1P2P3/4KP1P/1q6 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Miguel-Mayay | win 🥇 | 18/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R5rk/1Q6/4b1N1/5p1p/5P1q/2P2K2/4P2r/1N6 b - -">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | **ChessHamper888** | Maingi70 | resigned ❌ | 17/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/1pp2p2/p1nb1n2/4p3/1P1P4/P4P1q/1BPr4/RN1Q1K2 w - -">Link</a> | Rapid |
 | Sbshr | **ChessHamper888** | abandoned  | 12/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn5r/pb1p1k1p/1pp5/5Q2/6n1/1P1PP1P1/P1P2PBP/R4RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | b3ndle | win 🥇 | 12/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k3Q/p1p3Q1/2p5/1p3p2/1P1B4/5P2/P2PPR2/4KN2 b - -">Link</a> | Rapid |
-| **ChessHamper888** | tkskvk | checkmated ❌ | 12/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1ppp/8/2b1p3/8/1P4P1/PBPPPqBP/RN1QK1NR w KQkq -">Link</a> | Rapid |
-| **ChessHamper888** | LTFAUJI | abandoned  | 1/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p4pk1/P7/5K2/8/1p6/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
