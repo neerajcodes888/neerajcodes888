@@ -195,11 +195,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 679 | 300 | 157 |
+| Current | 695 | 300 | 157 |
 | Best | 657 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | M9643 | win 🥇 | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q2k1/pp6/2p5/8/1P4B1/2N5/P1r1PK1P/8 b - -">Link</a> | Rapid |
+| **ChessHamper888** | pratik1200617 | win 🥇 | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/pBp2ppp/8/1p2b1P1/1Pp5/P6P/1Q1KPP2/R5NR w - -">Link</a> | Rapid |
+| pratik1200617 | **ChessHamper888** | stalemate ⏸️ | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k7/P7/K7/8/8/8/8/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | zianky | win 🥇 | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6nr/q4pp1/pk1N4/2QBP2p/P2P4/7P/1B1bPP2/6KR b - -">Link</a> | Rapid |
 | **ChessHamper888** | pranjaltandon | win 🥇 | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6p/2p2Q2/3q2pk/1P4P1/P2P3K/2P4P/3R2N1 b - -">Link</a> | Rapid |
 | Nurbekrrr | **ChessHamper888** | win 🥇 | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1qk1nr/2ppp1b1/1p3ppp/1P6/3Bb3/r4N2/P3BPPP/3Q1RK1 w k -">Link</a> | Rapid |
@@ -207,9 +210,6 @@
 | **ChessHamper888** | Lukasluetketwehues | win 🥇 | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5kpp/5p2/4pP2/1Q6/3P1P1N/1B2P1KP/8 b - -">Link</a> | Rapid |
 | hamed_adeli20 | **ChessHamper888** | win 🥇 | 18/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1knr/p2p1pb1/1p1p3p/6p1/P1b5/2N2N2/1PP2PPP/R1B1KB1R w KQ -">Link</a> | Rapid |
 | Ruca122 | **ChessHamper888** | resigned ❌ | 18/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1k2nr/2ppB3/2b2pQp/1p6/3P1P2/6KN/R5PP/5B1R b - -">Link</a> | Rapid |
-| **ChessHamper888** | cerroalameda | win 🥇 | 18/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B5Q1/3qk1p1/1p3p1p/1Rb2b2/2Ppp2P/N7/1B1PP3/4K1NR w K -">Link</a> | Rapid |
-| **ChessHamper888** | rlanke | win 🥇 | 18/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/2R2Q2/2n4r/8/8/1P2P3/4KP1P/1q6 b - -">Link</a> | Rapid |
-| **ChessHamper888** | Miguel-Mayay | win 🥇 | 18/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R5rk/1Q6/4b1N1/5p1p/5P1q/2P2K2/4P2r/1N6 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
