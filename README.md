@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 670 | 300 | 157 |
+| Current | 678 | 300 | 157 |
 | Best | 657 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Roy31_2 | **ChessHamper888** | win 🥇 | 21/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/8/4N3/5p2/8/p4K2/P7/6k1 w - -">Link</a> | Rapid |
 | shaltoot33 | **ChessHamper888** | win 🥇 | 21/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/p1pp2pp/1p6/8/2q5/2b2P2/P4PK1/2r5 w - -">Link</a> | Rapid |
 | **ChessHamper888** | shaltoot33 | insufficient ⏸️ | 21/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/8/8/1K5B/8/8/8/2b5 b - -">Link</a> | Rapid |
 | GamerGenix7 | **ChessHamper888** | win 🥇 | 21/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/2B2p2/1p2p1pp/8/8/7N/P1bb1PPP/4R1K1 w - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | rancof84 | agreed ⏸️ | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4bnr/pp3pp1/2p1n1k1/4p1qb/1P1pP3/P4P2/1BPP1QB1/RN2K2R w KQ -">Link</a> | Rapid |
 | AYS_07 | **ChessHamper888** | resigned ❌ | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=qR2k1nr/3p2b1/b2Q1ppp/2p5/2p5/P1B2N2/2P2PPP/5K1R b - -">Link</a> | Rapid |
 | nixth3god | **ChessHamper888** | resigned ❌ | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k3/2ppq1B1/p1b3pp/2Np4/1p6/1B3Q2/P1P2P1P/4RR1K b q -">Link</a> | Rapid |
-| **ChessHamper888** | Omarahms | resigned ❌ | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb3k1/pp4b1/2p3p1/3pp2p/8/1P1KPr2/PBPP3q/RN4Q1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
