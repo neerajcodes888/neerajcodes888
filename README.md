@@ -200,6 +200,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | kusoheibon | resigned ❌ | 21/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q1rk1/r1pp1ppp/1p1b4/6P1/8/B1Pb3P/3PP3/RN2K1NR w KQ -">Link</a> | Rapid |
+| **ChessHamper888** | Mahmoudx20 | win 🥇 | 21/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R5k1/2r4p/2pqBp1P/1p2p1p1/3p4/2P3P1/2P1PP2/Q3K2R b K -">Link</a> | Rapid |
 | briziop | **ChessHamper888** | resigned ❌ | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/1bkpn3/p6p/np2p2B/8/4P2N/PPP3PP/1R4K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | rancof84 | agreed ⏸️ | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4bnr/pp3pp1/2p1n1k1/4p1qb/1P1pP3/P4P2/1BPP1QB1/RN2K2R w KQ -">Link</a> | Rapid |
 | AYS_07 | **ChessHamper888** | resigned ❌ | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=qR2k1nr/3p2b1/b2Q1ppp/2p5/2p5/P1B2N2/2P2PPP/5K1R b - -">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | jorisvdweij | **ChessHamper888** | resigned ❌ | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=bn4Q1/2pqk3/3p1p2/1p1Pp1B1/4P2p/1BN5/1PP2PPP/4R1K1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | M9643 | win 🥇 | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q2k1/pp6/2p5/8/1P4B1/2N5/P1r1PK1P/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | pratik1200617 | win 🥇 | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/pBp2ppp/8/1p2b1P1/1Pp5/P6P/1Q1KPP2/R5NR w - -">Link</a> | Rapid |
-| pratik1200617 | **ChessHamper888** | stalemate ⏸️ | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k7/P7/K7/8/8/8/8/8 b - -">Link</a> | Rapid |
-| **ChessHamper888** | zianky | win 🥇 | 20/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6nr/q4pp1/pk1N4/2QBP2p/P2P4/7P/1B1bPP2/6KR b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
