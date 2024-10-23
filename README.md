@@ -200,6 +200,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Kurilio | repetition ⏸️ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rq2rk1/5pb1/4p1p1/p4nPp/3pQP2/P7/RB1N4/1K6 b - -">Link</a> | Rapid |
 | **ChessHamper888** | KalT13 | checkmated ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2pbp/6p1/3p4/1PP1n3/P6b/RB2PP2/1N1QKq2 w - -">Link</a> | Rapid |
 | Esmail354 | **ChessHamper888** | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k4br/7p/6p1/R3N1n1/1P6/Pq3PPP/K1R5 w - -">Link</a> | Rapid |
 | minkim5296 | **ChessHamper888** | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k4/4p3/pnbp3n/5q2/4Nb1P/5P2/P1P3P1/1R3RK1 w - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | itsmekarann | **ChessHamper888** | timeout ❌ | 22/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1knr/1bp1p1b1/p2pp1QB/1p1P4/8/P1N5/1PP1B1PP/R4RK1 b - -">Link</a> | Rapid |
 | Jawzahrix | **ChessHamper888** | win 🥇 | 22/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q1k2r/1bppppb1/1R5p/5Pp1/4P3/N2P1n2/r1pQ3P/2B1KB1R w Kk -">Link</a> | Rapid |
 | Madrecuishe | **ChessHamper888** | win 🥇 | 22/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1k3b/pqppp3/1p4B1/8/8/8/PPPP1PbP/RNB1K1R1 w Q -">Link</a> | Rapid |
-| **ChessHamper888** | leurisss | win 🥇 | 22/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1qkb1r/p4pp1/2p2n2/4N2p/Q2n4/3P2P1/PB2PPBP/RN2K2R b KQk -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
