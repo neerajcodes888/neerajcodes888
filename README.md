@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 687 | 300 | 157 |
+| Current | 679 | 300 | 157 |
 | Best | 670 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | bhavan007 | resigned ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1R1q2p/5r1k/1p6/4n3/P6b/3PP3/4K1N1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | yoonwoojeong | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p5pp/2pb1n2/2p1pb2/2Pp4/N2P3P/1B2PP2/R1Q1K1NR w KQ -">Link</a> | Rapid |
 | **ChessHamper888** | MrBotsito | resigned ❌ | 22/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/p3np1p/6p1/2P3P1/7P/P1b1P3/b4K2/5R2 w - -">Link</a> | Rapid |
 | itsmekarann | **ChessHamper888** | timeout ❌ | 22/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1knr/1bp1p1b1/p2pp1QB/1p1P4/8/P1N5/1PP1B1PP/R4RK1 b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | Mahi11000 | win 🥇 | 22/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2Q4p/1Q4p1/1k1B4/2p3P1/1PP5/8/1N3K2 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Mahi11000 | win 🥇 | 22/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1Q6/8/4Q3/2k5/1p1P4/1B2PP2/1N2K3 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Mahi11000 | win 🥇 | 22/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/2Q5/8/4B3/2k2p1p/2N4P/4PP2/3K3B b - -">Link</a> | Rapid |
-| **ChessHamper888** | Sean051206 | checkmated ❌ | 22/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/8/8/K1k4p/8/7P/r7/3R4 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
