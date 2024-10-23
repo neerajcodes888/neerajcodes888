@@ -195,21 +195,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 687 | 300 | 295 |
+| Current | 687 | 331 | 299 |
 | Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **ChessHamper888** | Tuhin696969 | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2B1k3/8/1B1p2p1/1P4P1/5N2/2PPK3/1N6 b - -">Link</a> | Bullet |
-| Antek1306 | **ChessHamper888** | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2p1r3/4N2k/8/2P5/2n2PPP/4rK2 w - -">Link</a> | Rapid |
-| **ChessHamper888** | Woltaire07 | resigned ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1qk1n1/5bp1/2p2p2/1p2p3/1P1b4/2NP1P2/3PP1B1/r1BQ1K2 w - -">Link</a> | Rapid |
-| adalberto1110 | **ChessHamper888** | timeout ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2Q4k/8/4P1P1/8/4B3/1P6/2K4b b - -">Link</a> | Rapid |
-| **ChessHamper888** | Mahi11000 | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/8/7p/p1B1k3/8/1B6/4RP1P/4K3 b - -">Link</a> | Rapid |
-| **ChessHamper888** | Mahi11000 | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q1kb1r/2p1pppp/5q2/8/3p2PR/2P2N2/3PPP2/BN1K1B2 b k -">Link</a> | Rapid |
-| **ChessHamper888** | Kurilio | repetition ⏸️ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rq2rk1/5pb1/4p1p1/p4nPp/3pQP2/P7/RB1N4/1K6 b - -">Link</a> | Rapid |
-| **ChessHamper888** | KalT13 | checkmated ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2pbp/6p1/3p4/1PP1n3/P6b/RB2PP2/1N1QKq2 w - -">Link</a> | Rapid |
-| Esmail354 | **ChessHamper888** | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k4br/7p/6p1/R3N1n1/1P6/Pq3PPP/K1R5 w - -">Link</a> | Rapid |
-| minkim5296 | **ChessHamper888** | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k4/4p3/pnbp3n/5q2/4Nb1P/5P2/P1P3P1/1R3RK1 w - -">Link</a> | Rapid |
+| ionut932 | **ChessHamper888** | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/5p2/6p1/4q1bp/2P1P1K1/5P1P/2P3P1/8 w - -">Link</a> | Blitz |
+| abooody77 | **ChessHamper888** | checkmated ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q1k1nr/2p1ppb1/3p3p/3P4/4P2B/5N2/1qP2PP1/4K2R b Kk -">Link</a> | Bullet |
+| **ChessHamper888** | sasuke0055 | timeout ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/p5bp/6p1/2p5/4r3/P1p2rKN/R1P5/4n3 w - -">Link</a> | Bullet |
+| **ChessHamper888** | Darkknightyyyyyy | repetition ⏸️ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kq1rb1r/ppp2bpp/8/3p4/P3p2P/2P1P3/RB6/1N1QK1R1 w - -">Link</a> | Bullet |
+| nikkiiihgfhj | **ChessHamper888** | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n2k1nr/2qpp3/8/4b3/1Qb5/5P1N/r5PP/1R2K2R w Kk -">Link</a> | Bullet |
+| FrankieSteel | **ChessHamper888** | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1b1r/p1pp1Q2/1p1k1n1p/4pP2/2BP4/2P5/PP2NP1P/RNB1K2b w Q -">Link</a> | Bullet |
+| **ChessHamper888** | Its_Soham12 | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/p4pQp/1pp5/3p4/2P5/PPB5/6PP/RNK2B1R b - -">Link</a> | Bullet |
+| **ChessHamper888** | Prudhbiraj9 | checkmated ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/3n3p/pppb4/7p/1P2p3/P7/2PPP3/RNQK1qNR w - -">Link</a> | Bullet |
+| Zakkwastaken | **ChessHamper888** | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/5pb1/p1q1p2p/4P1N1/8/6B1/PPP2PPP/2K4R w - -">Link</a> | Bullet |
+| aravindraj158 | **ChessHamper888** | timeout ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2B1k1nB/4pp2/7p/q2p1N2/8/P7/P4PPP/R5K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
