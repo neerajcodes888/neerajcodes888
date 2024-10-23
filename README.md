@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 687 | 300 | 157 |
+| Current | 679 | 300 | 157 |
 | Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Woltaire07 | resigned ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1qk1n1/5bp1/2p2p2/1p2p3/1P1b4/2NP1P2/3PP1B1/r1BQ1K2 w - -">Link</a> | Rapid |
 | adalberto1110 | **ChessHamper888** | timeout ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2Q4k/8/4P1P1/8/4B3/1P6/2K4b b - -">Link</a> | Rapid |
 | **ChessHamper888** | Mahi11000 | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/8/7p/p1B1k3/8/1B6/4RP1P/4K3 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Mahi11000 | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q1kb1r/2p1pppp/5q2/8/3p2PR/2P2N2/3PPP2/BN1K1B2 b k -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | minkim5296 | **ChessHamper888** | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k4/4p3/pnbp3n/5q2/4Nb1P/5P2/P1P3P1/1R3RK1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | bhavan007 | resigned ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1R1q2p/5r1k/1p6/4n3/P6b/3PP3/4K1N1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | yoonwoojeong | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p5pp/2pb1n2/2p1pb2/2Pp4/N2P3P/1B2PP2/R1Q1K1NR w KQ -">Link</a> | Rapid |
-| **ChessHamper888** | MrBotsito | resigned ❌ | 22/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/p3np1p/6p1/2P3P1/7P/P1b1P3/b4K2/5R2 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
