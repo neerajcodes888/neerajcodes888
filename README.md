@@ -196,10 +196,12 @@
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
 | Current | 695 | 300 | 157 |
-| Best | 670 | No Rating | No Rating |
+| Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Mahi11000 | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/8/7p/p1B1k3/8/1B6/4RP1P/4K3 b - -">Link</a> | Rapid |
+| **ChessHamper888** | Mahi11000 | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q1kb1r/2p1pppp/5q2/8/3p2PR/2P2N2/3PPP2/BN1K1B2 b k -">Link</a> | Rapid |
 | **ChessHamper888** | Kurilio | repetition ⏸️ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rq2rk1/5pb1/4p1p1/p4nPp/3pQP2/P7/RB1N4/1K6 b - -">Link</a> | Rapid |
 | **ChessHamper888** | KalT13 | checkmated ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2pbp/6p1/3p4/1PP1n3/P6b/RB2PP2/1N1QKq2 w - -">Link</a> | Rapid |
 | Esmail354 | **ChessHamper888** | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k4br/7p/6p1/R3N1n1/1P6/Pq3PPP/K1R5 w - -">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | **ChessHamper888** | yoonwoojeong | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p5pp/2pb1n2/2p1pb2/2Pp4/N2P3P/1B2PP2/R1Q1K1NR w KQ -">Link</a> | Rapid |
 | **ChessHamper888** | MrBotsito | resigned ❌ | 22/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/p3np1p/6p1/2P3P1/7P/P1b1P3/b4K2/5R2 w - -">Link</a> | Rapid |
 | itsmekarann | **ChessHamper888** | timeout ❌ | 22/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1knr/1bp1p1b1/p2pp1QB/1p1P4/8/P1N5/1PP1B1PP/R4RK1 b - -">Link</a> | Rapid |
-| Jawzahrix | **ChessHamper888** | win 🥇 | 22/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q1k2r/1bppppb1/1R5p/5Pp1/4P3/N2P1n2/r1pQ3P/2B1KB1R w Kk -">Link</a> | Rapid |
-| Madrecuishe | **ChessHamper888** | win 🥇 | 22/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1k3b/pqppp3/1p4B1/8/8/8/PPPP1PbP/RNB1K1R1 w Q -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
