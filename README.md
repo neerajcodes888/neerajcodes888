@@ -195,11 +195,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 687 | 331 | 299 |
+| Current | 671 | 331 | 299 |
 | Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | elgoldoniaa | checkmated ❌ | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/ppp2ppp/4p3/2bp4/8/1P3N1P/PBPPPqB1/RN1Q1K1R w kq -">Link</a> | Rapid |
+| **ChessHamper888** | Bea-st_89 | resigned ❌ | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3kp1p/4pnp1/1K6/3PN3/1P1P4/q3P3/3n4 w - -">Link</a> | Rapid |
 | ionut932 | **ChessHamper888** | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/5p2/6p1/4q1bp/2P1P1K1/5P1P/2P3P1/8 w - -">Link</a> | Blitz |
 | abooody77 | **ChessHamper888** | checkmated ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q1k1nr/2p1ppb1/3p3p/3P4/4P2B/5N2/1qP2PP1/4K2R b Kk -">Link</a> | Bullet |
 | **ChessHamper888** | sasuke0055 | timeout ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/p5bp/6p1/2p5/4r3/P1p2rKN/R1P5/4n3 w - -">Link</a> | Bullet |
@@ -208,8 +210,6 @@
 | FrankieSteel | **ChessHamper888** | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1b1r/p1pp1Q2/1p1k1n1p/4pP2/2BP4/2P5/PP2NP1P/RNB1K2b w Q -">Link</a> | Bullet |
 | **ChessHamper888** | Its_Soham12 | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/p4pQp/1pp5/3p4/2P5/PPB5/6PP/RNK2B1R b - -">Link</a> | Bullet |
 | **ChessHamper888** | Prudhbiraj9 | checkmated ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/3n3p/pppb4/7p/1P2p3/P7/2PPP3/RNQK1qNR w - -">Link</a> | Bullet |
-| Zakkwastaken | **ChessHamper888** | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/5pb1/p1q1p2p/4P1N1/8/6B1/PPP2PPP/2K4R w - -">Link</a> | Bullet |
-| aravindraj158 | **ChessHamper888** | timeout ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2B1k1nB/4pp2/7p/q2p1N2/8/P7/P4PPP/R5K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
