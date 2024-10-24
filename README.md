@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 682 | 331 | 270 |
+| Current | 674 | 331 | 270 |
 | Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | rezatabari54 | checkmated ❌ | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/1pk3pp/n1p5/2b1R2n/4b3/3pP3/3PqP2/1Q2K3 w - -">Link</a> | Rapid |
 | **ChessHamper888** | skrambel | agreed ⏸️ | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/pBpb1ppp/3p1b2/1P2p3/3n4/P5P1/1BPPPP1P/RN1QK1NR b KQkq -">Link</a> | Rapid |
 | jmmjouroboro | **ChessHamper888** | win 🥇 | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k1r/2np4/pK1b3p/1q2Npp1/5P2/6R1/P4P1P/n7 w - -">Link</a> | Rapid |
 | AdileAbiltarova | **ChessHamper888** | win 🥇 | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/p2pp2p/1p6/2P2P2/8/1P2Pq1P/P2B4/1n2K1r1 w q -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | ionut932 | **ChessHamper888** | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/5p2/6p1/4q1bp/2P1P1K1/5P1P/2P3P1/8 w - -">Link</a> | Blitz |
 | abooody77 | **ChessHamper888** | checkmated ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q1k1nr/2p1ppb1/3p3p/3P4/4P2B/5N2/1qP2PP1/4K2R b Kk -">Link</a> | Bullet |
 | **ChessHamper888** | sasuke0055 | timeout ❌ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/p5bp/6p1/2p5/4r3/P1p2rKN/R1P5/4n3 w - -">Link</a> | Bullet |
-| **ChessHamper888** | Darkknightyyyyyy | repetition ⏸️ | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kq1rb1r/ppp2bpp/8/3p4/P3p2P/2P1P3/RB6/1N1QK1R1 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
