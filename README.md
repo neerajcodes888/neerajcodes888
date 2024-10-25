@@ -195,11 +195,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 682 | 331 | 295 |
+| Current | 681 | 331 | 295 |
 | Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| andy-oliver | **ChessHamper888** | win 🥇 | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=b1q2knr/5p2/3p3p/8/1n1P2P1/4R3/PPP4P/2K5 w - -">Link</a> | Rapid |
+| BLacKmEn012 | **ChessHamper888** | resigned ❌ | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/pBppppbp/1p4p1/8/8/3PP3/PPP2PPP/RNBQK1NR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | maboiiz | agreed ⏸️ | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/ppppq1p1/2nb1n1p/4p3/8/1P6/PBPPPPB1/RN1QK1NR b KQkq -">Link</a> | Rapid |
 | rbr1589 | **ChessHamper888** | resigned ❌ | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/6R1/7p/4p1p1/1p3q1k/6P1/PPP4P/1K5R b - -">Link</a> | Rapid |
 | tristan-parker | **ChessHamper888** | win 🥇 | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3B3k/3P1p1p/8/1P4PK/7r/6bP/8 w - -">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | **ChessHamper888** | rezatabari54 | checkmated ❌ | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/1pk3pp/n1p5/2b1R2n/4b3/3pP3/3PqP2/1Q2K3 w - -">Link</a> | Rapid |
 | **ChessHamper888** | skrambel | agreed ⏸️ | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/pBpb1ppp/3p1b2/1P2p3/3n4/P5P1/1BPPPP1P/RN1QK1NR b KQkq -">Link</a> | Rapid |
 | jmmjouroboro | **ChessHamper888** | win 🥇 | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k1r/2np4/pK1b3p/1q2Npp1/5P2/6R1/P4P1P/n7 w - -">Link</a> | Rapid |
-| AdileAbiltarova | **ChessHamper888** | win 🥇 | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/p2pp2p/1p6/2P2P2/8/1P2Pq1P/P2B4/1n2K1r1 w q -">Link</a> | Rapid |
-| **ChessHamper888** | avdemon7 | resigned ❌ | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p2kr2p/2b2n2/1p3pp1/1P6/P2P1N1P/2P2P1R/1N3K2 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
