@@ -200,6 +200,9 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | maboiiz | agreed ⏸️ | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/ppppq1p1/2nb1n1p/4p3/8/1P6/PBPPPPB1/RN1QK1NR b KQkq -">Link</a> | Rapid |
+| rbr1589 | **ChessHamper888** | resigned ❌ | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/6R1/7p/4p1p1/1p3q1k/6P1/PPP4P/1K5R b - -">Link</a> | Rapid |
+| tristan-parker | **ChessHamper888** | win 🥇 | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3B3k/3P1p1p/8/1P4PK/7r/6bP/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | k1900s | win 🥇 | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/5ppp/5n2/3qk3/1p2P3/6P1/3P1b1P/2BQ3K b - e3">Link</a> | Bullet |
 | Sunrize1233 | **ChessHamper888** | win 🥇 | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/4pk1p/2p3p1/3q1p2/8/5P2/P1Pr2PP/R3R2K w - -">Link</a> | Rapid |
 | **ChessHamper888** | rezatabari54 | checkmated ❌ | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/1pk3pp/n1p5/2b1R2n/4b3/3pP3/3PqP2/1Q2K3 w - -">Link</a> | Rapid |
@@ -207,9 +210,6 @@
 | jmmjouroboro | **ChessHamper888** | win 🥇 | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k1r/2np4/pK1b3p/1q2Npp1/5P2/6R1/P4P1P/n7 w - -">Link</a> | Rapid |
 | AdileAbiltarova | **ChessHamper888** | win 🥇 | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/p2pp2p/1p6/2P2P2/8/1P2Pq1P/P2B4/1n2K1r1 w q -">Link</a> | Rapid |
 | **ChessHamper888** | avdemon7 | resigned ❌ | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p2kr2p/2b2n2/1p3pp1/1P6/P2P1N1P/2P2P1R/1N3K2 w - -">Link</a> | Bullet |
-| **ChessHamper888** | elgoldoniaa | checkmated ❌ | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/ppp2ppp/4p3/2bp4/8/1P3N1P/PBPPPqB1/RN1Q1K1R w kq -">Link</a> | Rapid |
-| **ChessHamper888** | Bea-st_89 | resigned ❌ | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3kp1p/4pnp1/1K6/3PN3/1P1P4/q3P3/3n4 w - -">Link</a> | Rapid |
-| ionut932 | **ChessHamper888** | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/5p2/6p1/4q1bp/2P1P1K1/5P1P/2P3P1/8 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
