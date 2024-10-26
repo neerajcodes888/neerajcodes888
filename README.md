@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 682 | 331 | 295 |
+| Current | 674 | 331 | 295 |
 | Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | MunPieStar | checkmated ❌ | 26/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2r1k1/p4p1p/1p3pn1/8/Q4P1b/P1N1p1qK/3P2B1/R5R1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | MintBerryCrrrunch | checkmated ❌ | 26/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/7p/p2b1pp1/1ppp1b2/1P2pPn1/P1QPP2B/1BPN1q2/R4KN1 w - -">Link</a> | Rapid |
 | Rocckingz | **ChessHamper888** | resigned ❌ | 26/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/P4R2/6rk/4p3/8/Q2P2P1/7P/6K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | basshead42o | win 🥇 | 26/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3Q4/5N2/2p2R2/2Prk3/7P/4PK2/8 b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | maboiiz | agreed ⏸️ | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/ppppq1p1/2nb1n1p/4p3/8/1P6/PBPPPPB1/RN1QK1NR b KQkq -">Link</a> | Rapid |
 | rbr1589 | **ChessHamper888** | resigned ❌ | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/6R1/7p/4p1p1/1p3q1k/6P1/PPP4P/1K5R b - -">Link</a> | Rapid |
 | tristan-parker | **ChessHamper888** | win 🥇 | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3B3k/3P1p1p/8/1P4PK/7r/6bP/8 w - -">Link</a> | Rapid |
-| **ChessHamper888** | k1900s | win 🥇 | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/5ppp/5n2/3qk3/1p2P3/6P1/3P1b1P/2BQ3K b - e3">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
