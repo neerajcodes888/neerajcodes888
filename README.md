@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 668 | 367 | 295 |
+| Current | 676 | 367 | 295 |
 | Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| MEOWWME0WW | **ChessHamper888** | win 🥇 | 27/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1b1r/pBpp1kpp/1p2p3/8/2nP4/2P3P1/PP3P1P/R1B1K1NR b KQ -">Link</a> | Rapid |
 | turtleistheboss | **ChessHamper888** | win 🥇 | 27/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/rb6/p6p/q2P1Bp1/2P5/pP3N1P/5PP1/4R1K1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Sunasaaa | win 🥇 | 26/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q1rk1/1p2np1Q/1b6/3p2p1/1Pp3n1/2P1Pp2/3P4/BN2K1NR b - -">Link</a> | Rapid |
 | Sunasaaa | **ChessHamper888** | resigned ❌ | 26/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rb6/1bqR1k2/p1n2N1Q/1pP3B1/4p3/7P/PPP2PP1/4R1K1 b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | MohamedT51 | **ChessHamper888** | win 🥇 | 26/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k3/pbpp3p/1p4p1/8/1Q1p4/1P4P1/P4P1P/1N3RKq w q -">Link</a> | Rapid |
 | **ChessHamper888** | Ceety | resigned ❌ | 26/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1b2/Qppk2p1/5p2/3B1b2/8/P3n2K/3PPP2/q5N1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | MunPieStar | checkmated ❌ | 26/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2r1k1/p4p1p/1p3pn1/8/Q4P1b/P1N1p1qK/3P2B1/R5R1 w - -">Link</a> | Rapid |
-| **ChessHamper888** | MintBerryCrrrunch | checkmated ❌ | 26/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/7p/p2b1pp1/1ppp1b2/1P2pPn1/P1QPP2B/1BPN1q2/R4KN1 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
