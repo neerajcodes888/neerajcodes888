@@ -195,11 +195,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 676 | 367 | 295 |
+| Current | 661 | 367 | 295 |
 | Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| chessbeast10113 | **ChessHamper888** | resigned ❌ | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1nR2knr/R3ppb1/1q5p/3bP1p1/3P4/4B3/5PPP/6K1 b - -">Link</a> | Rapid |
+| **ChessHamper888** | chessbeast10113 | checkmated ❌ | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp2ppp/3b4/8/3Pn1P1/PP2P2P/1B1PNq2/1RQ2K1R w kq -">Link</a> | Rapid |
 | **ChessHamper888** | Lordspooky4658 | win 🥇 | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p6R/6p1/2p1N1Pk/8/1P1P4/2P4q/3K4 b - -">Link</a> | Rapid |
 | ellessdill | **ChessHamper888** | win 🥇 | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/pbpppppp/1p6/8/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -">Link</a> | Rapid |
 | Shubh1980 | **ChessHamper888** | win 🥇 | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kbnr/pb1p1ppp/1p2p3/2p5/8/NQPB4/PP1P1PqP/R1B2RK1 w kq -">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | Shini996 | **ChessHamper888** | win 🥇 | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5knr/4p1b1/R4pQp/1b6/1P1p2P1/8/5PBP/2q1K3 w - -">Link</a> | Rapid |
 | **ChessHamper888** | JMPCGR589 | win 🥇 | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k2/2pR1B1p/n4B2/1pb5/8/P3pN1P/2PP4/RN1QK3 w Q -">Link</a> | Rapid |
 | **ChessHamper888** | mayankkasaudhan | checkmated ❌ | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2p2pp1/8/2PbK1P1/4qn2/8/3P4/8 w - -">Link</a> | Rapid |
-| **ChessHamper888** | Mahi11000 | win 🥇 | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2bqkR2/2ppppQ1/8/pp6/8/1P6/P1PPP1B1/R4K2 b - -">Link</a> | Rapid |
-| **ChessHamper888** | Mahi11000 | win 🥇 | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2bqk1Q1/1p1pp3/7B/p1p5/8/1P2P3/P1PP1P2/R4K2 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
