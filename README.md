@@ -195,11 +195,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 660 | 367 | 295 |
+| Current | 668 | 367 | 295 |
 | Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ellessdill | **ChessHamper888** | win 🥇 | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/pbpppppp/1p6/8/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -">Link</a> | Rapid |
+| Shubh1980 | **ChessHamper888** | win 🥇 | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kbnr/pb1p1ppp/1p2p3/2p5/8/NQPB4/PP1P1PqP/R1B2RK1 w kq -">Link</a> | Rapid |
+| **ChessHamper888** | Shubh1980 | checkmated ❌ | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/ppp2ppp/b2p3n/8/1P1nB1P1/P2Pb2P/2P2q2/RN1QK3 w - -">Link</a> | Rapid |
 | Negreiros7 | **ChessHamper888** | checkmated ❌ | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq1knr/2pp1Qb1/7p/p1N5/8/1B2BN2/PPP2PPP/R3R1K1 b - -">Link</a> | Rapid |
 | Shini996 | **ChessHamper888** | win 🥇 | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5knr/4p1b1/R4pQp/1b6/1P1p2P1/8/5PBP/2q1K3 w - -">Link</a> | Rapid |
 | **ChessHamper888** | JMPCGR589 | win 🥇 | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k2/2pR1B1p/n4B2/1pb5/8/P3pN1P/2PP4/RN1QK3 w Q -">Link</a> | Rapid |
@@ -207,9 +210,6 @@
 | **ChessHamper888** | Mahi11000 | win 🥇 | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2bqkR2/2ppppQ1/8/pp6/8/1P6/P1PPP1B1/R4K2 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Mahi11000 | win 🥇 | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2bqk1Q1/1p1pp3/7B/p1p5/8/1P2P3/P1PP1P2/R4K2 b - -">Link</a> | Rapid |
 | **ChessHamper888** | NguyenLyThongKe | checkmated ❌ | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/ppp5/2b1N3/4bpp1/1P4n1/P4P2/2PP1r2/4RKN1 w - -">Link</a> | Rapid |
-| **ChessHamper888** | Comrader33 | checkmated ❌ | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kb2/pp3p2/8/2p3p1/3pp1n1/1P6/PBPPPqB1/RN1QK1NR w Qq -">Link</a> | Rapid |
-| axnxdxh | **ChessHamper888** | resigned ❌ | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n2k1nr/rbp1ppb1/7p/p1N1P3/2PP2QN/B7/P4PPP/R4RK1 b k -">Link</a> | Rapid |
-| adrianmoorales | **ChessHamper888** | abandoned  | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnq1k1nr/2pppp2/p6b/1p2P1Np/3P2P1/1PP2N1P/P3BP2/R1BQK2b b Qkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
