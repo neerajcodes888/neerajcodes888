@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 692 | 367 | 295 |
+| Current | 684 | 367 | 295 |
 | Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| adrianmoorales | **ChessHamper888** | abandoned  | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnq1k1nr/2pppp2/p6b/1p2P1Np/3P2P1/1PP2N1P/P3BP2/R1BQK2b b Qkq -">Link</a> | Rapid |
 | BudakNakal37 | **ChessHamper888** | win 🥇 | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/pbppppbp/1p4p1/3P4/4P3/2N5/PPPB1PPP/R2QKBNR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | AlltidVinnare | resigned ❌ | 27/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kr3nr/pp2b2p/1q3pp1/1b2p3/6P1/1P5P/Pn1PKPB1/RN1Q1RN1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | lesko99 | win 🥇 | 27/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1n1K4/3Q4/8/1p6/6kp/8/8 b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | turtleistheboss | **ChessHamper888** | win 🥇 | 27/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/rb6/p6p/q2P1Bp1/2P5/pP3N1P/5PP1/4R1K1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Sunasaaa | win 🥇 | 26/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q1rk1/1p2np1Q/1b6/3p2p1/1Pp3n1/2P1Pp2/3P4/BN2K1NR b - -">Link</a> | Rapid |
 | Sunasaaa | **ChessHamper888** | resigned ❌ | 26/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rb6/1bqR1k2/p1n2N1Q/1pP3B1/4p3/7P/PPP2PP1/4R1K1 b - -">Link</a> | Rapid |
-| rimurutempest112009 | **ChessHamper888** | checkmated ❌ | 26/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2R1kr/1b1p1p2/ppp2P1p/6p1/8/1PNB2P1/P1PP1P1P/6K1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
