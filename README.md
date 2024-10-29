@@ -195,11 +195,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 636 | 367 | 295 |
+| Current | 637 | 367 | 295 |
 | Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| deepakkumar704 | **ChessHamper888** | checkmated ❌ | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/3pk1B1/4p2N/4P2K/7P/3p4/8/3N4 b - -">Link</a> | Rapid |
+| **ChessHamper888** | jasonsutt | win 🥇 | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b2/1bp1pp2/p1n4p/1p1p1q2/1P6/P3P2B/1BPP1P2/RN1QK2R b Q -">Link</a> | Rapid |
 | Marmel2 | **ChessHamper888** | resigned ❌ | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/pq1p1k1p/1pn1p1pn/5p2/7Q/5N2/PPP1PPPP/R3KB1R w KQ -">Link</a> | Rapid |
 | **ChessHamper888** | Menulica | win 🥇 | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r1r1/1pp4Q/5B2/pP1q4/2R4P/P7/3PP3/RN1K4 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Elaina02 | win 🥇 | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1q1rk1/p3n1pp/2p1bpn1/4p3/P2p4/6P1/RBPPPPBP/3QK1NR w K -">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | LionsMane99 | **ChessHamper888** | timeout ❌ | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1K6/8/1k4p1/5bP1/3Rp2P/8/8 b - -">Link</a> | Rapid |
 | 38BILAL07 | **ChessHamper888** | resigned ❌ | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1r1/6b1/p3Q1Np/1pp5/8/3P4/PP3PPP/R1B2RK1 b q -">Link</a> | Rapid |
 | chessbeast10113 | **ChessHamper888** | resigned ❌ | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1nR2knr/R3ppb1/1q5p/3bP1p1/3P4/4B3/5PPP/6K1 b - -">Link</a> | Rapid |
-| **ChessHamper888** | chessbeast10113 | checkmated ❌ | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp2ppp/3b4/8/3Pn1P1/PP2P2P/1B1PNq2/1RQ2K1R w kq -">Link</a> | Rapid |
-| **ChessHamper888** | Lordspooky4658 | win 🥇 | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p6R/6p1/2p1N1Pk/8/1P1P4/2P4q/3K4 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
