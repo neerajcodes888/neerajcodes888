@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 629 | 367 | 295 |
+| Current | 621 | 367 | 295 |
 | Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | BetterLakshya | checkmated ❌ | 30/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kb2/pp2pp2/3p4/6N1/2p3n1/1P6/PBPPP3/RNQK1q1B w q -">Link</a> | Rapid |
 | **ChessHamper888** | Mahi11000 | checkmated ❌ | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4k2/3p4/3bp3/8/Pr1K4/6q1/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Mahi11000 | agreed ⏸️ | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Qrkb2/p3pppr/2B3n1/8/8/P3P2b/1B1P1P2/RN2K1N1 b Q -">Link</a> | Rapid |
 | beannewbi | **ChessHamper888** | abandoned  | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1Q1/p2q2br/1pp3Np/8/3P2n1/2P1P1P1/PP1B2BP/R4RK1 b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | Menulica | win 🥇 | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r1r1/1pp4Q/5B2/pP1q4/2R4P/P7/3PP3/RN1K4 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Elaina02 | win 🥇 | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1q1rk1/p3n1pp/2p1bpn1/4p3/P2p4/6P1/RBPPPPBP/3QK1NR w K -">Link</a> | Rapid |
 | ikoleyto | **ChessHamper888** | resigned ❌ | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3k1N/2qp4/p3p1p1/2P2pNp/1p6/1B6/PPPQ1PPP/R3R1K1 b - -">Link</a> | Rapid |
-| **ChessHamper888** | ikoleyto | resigned ❌ | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/2p2p1p/8/1pbp4/4p2p/2P1P3/3P1qB1/BN1K2NR w k -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
