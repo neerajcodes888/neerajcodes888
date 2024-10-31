@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 613 | 367 | 295 |
+| Current | 605 | 367 | 295 |
 | Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | ITACHI76543 | checkmated ❌ | 31/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp2p2/2n1b2p/8/1P1bn1P1/P3PN1P/2PP1qB1/RN1QK3 w Q -">Link</a> | Rapid |
 | **ChessHamper888** | Wolf_Kali | abandoned  | 30/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/3n1pkp/6q1/6Q1/4p3/1P4P1/Pb1PPP2/2R1KR2 w - -">Link</a> | Rapid |
 | **ChessHamper888** | BetterLakshya | checkmated ❌ | 30/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kb2/pp2pp2/3p4/6N1/2p3n1/1P6/PBPPP3/RNQK1q1B w q -">Link</a> | Rapid |
 | **ChessHamper888** | Mahi11000 | checkmated ❌ | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4k2/3p4/3bp3/8/Pr1K4/6q1/8 w - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | jasonsutt | win 🥇 | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b2/1bp1pp2/p1n4p/1p1p1q2/1P6/P3P2B/1BPP1P2/RN1QK2R b Q -">Link</a> | Rapid |
 | Marmel2 | **ChessHamper888** | resigned ❌ | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/pq1p1k1p/1pn1p1pn/5p2/7Q/5N2/PPP1PPPP/R3KB1R w KQ -">Link</a> | Rapid |
 | **ChessHamper888** | Menulica | win 🥇 | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r1r1/1pp4Q/5B2/pP1q4/2R4P/P7/3PP3/RN1K4 b - -">Link</a> | Rapid |
-| **ChessHamper888** | Elaina02 | win 🥇 | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1q1rk1/p3n1pp/2p1bpn1/4p3/P2p4/6P1/RBPPPPBP/3QK1NR w K -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
