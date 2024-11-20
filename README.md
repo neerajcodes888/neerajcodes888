@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 621 | 367 | 295 |
+| Current | 629 | 367 | 295 |
 | Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Sevo0o | **ChessHamper888** | win 🥇 | 20/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/2B1p1r1/k1p5/p1P5/Pp1P3p/8/1P4bP/5K2 w - -">Link</a> | Rapid |
 | **ChessHamper888** | lucky-t-tea | win 🥇 | 20/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr3/pQk2ppp/1p1pq3/5n2/8/BPP1P1P1/P2P2B1/RN2KR2 b Q -">Link</a> | Rapid |
 | PierlucLambert | **ChessHamper888** | win 🥇 | 14/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/2p5/ppnkp1B1/3b4/6P1/8/P2R1P2/5RKr w - -">Link</a> | Rapid |
 | **ChessHamper888** | TACOENJOYER42069 | win 🥇 | 14/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq1rk1/ppppppbp/5np1/8/8/1P4PP/PBPPPPB1/RN1QK1NR b KQ -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | BetterLakshya | checkmated ❌ | 30/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kb2/pp2pp2/3p4/6N1/2p3n1/1P6/PBPPP3/RNQK1q1B w q -">Link</a> | Rapid |
 | **ChessHamper888** | Mahi11000 | checkmated ❌ | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4k2/3p4/3bp3/8/Pr1K4/6q1/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Mahi11000 | agreed ⏸️ | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Qrkb2/p3pppr/2B3n1/8/8/P3P2b/1B1P1P2/RN2K1N1 b Q -">Link</a> | Rapid |
-| beannewbi | **ChessHamper888** | abandoned  | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1Q1/p2q2br/1pp3Np/8/3P2n1/2P1P1P1/PP1B2BP/R4RK1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
