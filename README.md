@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 637 | 367 | 295 |
+| Current | 629 | 367 | 295 |
 | Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| DrBenway1973 | **ChessHamper888** | abandoned  | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/pbpp1p2/1p1b2p1/3p4/2BB3p/5P2/PPP3PP/RN1QR1K1 b kq -">Link</a> | Rapid |
 | **ChessHamper888** | mo7660 | win 🥇 | 21/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1n1/pp3p1p/2p5/8/QP1n4/P2Pp1PP/RB2P3/1N1K1BNR b q -">Link</a> | Rapid |
 | Sevo0o | **ChessHamper888** | win 🥇 | 20/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/2B1p1r1/k1p5/p1P5/Pp1P3p/8/1P4bP/5K2 w - -">Link</a> | Rapid |
 | **ChessHamper888** | lucky-t-tea | win 🥇 | 20/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr3/pQk2ppp/1p1pq3/5n2/8/BPP1P1P1/P2P2B1/RN2KR2 b Q -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | ITACHI76543 | checkmated ❌ | 31/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp2p2/2n1b2p/8/1P1bn1P1/P3PN1P/2PP1qB1/RN1QK3 w Q -">Link</a> | Rapid |
 | **ChessHamper888** | Wolf_Kali | abandoned  | 30/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/3n1pkp/6q1/6Q1/4p3/1P4P1/Pb1PPP2/2R1KR2 w - -">Link</a> | Rapid |
 | **ChessHamper888** | BetterLakshya | checkmated ❌ | 30/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kb2/pp2pp2/3p4/6N1/2p3n1/1P6/PBPPP3/RNQK1q1B w q -">Link</a> | Rapid |
-| **ChessHamper888** | Mahi11000 | checkmated ❌ | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4k2/3p4/3bp3/8/Pr1K4/6q1/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
