@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 638 | 367 | 295 |
+| Current | 646 | 367 | 295 |
 | Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Sopian79 | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/1R1Q4/5b2/7p/4B3/B1P2P1P/4P3/4K2R b K -">Link</a> | Rapid |
 | **ChessHamper888** | jtbakes | win 🥇 | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/1bpp1pB1/1p1b3p/3n4/8/1Q3NPP/3P1PB1/RN2K2R b KQkq -">Link</a> | Rapid |
 | burikatzki | **ChessHamper888** | checkmated ❌ | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnq2k1r/1b1p1Q2/p2p2p1/1p4B1/8/1B4P1/PbP2P1P/R4RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Masterjohn093009 | win 🥇 | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/p7/2p5/P1N1b3/1Pk1P2P/R1PQ1K1R/6N1 b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | lucky-t-tea | win 🥇 | 20/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr3/pQk2ppp/1p1pq3/5n2/8/BPP1P1P1/P2P2B1/RN2KR2 b Q -">Link</a> | Rapid |
 | PierlucLambert | **ChessHamper888** | win 🥇 | 14/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/2p5/ppnkp1B1/3b4/6P1/8/P2R1P2/5RKr w - -">Link</a> | Rapid |
 | **ChessHamper888** | TACOENJOYER42069 | win 🥇 | 14/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq1rk1/ppppppbp/5np1/8/8/1P4PP/PBPPPPB1/RN1QK1NR b KQ -">Link</a> | Rapid |
-| franciscocajas | **ChessHamper888** | timeout ❌ | 13/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5P2/5K2/r7/4R3/1k1p4/3B3P/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
