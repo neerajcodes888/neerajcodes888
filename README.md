@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 663 | 367 | 295 |
+| Current | 655 | 367 | 295 |
 | Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| VeldoraChess | **ChessHamper888** | timeout ❌ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/4Q3/3pP3/3P1P2/2P3P1/7P/r2n1RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | SPT579 | agreed ⏸️ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkbnr/ppp2ppp/2n5/4p3/3p4/1P4P1/PBPPPPBP/RN1QK1NR w KQkq e6">Link</a> | Rapid |
 | AM126 | **ChessHamper888** | stalemate ⏸️ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/8/8/1p6/1N5k/3P3p/PP5K/6R1 b - -">Link</a> | Rapid |
 | Josdboss | **ChessHamper888** | win 🥇 | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/p1pp1pb1/1p2p2p/4P2q/3P4/1N1B1b2/PPP3PP/RNB2RK1 w kq -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | burikatzki | **ChessHamper888** | checkmated ❌ | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnq2k1r/1b1p1Q2/p2p2p1/1p4B1/8/1B4P1/PbP2P1P/R4RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Masterjohn093009 | win 🥇 | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/p7/2p5/P1N1b3/1Pk1P2P/R1PQ1K1R/6N1 b - -">Link</a> | Rapid |
 | DrBenway1973 | **ChessHamper888** | abandoned  | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/pbpp1p2/1p1b2p1/3p4/2BB3p/5P2/PPP3PP/RN1QR1K1 b kq -">Link</a> | Rapid |
-| **ChessHamper888** | mo7660 | win 🥇 | 21/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1n1/pp3p1p/2p5/8/QP1n4/P2Pp1PP/RB2P3/1N1K1BNR b q -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
