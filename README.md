@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 688 | 367 | 295 |
+| Current | 681 | 367 | 295 |
 | Best | 695 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | perinkuruta | resigned ❌ | 3/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1pp3pp/8/pb3nq1/4R3/P6P/2P1PP2/1N2K1NR w K -">Link</a> | Rapid |
 | yusuf89360 | **ChessHamper888** | abandoned  | 2/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3K3p/2Q2pk1/4Pp2/8/P7/8/8 b - -">Link</a> | Rapid |
 | LERIK-043 | **ChessHamper888** | checkmated ❌ | 2/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2B5/8/5p2/1Q1R1P2/k3K3 b - -">Link</a> | Rapid |
 | **ChessHamper888** | LERIK-043 | repetition ⏸️ | 2/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/ppppnppp/2n5/2q1p3/2N5/PPN1PPP1/2PP2BP/R2QK2R w KQ -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | Yaroslav2727 | abandoned  | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2r1k1/p4pp1/1pq2n1p/2bbQ3/2p2NPP/P4P2/1B1P1KB1/RN5R w - -">Link</a> | Rapid |
 | Avokado26 | **ChessHamper888** | win 🥇 | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/pbppq1bp/1p2p1p1/4Q3/4P3/1PNB4/PBPP1PPP/2KR2NR b kq -">Link</a> | Rapid |
 | **ChessHamper888** | BctTamas | win 🥇 | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/4N3/1p6/4B3/7R/kp2K3/P7/8 b - -">Link</a> | Rapid |
-| **ChessHamper888** | OATH-CARNAGE | win 🥇 | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1pp2ppp/1b3q1n/3npb2/7N/4P1P1/2PP2BP/BN1QK2R b K -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
