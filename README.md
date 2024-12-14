@@ -195,11 +195,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 718 | 367 | 295 |
+| Current | 701 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ahmadzakihemat2 | **ChessHamper888** | checkmated ❌ | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1qk4/pbp1Q1b1/1p1p1n2/3P3p/8/2N4P/PP3PP1/R3R1K1 b - -">Link</a> | Rapid |
+| **ChessHamper888** | ARIFFAZMAL | checkmated ❌ | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1nr/ppp2ppp/2n5/2bP4/5P2/1P2q1P1/PBPK2BP/RN1Q2NR w kq -">Link</a> | Rapid |
 | **ChessHamper888** | benkeane7 | win 🥇 | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2nN4/7P/3kQB2/5p2/8/1p4P1/3PPP2/2R1K2R b K -">Link</a> | Rapid |
 | Charbacca13 | **ChessHamper888** | win 🥇 | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1n1/1bpp1pBr/4p2p/pp1N2p1/1n2P3/1B1P1N2/PPP2PPP/R2Q1RK1 w q -">Link</a> | Rapid |
 | **ChessHamper888** | MertOzdikmen | win 🥇 | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/pppr3p/2np4/5Q2/1PN1pb2/P1PP4/2K1P3/6R1 b - -">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | ctb1rd | **ChessHamper888** | win 🥇 | 11/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6q1/8/7K/5k2/8/8 w - -">Link</a> | Rapid |
 | bhansaliabhijaaol | **ChessHamper888** | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/2ppppb1/2b4p/pp4p1/1P2P3/2NB1Q2/PBPP1PPP/R3NRK1 w kq -">Link</a> | Rapid |
 | **ChessHamper888** | Cyanide8238 | win 🥇 | 3/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/Qp3rpp/2p5/8/1PP1pP2/P6P/5KR1/1RB5 b - -">Link</a> | Rapid |
-| **ChessHamper888** | thefirmknight | win 🥇 | 3/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/8/5b2/1Q6/5rp1/8/k5K1/8 b - -">Link</a> | Rapid |
-| **ChessHamper888** | perinkuruta | resigned ❌ | 3/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1pp3pp/8/pb3nq1/4R3/P6P/2P1PP2/1N2K1NR w K -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
