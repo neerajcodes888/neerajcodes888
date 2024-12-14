@@ -195,11 +195,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 701 | 367 | 295 |
+| Current | 718 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | suceava1001 | win 🥇 | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/1pp5/3b4/1P4r1/5kPQ/1KP1p3/1B2q3/R7 b - -">Link</a> | Rapid |
+| andzia108 | **ChessHamper888** | win 🥇 | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/pb4r1/4p1k1/8/1B1p3Q/3P4/PP3PqP/4RRK1 w - -">Link</a> | Rapid |
 | ahmadzakihemat2 | **ChessHamper888** | checkmated ❌ | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1qk4/pbp1Q1b1/1p1p1n2/3P3p/8/2N4P/PP3PP1/R3R1K1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | ARIFFAZMAL | checkmated ❌ | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1nr/ppp2ppp/2n5/2bP4/5P2/1P2q1P1/PBPK2BP/RN1Q2NR w kq -">Link</a> | Rapid |
 | **ChessHamper888** | benkeane7 | win 🥇 | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2nN4/7P/3kQB2/5p2/8/1p4P1/3PPP2/2R1K2R b K -">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | **ChessHamper888** | Pitrucapanz | resigned ❌ | 11/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/ppp2p2/4n1pQ/8/1P3b1P/P2BK3/1B1N4/R6b w - -">Link</a> | Rapid |
 | Abdarhman21 | **ChessHamper888** | resigned ❌ | 11/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1Nk1nr/pbpp2bp/1p2p1p1/8/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq -">Link</a> | Rapid |
 | ctb1rd | **ChessHamper888** | win 🥇 | 11/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6q1/8/7K/5k2/8/8 w - -">Link</a> | Rapid |
-| bhansaliabhijaaol | **ChessHamper888** | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/2ppppb1/2b4p/pp4p1/1P2P3/2NB1Q2/PBPP1PPP/R3NRK1 w kq -">Link</a> | Rapid |
-| **ChessHamper888** | Cyanide8238 | win 🥇 | 3/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/Qp3rpp/2p5/8/1PP1pP2/P6P/5KR1/1RB5 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
