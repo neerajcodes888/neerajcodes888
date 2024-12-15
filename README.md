@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 718 | 367 | 295 |
+| Current | 710 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| m_abdujabbarov | **ChessHamper888** | resigned ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nr/2N1ppb1/2p3pp/1q1pP3/3P1P2/2PN4/6PP/R1Q2RK1 b k -">Link</a> | Rapid |
 | **ChessHamper888** | suceava1001 | win 🥇 | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/1pp5/3b4/1P4r1/5kPQ/1KP1p3/1B2q3/R7 b - -">Link</a> | Rapid |
 | andzia108 | **ChessHamper888** | win 🥇 | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/pb4r1/4p1k1/8/1B1p3Q/3P4/PP3PqP/4RRK1 w - -">Link</a> | Rapid |
 | ahmadzakihemat2 | **ChessHamper888** | checkmated ❌ | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1qk4/pbp1Q1b1/1p1p1n2/3P3p/8/2N4P/PP3PP1/R3R1K1 b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | MertOzdikmen | win 🥇 | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/pppr3p/2np4/5Q2/1PN1pb2/P1PP4/2K1P3/6R1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Pitrucapanz | resigned ❌ | 11/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/ppp2p2/4n1pQ/8/1P3b1P/P2BK3/1B1N4/R6b w - -">Link</a> | Rapid |
 | Abdarhman21 | **ChessHamper888** | resigned ❌ | 11/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1Nk1nr/pbpp2bp/1p2p1p1/8/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq -">Link</a> | Rapid |
-| ctb1rd | **ChessHamper888** | win 🥇 | 11/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6q1/8/7K/5k2/8/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
