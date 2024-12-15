@@ -200,6 +200,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| siminthoal | **ChessHamper888** | win 🥇 | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/pbppppbp/1p4p1/8/7P/P3PPP1/1PPP4/RNBQKBNR b KQkq h3">Link</a> | Rapid |
+| Qusai_abbad | **ChessHamper888** | resigned ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kr2/p1pRp2p/1p4p1/4p2n/5P2/2N3PP/PPP1QB2/2K3NR b q -">Link</a> | Rapid |
 | **ChessHamper888** | abc098532 | win 🥇 | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2rb2/p6p/1pp5/4pQ1k/3P2n1/1P6/P1P1PP1P/R1B2KNR b - -">Link</a> | Rapid |
 | **ChessHamper888** | CompleteHyena | win 🥇 | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r3/pp3ppp/k7/N1Q1R3/5P2/1P6/P1KP1n1P/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Itr1992 | checkmated ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1kb2/p2ppp1p/1p6/2p5/6n1/1PB2b1P/P1PPBq2/RN1Q1K1R w - -">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | **ChessHamper888** | suceava1001 | win 🥇 | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/1pp5/3b4/1P4r1/5kPQ/1KP1p3/1B2q3/R7 b - -">Link</a> | Rapid |
 | andzia108 | **ChessHamper888** | win 🥇 | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/pb4r1/4p1k1/8/1B1p3Q/3P4/PP3PqP/4RRK1 w - -">Link</a> | Rapid |
 | ahmadzakihemat2 | **ChessHamper888** | checkmated ❌ | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1qk4/pbp1Q1b1/1p1p1n2/3P3p/8/2N4P/PP3PP1/R3R1K1 b - -">Link</a> | Rapid |
-| **ChessHamper888** | ARIFFAZMAL | checkmated ❌ | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1nr/ppp2ppp/2n5/2bP4/5P2/1P2q1P1/PBPK2BP/RN1Q2NR w kq -">Link</a> | Rapid |
-| **ChessHamper888** | benkeane7 | win 🥇 | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2nN4/7P/3kQB2/5p2/8/1p4P1/3PPP2/2R1K2R b K -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
