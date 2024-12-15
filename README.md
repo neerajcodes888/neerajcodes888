@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 701 | 367 | 295 |
+| Current | 693 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | platinumworks | abandoned  | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/1pp2ppp/p1n5/3np3/1P1p2P1/P6P/1BPPPPB1/RN1QK1NR w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Parvesh701 | win 🥇 | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/p4r1p/4Q1pn/2N1k3/3p4/P5P1/7P/6K1 b - -">Link</a> | Rapid |
 | suryanshz | **ChessHamper888** | checkmated ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q5N/R5P1/8/k7/8/8/5P2/5BK1 b - -">Link</a> | Rapid |
 | Adolf47 | **ChessHamper888** | resigned ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3knr/rB1p1pb1/p2pR2p/1p4p1/3N4/2P2P2/PP4PP/RNBQ3K b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | akamkam736 | **ChessHamper888** | stalemate ⏸️ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5r2/6b1/4k3/8/4K3 w - -">Link</a> | Rapid |
 | ThibaultIsShort | **ChessHamper888** | abandoned  | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/p1N1p1b1/1p2q3/8/2PP1Bp1/7P/PP3PP1/R2Q1RK1 b q -">Link</a> | Rapid |
 | **ChessHamper888** | mrbipashak | checkmated ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/p1p2pbp/6p1/1p4P1/1P6/P1P4P/1Q1N4/4qKNb w - -">Link</a> | Rapid |
-| **ChessHamper888** | Caravagggio | win 🥇 | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R3Q/p4p1k/5np1/1P2p1p1/P5P1/7P/4PPK1/1q5R b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
