@@ -195,11 +195,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 709 | 367 | 295 |
+| Current | 701 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Parvesh701 | win 🥇 | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/p4r1p/4Q1pn/2N1k3/3p4/P5P1/7P/6K1 b - -">Link</a> | Rapid |
+| suryanshz | **ChessHamper888** | checkmated ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q5N/R5P1/8/k7/8/8/5P2/5BK1 b - -">Link</a> | Rapid |
+| Adolf47 | **ChessHamper888** | resigned ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3knr/rB1p1pb1/p2pR2p/1p4p1/3N4/2P2P2/PP4PP/RNBQ3K b - -">Link</a> | Rapid |
 | **ChessHamper888** | saurabhmishra85 | checkmated ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1pp2R2/r1k3p1/3b4/2nB4/P2Q4/2P2Kq1/4R3 w - -">Link</a> | Rapid |
 | **ChessHamper888** | abhishek12106 | timeout ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/5B2/3p4/3P4/3k2K1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | TanzzZ492 | win 🥇 | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2ppp/8/3n4/1P1B4/P4P1P/2QPK1B1/1R4R1 b - -">Link</a> | Rapid |
@@ -207,9 +210,6 @@
 | ThibaultIsShort | **ChessHamper888** | abandoned  | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/p1N1p1b1/1p2q3/8/2PP1Bp1/7P/PP3PP1/R2Q1RK1 b q -">Link</a> | Rapid |
 | **ChessHamper888** | mrbipashak | checkmated ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/p1p2pbp/6p1/1p4P1/1P6/P1P4P/1Q1N4/4qKNb w - -">Link</a> | Rapid |
 | **ChessHamper888** | Caravagggio | win 🥇 | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R3Q/p4p1k/5np1/1P2p1p1/P5P1/7P/4PPK1/1q5R b - -">Link</a> | Rapid |
-| siminthoal | **ChessHamper888** | win 🥇 | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/pbppppbp/1p4p1/8/7P/P3PPP1/1PPP4/RNBQKBNR b KQkq h3">Link</a> | Rapid |
-| Qusai_abbad | **ChessHamper888** | resigned ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kr2/p1pRp2p/1p4p1/4p2n/5P2/2N3PP/PPP1QB2/2K3NR b q -">Link</a> | Rapid |
-| **ChessHamper888** | abc098532 | win 🥇 | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2rb2/p6p/1pp5/4pQ1k/3P2n1/1P6/P1P1PP1P/R1B2KNR b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
