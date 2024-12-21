@@ -200,6 +200,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| veershettypasari | **ChessHamper888** | resigned ❌ | 21/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1q1k1nr/pb1p1pb1/1ppNp2p/3n4/3P3N/1QP1P1P1/PP3PB1/R1B2RK1 b kq -">Link</a> | Rapid |
 | MrMongG | **ChessHamper888** | checkmated ❌ | 16/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1q1k1r/1r1ppQb1/p1p3Bp/5P2/1p6/4B3/PPP3PP/R4R1K b - -">Link</a> | Rapid |
 | **ChessHamper888** | platinumworks | abandoned  | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/1pp2ppp/p1n5/3np3/1P1p2P1/P6P/1BPPPPB1/RN1QK1NR w KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Parvesh701 | win 🥇 | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/p4r1p/4Q1pn/2N1k3/3p4/P5P1/7P/6K1 b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | abhishek12106 | timeout ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/5B2/3p4/3P4/3k2K1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | TanzzZ492 | win 🥇 | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2ppp/8/3n4/1P1B4/P4P1P/2QPK1B1/1R4R1 b - -">Link</a> | Rapid |
 | akamkam736 | **ChessHamper888** | stalemate ⏸️ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5r2/6b1/4k3/8/4K3 w - -">Link</a> | Rapid |
-| ThibaultIsShort | **ChessHamper888** | abandoned  | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/p1N1p1b1/1p2q3/8/2PP1Bp1/7P/PP3PP1/R2Q1RK1 b q -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
