@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 669 | 367 | 295 |
+| Current | 676 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| RCAVictrola | **ChessHamper888** | win 🥇 | 22/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/6kp/1B1p4/5P2/6K1/3q4/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | MGLKnight | abandoned  | 22/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/pb1p2b1/2p4p/1p3QpR/3q2P1/1P1N4/P5B1/4RKN1 w - -">Link</a> | Rapid |
 | GWBlackett | **ChessHamper888** | checkmated ❌ | 21/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk1nr/p2p1Qbp/2p1p1p1/1p4N1/2B1P3/8/PPPP1PPP/RNB1K2R b KQkq -">Link</a> | Rapid |
 | veershettypasari | **ChessHamper888** | resigned ❌ | 21/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1q1k1nr/pb1p1pb1/1ppNp2p/3n4/3P3N/1QP1P1P1/PP3PB1/R1B2RK1 b kq -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | suryanshz | **ChessHamper888** | checkmated ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q5N/R5P1/8/k7/8/8/5P2/5BK1 b - -">Link</a> | Rapid |
 | Adolf47 | **ChessHamper888** | resigned ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3knr/rB1p1pb1/p2pR2p/1p4p1/3N4/2P2P2/PP4PP/RNBQ3K b - -">Link</a> | Rapid |
 | **ChessHamper888** | saurabhmishra85 | checkmated ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1pp2R2/r1k3p1/3b4/2nB4/P2Q4/2P2Kq1/4R3 w - -">Link</a> | Rapid |
-| **ChessHamper888** | abhishek12106 | timeout ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/5B2/3p4/3P4/3k2K1 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
