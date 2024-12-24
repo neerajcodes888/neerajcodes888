@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 692 | 367 | 295 |
+| Current | 700 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | brandominate69 | win 🥇 | 24/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1nbk1Q2/7p/1pB3p1/rN6/8/P6P/2P5/R2K4 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Black_Samurai_1 | stalemate ⏸️ | 22/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1r6/3k4/2q5/K7/8/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | 1Manish08 | win 🥇 | 22/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nB/ppp2p1p/q2p4/2b5/8/1P2PBPN/P1PP3P/RN1QK2R b KQq -">Link</a> | Rapid |
 | idan1324 | **ChessHamper888** | win 🥇 | 22/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rq2k2r/p2pppb1/1p5p/6p1/3Pb3/2P1P2N/PP3PPP/RN2KB1R w KQkq -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | veershettypasari | **ChessHamper888** | resigned ❌ | 21/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1q1k1nr/pb1p1pb1/1ppNp2p/3n4/3P3N/1QP1P1P1/PP3PB1/R1B2RK1 b kq -">Link</a> | Rapid |
 | MrMongG | **ChessHamper888** | checkmated ❌ | 16/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1q1k1r/1r1ppQb1/p1p3Bp/5P2/1p6/4B3/PPP3PP/R4R1K b - -">Link</a> | Rapid |
 | **ChessHamper888** | platinumworks | abandoned  | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/1pp2ppp/p1n5/3np3/1P1p2P1/P6P/1BPPPPB1/RN1QK1NR w KQkq -">Link</a> | Rapid |
-| **ChessHamper888** | Parvesh701 | win 🥇 | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/p4r1p/4Q1pn/2N1k3/3p4/P5P1/7P/6K1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
