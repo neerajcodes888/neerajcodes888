@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 684 | 367 | 295 |
+| Current | 692 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | JulieSkyhigh | win 🥇 | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1k4/pp4p1/5p2/1P3B2/1Q2P1PK/3q3P/5P2/8 b - -">Link</a> | Rapid |
 | Achraf1544 | **ChessHamper888** | abandoned  | 25/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnq1k1nr/1b1p2b1/p2Np2p/B1p3p1/4P3/3B1N2/PP3PPP/R2QK2R b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Ninamzll | checkmated ❌ | 25/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K7/1q6/2k5/8/8/8/8/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | solsticecartel | checkmated ❌ | 25/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/6kp/2n5/3n4/3qK3/8/8/8 w - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | brandominate69 | win 🥇 | 24/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1nbk1Q2/7p/1pB3p1/rN6/8/P6P/2P5/R2K4 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Black_Samurai_1 | stalemate ⏸️ | 22/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1r6/3k4/2q5/K7/8/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | 1Manish08 | win 🥇 | 22/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nB/ppp2p1p/q2p4/2b5/8/1P2PBPN/P1PP3P/RN1QK2R b KQq -">Link</a> | Rapid |
-| idan1324 | **ChessHamper888** | win 🥇 | 22/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rq2k2r/p2pppb1/1p5p/6p1/3Pb3/2P1P2N/PP3PPP/RN2KB1R w KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
