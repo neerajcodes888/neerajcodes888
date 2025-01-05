@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 670 | 367 | 295 |
+| Current | 662 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | antza69 | checkmated ❌ | 5/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/ppp2ppp/2np3n/2b5/5PP1/PP3B1P/1BPP1q2/RN1Q1K1R w - -">Link</a> | Rapid |
 | Jailembout78 | **ChessHamper888** | resigned ❌ | 5/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/P7/7p/1k4p1/2p3P1/2P2P2/4NK1P/8 b - -">Link</a> | Rapid |
 | **ChessHamper888** | djdhhjdhh | win 🥇 | 5/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp2ppp/2n2n2/b3p3/3P2b1/1PP3P1/PB1QP2P/RN2K1R1 b Qkq -">Link</a> | Rapid |
 | yustevich | **ChessHamper888** | checkmated ❌ | 5/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1knr/3p1Qb1/bppP2pp/p3Np2/8/2N5/PPPB1PPP/2KR1B1R b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | Pashavinua | **ChessHamper888** | checkmated ❌ | 5/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1kr1/1bpp1Qb1/p4n1p/1p1PN1p1/2P5/8/PP3PPP/RN2KB1R b KQ -">Link</a> | Rapid |
 | **ChessHamper888** | oksur12 | win 🥇 | 5/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/R7/8/6Pp/2QPP2P/k1P1KP2/1q5r b - -">Link</a> | Rapid |
 | oksur12 | **ChessHamper888** | checkmated ❌ | 5/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=bb1kQ1nr/2qp4/n1pNp2p/4P3/8/1BN5/1PP2PPP/2B1R1K1 b - -">Link</a> | Rapid |
-| **ChessHamper888** | dardilap | win 🥇 | 5/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/pBp2p1p/1p1p2p1/2b3q1/8/1P2PQ1P/PBPP1P2/RN2K1NR b KQ -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
