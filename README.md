@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 630 | 367 | 295 |
+| Current | 623 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| der_cthulhu | **ChessHamper888** | resigned ❌ | 15/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2br3r/p3Q1kp/1p3pp1/4p3/8/2N5/PPP2P1P/2KR2R1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | der_cthulhu | checkmated ❌ | 15/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp2ppp/2nb4/3p3n/1P2p1bP/P3P3/1BPP1P2/RN1QK2q w kq -">Link</a> | Rapid |
 | **ChessHamper888** | MrLadislav | win 🥇 | 15/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bk1Q2/pp5R/n7/2p2n2/8/1P6/P1P1P1r1/RN2K1B1 b Q -">Link</a> | Rapid |
 | cabdisamed | **ChessHamper888** | abandoned  | 15/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/pBppppbp/1p4p1/8/3P4/2N3P1/PPP1PP1P/R1BQK1NR b KQkq -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | majik0 | win 🥇 | 8/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1ppp/5B2/2b5/5p2/1P4P1/P1PPP2P/RN1QKBNR b KQkq -">Link</a> | Rapid |
 | yigitali50 | **ChessHamper888** | win 🥇 | 8/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1r4/p3k1Bp/1p2Bn2/4q3/8/4KP2/P4P1P/R6R w - -">Link</a> | Rapid |
 | **ChessHamper888** | kymanthy | resigned ❌ | 6/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/2p1ppbp/pp1q1n2/3P4/2PQ4/1P3n1P/P6R/1RB1K3 w - -">Link</a> | Rapid |
-| Dexterz12 | **ChessHamper888** | resigned ❌ | 6/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1k1r/1b1pP1b1/p1p2pBp/1p4p1/3B4/1NP1QN1P/PP3PP1/R3R1K1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
