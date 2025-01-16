@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 623 | 367 | 295 |
+| Current | 615 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| sohelriot | **ChessHamper888** | checkmated ❌ | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnqk2Rb/1bp1p3/pp5p/3p4/2B3Q1/1N1P4/PPP2P1P/R1B1K3 b Q -">Link</a> | Rapid |
 | der_cthulhu | **ChessHamper888** | resigned ❌ | 15/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2br3r/p3Q1kp/1p3pp1/4p3/8/2N5/PPP2P1P/2KR2R1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | der_cthulhu | checkmated ❌ | 15/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp2ppp/2nb4/3p3n/1P2p1bP/P3P3/1BPP1P2/RN1QK2q w kq -">Link</a> | Rapid |
 | **ChessHamper888** | MrLadislav | win 🥇 | 15/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bk1Q2/pp5R/n7/2p2n2/8/1P6/P1P1P1r1/RN2K1B1 b Q -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | Nandangowda03 | resigned ❌ | 8/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1k1r1/1pp2p1p/6p1/8/qB4P1/P2P3P/3KPPB1/2r3NR w - -">Link</a> | Rapid |
 | **ChessHamper888** | majik0 | win 🥇 | 8/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pppp1ppp/5B2/2b5/5p2/1P4P1/P1PPP2P/RN1QKBNR b KQkq -">Link</a> | Rapid |
 | yigitali50 | **ChessHamper888** | win 🥇 | 8/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1r4/p3k1Bp/1p2Bn2/4q3/8/4KP2/P4P1P/R6R w - -">Link</a> | Rapid |
-| **ChessHamper888** | kymanthy | resigned ❌ | 6/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/2p1ppbp/pp1q1n2/3P4/2PQ4/1P3n1P/P6R/1RB1K3 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
