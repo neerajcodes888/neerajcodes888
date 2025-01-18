@@ -200,6 +200,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | jeetchess1212 | stalemate ⏸️ | 18/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/k1N2P2/2B5/1Q4K1/P6P/8/2R5 b - -">Link</a> | Rapid |
 | **ChessHamper888** | JROLLETSAC | checkmated ❌ | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p6p/1p4p1/2p5/1r6/r7/8/K6n w - -">Link</a> | Rapid |
 | Rivierat | **ChessHamper888** | checkmated ❌ | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2R1kr/p2p1R2/7p/2p2ppN/2BP4/P4P2/5PKP/1q6 b - -">Link</a> | Rapid |
 | **ChessHamper888** | tetsukurumi | win 🥇 | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb2rk1/ppp2ppp/3p1q2/2b1p2Q/5P2/1P2PNP1/PBPP3P/RN2KB1R b KQ -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | liouwu | **ChessHamper888** | checkmated ❌ | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1q2k1/pb1pp1Q1/1p6/2p4N/8/8/PPP3PP/R4RK1 b - -">Link</a> | Rapid |
 | issaoeued | **ChessHamper888** | checkmated ❌ | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6K1/8/8/4Q3/4k3/6Q1 b - -">Link</a> | Rapid |
 | fedediluu | **ChessHamper888** | checkmated ❌ | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N5nr/4ppb1/2Q1k2p/6p1/2P1P3/5N1P/5PP1/1R4K1 b - -">Link</a> | Rapid |
-| **ChessHamper888** | fedediluu | win 🥇 | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3B4/8/8/8/2p3p1/2NbP3/3P1K1k/R5RQ b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
