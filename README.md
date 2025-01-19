@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 665 | 367 | 295 |
+| Current | 656 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | MasalovEvgen | checkmated ❌ | 19/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1k1BQ1/p4p2/1pBp4/8/6Pb/Pb1P3P/4PqK1/RN5R w - -">Link</a> | Rapid |
 | **ChessHamper888** | jeetchess1212 | stalemate ⏸️ | 18/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/k1N2P2/2B5/1Q4K1/P6P/8/2R5 b - -">Link</a> | Rapid |
 | **ChessHamper888** | JROLLETSAC | checkmated ❌ | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p6p/1p4p1/2p5/1r6/r7/8/K6n w - -">Link</a> | Rapid |
 | Rivierat | **ChessHamper888** | checkmated ❌ | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2R1kr/p2p1R2/7p/2p2ppN/2BP4/P4P2/5PKP/1q6 b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | laineuba | win 🥇 | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/P6p/6p1/5pP1/7P/pKp2Q2/2PqN3/5R2 b - -">Link</a> | Rapid |
 | liouwu | **ChessHamper888** | checkmated ❌ | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1q2k1/pb1pp1Q1/1p6/2p4N/8/8/PPP3PP/R4RK1 b - -">Link</a> | Rapid |
 | issaoeued | **ChessHamper888** | checkmated ❌ | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6K1/8/8/4Q3/4k3/6Q1 b - -">Link</a> | Rapid |
-| fedediluu | **ChessHamper888** | checkmated ❌ | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N5nr/4ppb1/2Q1k2p/6p1/2P1P3/5N1P/5PP1/1R4K1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
