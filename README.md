@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 672 | 367 | 295 |
+| Current | 680 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Musthafa_vp | win 🥇 | 20/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkbnr/pp2pppp/n1p5/3p4/8/PP4P1/1BPPPPBP/RNQ1K1NR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | nicholaskoay1234 | win 🥇 | 19/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p5p/6pQ/1p6/4PQ2/7k/5KR1/7q b - -">Link</a> | Rapid |
 | MasalovEvgen | **ChessHamper888** | win 🥇 | 19/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/8/p2N2pp/1P1pn3/7K/4q3/P6r/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | MasalovEvgen | checkmated ❌ | 19/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1k1BQ1/p4p2/1pBp4/8/6Pb/Pb1P3P/4PqK1/RN5R w - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | tetsukurumi | win 🥇 | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb2rk1/ppp2ppp/3p1q2/2b1p2Q/5P2/1P2PNP1/PBPP3P/RN2KB1R b KQ -">Link</a> | Rapid |
 | fredmercuryprateado | **ChessHamper888** | win 🥇 | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3k1r/p2pN3/1p3n2/8/8/8/PPP1RPP1/4RK1q w - -">Link</a> | Rapid |
 | TrickyAcee | **ChessHamper888** | win 🥇 | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k1b/2p1p3/8/5q2/8/2N5/1PP2P2/4K3 w - -">Link</a> | Rapid |
-| **ChessHamper888** | laineuba | win 🥇 | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/P6p/6p1/5pP1/7P/pKp2Q2/2PqN3/5R2 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
