@@ -195,11 +195,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 714 | 367 | 295 |
+| Current | 723 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| holidnamekaze | **ChessHamper888** | win 🥇 | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/8/p1n4p/1p2q1p1/1P4P1/8/P1P5/7K w q -">Link</a> | Rapid |
+| **ChessHamper888** | srisakethchess | win 🥇 | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4N3/7N/3k3p/3b2p1/Q2B2P1/3P3n/5P2/5K2 b - -">Link</a> | Rapid |
+| **ChessHamper888** | saftigesterra | checkmated ❌ | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kr2/pppb2p1/8/n1bPp3/6P1/P3P3/RBBP1q2/1N1QK1NR w K -">Link</a> | Rapid |
 | **ChessHamper888** | himanshukochhar | resigned ❌ | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rqrk1/1pp3pp/p3bp1n/4P1N1/1P2P3/P3Q1PP/2n3B1/3RK2R w K -">Link</a> | Rapid |
 | himanshukochhar | **ChessHamper888** | checkmated ❌ | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1bkr/p2pnQ2/1pb4p/6p1/1PB5/2P2N2/P4PPP/RNB2RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | himanshukochhar | checkmated ❌ | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1r1/ppp2p1p/3p4/8/8/1PB4P/PQPPPq2/RN3KbB w q -">Link</a> | Rapid |
@@ -207,9 +210,6 @@
 | Rubio2907 | **ChessHamper888** | win 🥇 | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/p2pp1b1/1p6/5p2/3P4/P4P2/1P1n2K1/2q5 w - f6">Link</a> | Rapid |
 | **ChessHamper888** | gede_ingsuro | resigned ❌ | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/5p2/6p1/pq5p/8/5N2/4R3/2b2K2 b - -">Link</a> | Rapid |
 | **ChessHamper888** | adel9621 | checkmated ❌ | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/pbp2p1p/1pn1p3/3p4/6Pb/1PP2P1R/PBQPPqB1/RN3KN1 w kq -">Link</a> | Rapid |
-| Tytus52 | **ChessHamper888** | win 🥇 | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/pbpppp1p/1p4p1/8/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq -">Link</a> | Rapid |
-| NadimeHu | **ChessHamper888** | checkmated ❌ | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4kr1/2p2Q2/pp1q4/6N1/5pnP/2N1P1p1/PPPP2P1/R1B1K2R b KQ -">Link</a> | Rapid |
-| **ChessHamper888** | xavierisern | win 🥇 | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/5p1p/5p2/r4N1k/6n1/1K4N1/3PP3/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
