@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 723 | 367 | 295 |
+| Current | 715 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ThirstyEnsign | **ChessHamper888** | checkmated ❌ | 29/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3qk1n1/R3p3/1P4B1/2p4p/2P5/5RBP/6P1/6K1 b - -">Link</a> | Rapid |
 | Mqdee | **ChessHamper888** | win 🥇 | 28/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/3n4/1p6/p2p4/1PPP2kp/8/P2K4/8 w - -">Link</a> | Rapid |
 | **ChessHamper888** | Jago_oliver | resigned ❌ | 28/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/2p1b1pp/2n1Q3/1p2pp2/q7/2PP1b1P/5P2/BN2KR2 b k -">Link</a> | Rapid |
 | **ChessHamper888** | manusmad | win 🥇 | 28/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1p2rpp1/2p2n1p/8/2P3PQ/P2P3P/8/1R3K2 b - c3">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | Malovebhavsar | **ChessHamper888** | checkmated ❌ | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/6Q1/8/8/1K2B3/8/7k/8 b - -">Link</a> | Rapid |
 | rgtheIII | **ChessHamper888** | resigned ❌ | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1B2kr2/1bp1p3/p2p4/6pp/8/1PQB3P/P1P2RP1/4N1K1 b - -">Link</a> | Rapid |
 | holidnamekaze | **ChessHamper888** | win 🥇 | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/8/p1n4p/1p2q1p1/1P4P1/8/P1P5/7K w q -">Link</a> | Rapid |
-| **ChessHamper888** | srisakethchess | win 🥇 | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4N3/7N/3k3p/3b2p1/Q2B2P1/3P3n/5P2/5K2 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
