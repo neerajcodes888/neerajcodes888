@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 742 | 367 | 295 |
+| Current | 750 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Johnerownee | win 🥇 | 16/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq1rk1/ppp2pbp/4pnp1/3p4/6P1/1PP4P/PB1PPPB1/RN1QK1NR b KQ -">Link</a> | Rapid |
 | Mantena28 | **ChessHamper888** | resigned ❌ | 12/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1Bk2r/pbpp3p/1p2p1p1/4bP2/2Bn4/3Q4/PPP1N1PP/R4RK1 b - -">Link</a> | Rapid |
 | **ChessHamper888** | Mantena28 | win 🥇 | 12/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b2rkQ/4qp2/rpBb2p1/1N4Pp/4p3/3NP2P/5P2/B4K1R b - -">Link</a> | Rapid |
 | CRISALBERT | **ChessHamper888** | win 🥇 | 6/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/1b1p1pb1/p3p1p1/1pp1n1Np/4PB1Q/PBPP4/1P3PPP/R4RK1 w kq -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | luistr22 | win 🥇 | 31/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/R7/1Q6/3b1k2/5PP1/4K2P/4N3/8 b - -">Link</a> | Rapid |
 | luistr22 | **ChessHamper888** | checkmated ❌ | 31/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1Br/1bqpQ3/p1p4p/1p3P2/3P4/2N5/PPPb1PP1/R3RK2 b kq -">Link</a> | Rapid |
 | **ChessHamper888** | luistr22 | win 🥇 | 31/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b5/ppp5/2k2r2/1P2p3/P2Q4/8/R1PP4/1N2K1NR b K -">Link</a> | Rapid |
-| luistr22 | **ChessHamper888** | win 🥇 | 31/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/2p1p3/pp3p2/6P1/2Pb1q2/3P4/P1K1BP1p/7R b kq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
