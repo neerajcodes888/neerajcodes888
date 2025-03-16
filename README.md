@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 703 | 367 | 295 |
+| Current | 711 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | rajkumar2348 | win 🥇 | 16/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3rk1/5pQp/bpp5/8/6P1/P6P/1BPPqP1K/RN2r2R b - -">Link</a> | Rapid |
 | sushant_more | **ChessHamper888** | win 🥇 | 16/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/1b3pkp/8/5Bb1/6Q1/4B1PP/6q1/5RK1 w - -">Link</a> | Rapid |
 | Alex035582 | **ChessHamper888** | resigned ❌ | 16/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnq1k1nr/3p1pb1/3N3p/p2b2p1/8/PP3P2/3BB1PP/R2QR1K1 b kq -">Link</a> | Rapid |
 | DawidzOHIO | **ChessHamper888** | resigned ❌ | 16/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/3pq1k1/Q5B1/3p1N2/8/5P2/1P4PP/R5K1 b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | rcmayoub | checkmated ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6k1/2p5/7K/4q2q/8/8 w - -">Link</a> | Rapid |
 | kliflifltz | **ChessHamper888** | checkmated ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/pbpppQ1p/1p4p1/8/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq -">Link</a> | Rapid |
 | **ChessHamper888** | Kxlski | resigned ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/2pp4/4p3/4P1b1/Q1N1K3/2n4q/8 w - -">Link</a> | Rapid |
-| anbuselvan02 | **ChessHamper888** | checkmated ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/Q7/2b4p/k5p1/4r3/B1P5/P1P2PPP/1R4K1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
