@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 711 | 367 | 295 |
+| Current | 703 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | mehran52mousavi | resigned ❌ | 16/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b3k1/pp1nq1pp/2p5/3p1r2/1P3P1b/P1P1P2P/1B1P2B1/R4KNR w - - 0 19">Link</a> | Rapid |
 | **ChessHamper888** | sliman2022 | win 🥇 | 31/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/pp3ppp/5n2/2Pp1b2/3B4/P2P1PP1/4P1BP/RN1QK1NR b KQkq -">Link</a> | Rapid |
 | EBIKON999 | **ChessHamper888** | checkmated ❌ | 29/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/7R/8/R7/1K6/8/8/7k b - -">Link</a> | Rapid |
 | **ChessHamper888** | rajkumar2348 | win 🥇 | 16/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3rk1/5pQp/bpp5/8/6P1/P6P/1BPPqP1K/RN2r2R b - -">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | Oops_T | checkmated ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4Q2p/4Rppk/2p5/1p5n/1P1B4/3P1PqP/6K1 w - -">Link</a> | Rapid |
 | **ChessHamper888** | karan_7461 | win 🥇 | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk2B/p1p2p1p/B7/2b5/4n3/1P2pNPP/P1P5/RNQ1K2R b KQ -">Link</a> | Rapid |
 | rcmayoub | **ChessHamper888** | checkmated ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2Q/3ppp2/p7/1p3qN1/5Pn1/PBN2b2/1PP4P/R5K1 b q -">Link</a> | Rapid |
-| **ChessHamper888** | rcmayoub | checkmated ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6k1/2p5/7K/4q2q/8/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
