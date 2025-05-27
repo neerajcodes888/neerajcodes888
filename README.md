@@ -235,6 +235,9 @@
 
 </details>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=500&color=E966A0&center=true&vCenter=true&width=450&lines=Thanks+for+orbiting+by!;Drop+a+star+if+you+enjoyed+the+vibes+%F0%9F%8C%9F;Happy+coding+%F0%9F%9A%80" alt="Thanks animation" />
+</p>
 
 
 
