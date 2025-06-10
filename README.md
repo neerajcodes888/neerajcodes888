@@ -193,11 +193,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 668 | 367 | 295 |
+| Current | 676 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| SudharsanRajan | **ChessHamper888** | win 🥇 | 10/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rk1r/2p2pbp/p4np1/3qN3/3n4/2Q5/PPP2PPP/R1B2RK1 w - - 0 19">Link</a> | Rapid |
 | Michl76 | **ChessHamper888** | checkmated ❌ | 9/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/p1pppQbp/1p3np1/4PpN1/1n6/8/PPPP1PPP/RNB1KB1R b KQkq - 6 9">Link</a> | Rapid |
 | **ChessHamper888** | vinayKumarallam | win 🥇 | 9/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1qr1k1/pb1pbpQp/n1p5/1p1p4/1Pn3P1/P1B4P/2P1PPB1/RN2K1NR b KQ - 0 15">Link</a> | Rapid |
 | vinayKumarallam | **ChessHamper888** | resigned ❌ | 9/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/1QNppppp/ppn2n2/8/8/4P3/PPPP1PPP/R1B1KBNR b KQkq - 0 6">Link</a> | Rapid |
@@ -207,7 +208,6 @@
 | Savvygamer123 | **ChessHamper888** | checkmated ❌ | 9/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q6K/1R6/8/8/8/k7/8/8 b - - 6 67">Link</a> | Rapid |
 | chtigambit | **ChessHamper888** | agreed ⏸️ | 9/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/pbppppbp/1p4p1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 2 5">Link</a> | Rapid |
 | **ChessHamper888** | diobut | win 🥇 | 9/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1k2/p4p1p/1p6/2b3QP/2P5/1P2P1P1/P2P2B1/RN2K3 b Q c3 0 22">Link</a> | Rapid |
-| phuctapchsco | **ChessHamper888** | win 🥇 | 9/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/3pp2p/6p1/4r2k/6q1/5K2/5Q1P/8 w - - 1 53">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
