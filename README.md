@@ -195,11 +195,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 633 | 367 | 295 |
+| Current | 626 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | stlaure | resigned ❌ | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/1pp2pp1/p1n1p2p/3n4/2b2PP1/P1N1b2P/1B3KB1/2R3NR w - - 0 20">Link</a> | Rapid |
+| stlaure | **ChessHamper888** | checkmated ❌ | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=b3Rk2/5p1r/8/1B5p/6p1/P1B4P/5PP1/R5K1 b - - 1 32">Link</a> | Rapid |
+| chekotila | **ChessHamper888** | win 🥇 | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q5/4kp1R/2K1p2P/8/8/8/8/1r6 w - - 6 64">Link</a> | Rapid |
 | **ChessHamper888** | Greywinddd | resigned ❌ | 29/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/ppp2ppp/8/3pp3/3n1q1P/PP3N1B/2P1b3/RNBQ1K1R w kq - 0 16">Link</a> | Rapid |
 | **ChessHamper888** | nentopan | win 🥇 | 29/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q1kb1r/n4ppp/5nb1/pP6/2Pp2P1/P6P/1BP1PP2/RN1QK1NR w KQk - 0 16">Link</a> | Rapid |
 | Damienjry | **ChessHamper888** | abandoned  | 17/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/1bppppb1/p5pp/1p6/1P1PPB2/2NB1N2/P1P1QPPP/R3R1K1 b kq b3 0 10">Link</a> | Rapid |
@@ -207,9 +210,6 @@
 | **ChessHamper888** | Khu344musa | resigned ❌ | 15/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pbpp1pbp/1pnqp1p1/8/3N2nP/PP4PR/R1PPPPB1/1N1QK3 b - - 3 14">Link</a> | Rapid |
 | guilherme76787 | **ChessHamper888** | win 🥇 | 13/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2N1k3/4p1np/4P3/3K4/5p2/7P/1q6 w - - 0 48">Link</a> | Rapid |
 | Tynenimimo | **ChessHamper888** | win 🥇 | 13/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbN1k1r/2pp1pbp/6p1/p7/1p3B2/8/PPP2PPP/Q3R1K1 w - - 0 19">Link</a> | Rapid |
-| **ChessHamper888** | raverkabugaltersha | resigned ❌ | 13/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1p2ppp/7P/1p4q1/2n3P1/P1B1r3/2qN1K1R/8 w - - 0 31">Link</a> | Rapid |
-| **ChessHamper888** | nhat123456123 | resigned ❌ | 13/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2pq2pp/2np1B2/8/4pQPb/r2bP2P/3K4/6NR b - - 1 26">Link</a> | Rapid |
-| **ChessHamper888** | biinoos | win 🥇 | 12/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4K3/8/3k4/8/B7/Q7 b - - 42 97">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
