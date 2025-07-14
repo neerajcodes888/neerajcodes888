@@ -1,4 +1,4 @@
- <h1 align="center"><code>Hello People 👋 Myself Neeraj Kumar</code></h1>
+ <h1 align="center"><code>Hi People 👋 Myself Neeraj Kumar</code></h1>
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajcodes&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
