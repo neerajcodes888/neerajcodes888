@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 634 | 367 | 295 |
+| Current | 627 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | learningfornow3727 | resigned ❌ | 15/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1R3ppp/3q1n2/2p1p3/2Q5/5NPP/3PPPB1/r3K2R w K - 1 18">Link</a> | Rapid |
 | **ChessHamper888** | Denver14r | resigned ❌ | 13/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p1p2pbp/6p1/8/1P1rn3/P1K3Pb/2Q1P3/RN4Nq w - - 0 21">Link</a> | Rapid |
 | theinvinci | **ChessHamper888** | win 🥇 | 13/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kr2/2p4p/q1Kpp1p1/3n2N1/3P4/1PP5/6PP/8 w - - 2 39">Link</a> | Rapid |
 | **ChessHamper888** | 8Henrik8 | win 🥇 | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/pppb1pQp/2n5/8/5P1P/PP2Pq2/3PN3/RN2K1R1 b Q - 0 18">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | roadtohighel0 | **ChessHamper888** | resigned ❌ | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=bn1q4/3pRk1r/3B1p1p/p7/3p4/3B4/PPP3QP/2KR4 b - - 5 27">Link</a> | Rapid |
 | **ChessHamper888** | stlaure | resigned ❌ | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/1pp2pp1/p1n1p2p/3n4/2b2PP1/P1N1b2P/1B3KB1/2R3NR w - - 0 20">Link</a> | Rapid |
 | stlaure | **ChessHamper888** | checkmated ❌ | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=b3Rk2/5p1r/8/1B5p/6p1/P1B4P/5PP1/R5K1 b - - 1 32">Link</a> | Rapid |
-| chekotila | **ChessHamper888** | win 🥇 | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q5/4kp1R/2K1p2P/8/8/8/8/1r6 w - - 6 64">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
