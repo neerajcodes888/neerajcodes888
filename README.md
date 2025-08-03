@@ -195,11 +195,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 618 | 367 | 295 |
+| Current | 619 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | mwabili_alex35 | win 🥇 | 3/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/pbp1p2p/1p3pp1/3p4/6P1/PP3P1P/1BPPP3/RN1QKBNR b KQkq g3 0 6">Link</a> | Rapid |
+| mwabili_alex35 | **ChessHamper888** | checkmated ❌ | 3/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/p1pp1Qb1/1pn1p1pp/4P1N1/2B5/8/PPPP1PPP/RNB1K2R b KQkq - 0 7">Link</a> | Rapid |
 | zozawy | **ChessHamper888** | abandoned  | 20/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rqk2r/1bp1pp2/p4b1p/1p1PN1p1/1n6/1BN1Q3/PPP2PPP/R4RK1 b k - 0 16">Link</a> | Rapid |
 | **ChessHamper888** | learningfornow3727 | resigned ❌ | 15/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1R3ppp/3q1n2/2p1p3/2Q5/5NPP/3PPPB1/r3K2R w K - 1 18">Link</a> | Rapid |
 | **ChessHamper888** | Denver14r | resigned ❌ | 13/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p1p2pbp/6p1/8/1P1rn3/P1K3Pb/2Q1P3/RN4Nq w - - 0 21">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | asikausar | **ChessHamper888** | win 🥇 | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nr/2qppp1p/1p4pb/2n5/3P1Q1P/1P6/rBP2P2/2KR4 w k - 0 17">Link</a> | Rapid |
 | Omaarrr444 | **ChessHamper888** | checkmated ❌ | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk1nr/p1pppQbp/1p4p1/8/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 0 4">Link</a> | Rapid |
 | **ChessHamper888** | Wakeupmisha | win 🥇 | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5kR1/ppp1rp1p/8/2q5/3r1N1b/PP6/1BP3Q1/5RK1 b - - 1 31">Link</a> | Rapid |
-| roadtohighel0 | **ChessHamper888** | resigned ❌ | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=bn1q4/3pRk1r/3B1p1p/p7/3p4/3B4/PPP3QP/2KR4 b - - 5 27">Link</a> | Rapid |
-| **ChessHamper888** | stlaure | resigned ❌ | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/1pp2pp1/p1n1p2p/3n4/2b2PP1/P1N1b2P/1B3KB1/2R3NR w - - 0 20">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
