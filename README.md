@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 611 | 367 | 295 |
+| Current | 602 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Link01337 | **ChessHamper888** | checkmated ❌ | 19/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk1nr/pp1ppQbp/2p3p1/8/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 0 4">Link</a> | Rapid |
 | Narender_esala | **ChessHamper888** | abandoned  | 4/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3qk2r/2pnp1bp/Q5p1/1P3p2/8/N6P/PP3PP1/R1B1KBNR b KQk - 0 15">Link</a> | Rapid |
 | **ChessHamper888** | mwabili_alex35 | win 🥇 | 3/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/pbp1p2p/1p3pp1/3p4/6P1/PP3P1P/1BPPP3/RN1QKBNR b KQkq g3 0 6">Link</a> | Rapid |
 | mwabili_alex35 | **ChessHamper888** | checkmated ❌ | 3/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/p1pp1Qb1/1pn1p1pp/4P1N1/2B5/8/PPPP1PPP/RNB1K2R b KQkq - 0 7">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | theinvinci | **ChessHamper888** | win 🥇 | 13/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kr2/2p4p/q1Kpp1p1/3n2N1/3P4/1PP5/6PP/8 w - - 2 39">Link</a> | Rapid |
 | **ChessHamper888** | 8Henrik8 | win 🥇 | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/pppb1pQp/2n5/8/5P1P/PP2Pq2/3PN3/RN2K1R1 b Q - 0 18">Link</a> | Rapid |
 | asikausar | **ChessHamper888** | win 🥇 | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nr/2qppp1p/1p4pb/2n5/3P1Q1P/1P6/rBP2P2/2KR4 w k - 0 17">Link</a> | Rapid |
-| Omaarrr444 | **ChessHamper888** | checkmated ❌ | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk1nr/p1pppQbp/1p4p1/8/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 0 4">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
