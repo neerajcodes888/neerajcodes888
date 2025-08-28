@@ -195,11 +195,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 618 | 367 | 295 |
+| Current | 634 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Rajsinghasana | win 🥇 | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2r2k1/1pp2pQp/p7/1n6/1P2P2q/P3P1RB/2P2P2/RN2K3 b - - 0 26">Link</a> | Rapid |
+| **ChessHamper888** | shadow_emperors | win 🥇 | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1p/npBp1k2/1N3n2/5P2/1P6/2P1QP1P/R4K1R w - - 5 27">Link</a> | Rapid |
 | **ChessHamper888** | oeeoeeree | win 🥇 | 27/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/3R1pkp/r5p1/4n3/3K4/4P3/8/8 b - - 0 48">Link</a> | Rapid |
 | bubu0204 | **ChessHamper888** | win 🥇 | 27/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nr/rbpp1pb1/p3p1p1/1pN5/4PP2/2P5/PP1PB2q/1RBQ1RK1 w k - 0 17">Link</a> | Rapid |
 | jlghaf | **ChessHamper888** | win 🥇 | 27/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k3/p7/1p2P3/8/6q1/3P4/PPP2K1p/7q w q - 0 31">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | tsachin112 | **ChessHamper888** | checkmated ❌ | 27/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnq5/p1pp3Q/1p4p1/6Pk/7P/b7/b1P2K2/6R1 b - - 6 27">Link</a> | Rapid |
 | **ChessHamper888** | Nikuleishy | resigned ❌ | 27/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/ppp4p/2n3p1/5nP1/4p2P/BPb5/r3PP2/R3K2R w KQ - 0 25">Link</a> | Rapid |
 | **ChessHamper888** | Ichhoffeichgewinne | repetition ⏸️ | 27/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1K6/1P6/8/q7/5k2/8/8/8 b - - 24 80">Link</a> | Rapid |
-| **ChessHamper888** | sanghyungenious | win 🥇 | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/ppp2pbp/4n1p1/4p3/8/PP2P2P/1BPP1PB1/RN1QK2R w KQ - 1 14">Link</a> | Rapid |
-| Link01337 | **ChessHamper888** | checkmated ❌ | 19/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk1nr/pp1ppQbp/2p3p1/8/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 0 4">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
