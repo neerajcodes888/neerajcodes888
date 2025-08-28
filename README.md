@@ -200,6 +200,9 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | draconimicon | abandoned  | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp3pp/4b3/1P3p2/8/P2PqNPP/R1QNP2R/4K3 w kq - 0 22">Link</a> | Rapid |
+| hftdktsgsfm | **ChessHamper888** | win 🥇 | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3knr/rbp1N3/pp4pp/8/5B2/2NB4/PPP1QPqP/R3R1K1 w - - 0 20">Link</a> | Rapid |
+| jrod312 | **ChessHamper888** | repetition ⏸️ | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/3pk3/4n1Q1/8/6p1/5n2/3q2KP/8 w - - 13 61">Link</a> | Rapid |
 | **ChessHamper888** | jrod312 | win 🥇 | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q1k1/p7/5pK1/8/8/PP4P1/4R3/4R3 b - - 4 49">Link</a> | Rapid |
 | jrod312 | **ChessHamper888** | resigned ❌ | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nQ/1b1pbp2/pp4pB/8/8/2N2N2/PPP2PPP/R3KB1R w KQ - 1 13">Link</a> | Rapid |
 | **ChessHamper888** | magevara | win 🥇 | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/N6p/5Q2/6Qk/4K3 b - - 8 64">Link</a> | Rapid |
@@ -207,9 +210,6 @@
 | **ChessHamper888** | GILANGNIDECK | win 🥇 | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3rk1/ppp2ppp/1b6/8/1P6/P2Pp2P/1BP1R3/RN1Q2K1 b - - 0 20">Link</a> | Rapid |
 | Wisdom117 | **ChessHamper888** | win 🥇 | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/4p3/1p1p2Q1/1PpPp1P1/p1P1P2r/P6K/5q2/3B4 w - - 0 44">Link</a> | Rapid |
 | Blight_Amethy | **ChessHamper888** | win 🥇 | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/2ppk1K1/4p3/r7/q7/6R1/P3N3/8 b - - 3 39">Link</a> | Rapid |
-| **ChessHamper888** | Rajsinghasana | win 🥇 | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2r2k1/1pp2pQp/p7/1n6/1P2P2q/P3P1RB/2P2P2/RN2K3 b - - 0 26">Link</a> | Rapid |
-| **ChessHamper888** | shadow_emperors | win 🥇 | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1p/npBp1k2/1N3n2/5P2/1P6/2P1QP1P/R4K1R w - - 5 27">Link</a> | Rapid |
-| **ChessHamper888** | oeeoeeree | win 🥇 | 27/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/3R1pkp/r5p1/4n3/3K4/4P3/8/8 b - - 0 48">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
