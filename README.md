@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 668 | 367 | 295 |
+| Current | 676 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| HatemElBasha | **ChessHamper888** | win 🥇 | 29/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3kr/3p2b1/p5qp/1p6/4R3/8/PPP2PPP/4R1K1 w - - 0 28">Link</a> | Rapid |
 | **ChessHamper888** | TiMOouL | resigned ❌ | 29/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/ppp2ppp/1bn5/8/1P2pnP1/P1P4P/1B1PP2q/RN1Q1KN1 w - - 0 21">Link</a> | Rapid |
 | **ChessHamper888** | cosmicgambet | checkmated ❌ | 29/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2B/p4pQ1/1p4p1/2p2b2/2P4p/PP5P/3N1b2/R2Kq3 w - - 8 26">Link</a> | Rapid |
 | ClieshaCellyn | **ChessHamper888** | win 🥇 | 29/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1bp5/1p2k2p/1P6/4n3/5P2/2P3PP/R5K1 w - - 0 30">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | jrod312 | win 🥇 | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q1k1/p7/5pK1/8/8/PP4P1/4R3/4R3 b - - 4 49">Link</a> | Rapid |
 | jrod312 | **ChessHamper888** | resigned ❌ | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nQ/1b1pbp2/pp4pB/8/8/2N2N2/PPP2PPP/R3KB1R w KQ - 1 13">Link</a> | Rapid |
 | **ChessHamper888** | magevara | win 🥇 | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/N6p/5Q2/6Qk/4K3 b - - 8 64">Link</a> | Rapid |
-| corey086 | **ChessHamper888** | win 🥇 | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k1r/2Q2p2/3p3p/3Pb1p1/N7/PB5P/1PP2PPq/4RRK1 w - - 1 25">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
