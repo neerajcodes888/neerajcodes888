@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 702 | 367 | 295 |
+| Current | 694 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Fig999 | checkmated ❌ | 12/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pppbbppp/2n5/8/3p4/1P3Pq1/P1PNP1N1/R1BQKBR1 w Q - 1 18">Link</a> | Rapid |
 | **ChessHamper888** | ldmrmn | abandoned  | 7/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/ppp2pp1/2n4p/3b4/1P1pP1P1/P4N1P/1BP1PP1b/R2QK3 w Q - 0 16">Link</a> | Rapid |
 | **ChessHamper888** | janachess11 | win 🥇 | 7/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1nr/pppp1ppp/2n1pb2/6B1/3P4/1P4P1/P1P1PPBP/RN1QK1NR b KQkq - 0 7">Link</a> | Rapid |
 | doblecero1989 | **ChessHamper888** | win 🥇 | 6/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/1bppppb1/pp5p/6p1/3P4/2N1PN2/PPP1BPPP/R1BQ1RK1 w kq - 0 8">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | yippeee09 | win 🥇 | 31/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/2p2Q1k/3p3p/6p1/5pqr/4P2b/2PKPP2/7R b - - 4 30">Link</a> | Rapid |
 | paulogaspar1 | **ChessHamper888** | resigned ❌ | 31/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/8/2P5/8/1K6/1P6/k6P/6Q1 b - - 0 72">Link</a> | Rapid |
 | **ChessHamper888** | matiaskraga | win 🥇 | 31/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/p3bppp/1p6/2p1p1P1/P1b5/2N1P2P/1BPP1PB1/3QK1NR b - - 0 22">Link</a> | Rapid |
-| **ChessHamper888** | hernanmorillas | checkmated ❌ | 30/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/p1p1n1pp/8/1P6/1P1b4/N2P3P/1B1P1rq1/R2Q3K w - - 15 36">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
