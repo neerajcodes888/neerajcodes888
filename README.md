@@ -195,11 +195,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 646 | 367 | 295 |
+| Current | 654 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| nonlavoroalmc-matrappo | **ChessHamper888** | repetition ⏸️ | 18/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1Q/2ppnr2/4p2p/p4p1R/3P1P2/P1P1P1P1/8/1RB1K3 b q - 8 28">Link</a> | Rapid |
+| Brad-23 | **ChessHamper888** | win 🥇 | 18/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p2k2/p1K1qP2/5r2/8/8/1R6/8 w - - 9 60">Link</a> | Rapid |
 | **ChessHamper888** | agatta209 | checkmated ❌ | 18/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/p2r3p/N4p1p/4b3/Q1b1P3/P7/1qK2P2/6n1 w k - 2 38">Link</a> | Rapid |
 | Craving00 | **ChessHamper888** | resigned ❌ | 17/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2nr2k1/1b1q1p2/p6p/2B1n1p1/2B5/6Q1/PP3PPP/3R1RK1 w - - 2 24">Link</a> | Rapid |
 | **ChessHamper888** | Nawaf059245 | resigned ❌ | 17/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/pp4pp/5p2/2b1p3/2P2P2/P5P1/1B1P2bP/RN1QK1NR w KQkq - 0 14">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | johnwitts | **ChessHamper888** | checkmated ❌ | 15/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3N4/8/1P6/1R6/P7/8/1Q6/k4NK1 b - - 8 74">Link</a> | Rapid |
 | **ChessHamper888** | ticojuega | checkmated ❌ | 15/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pp1p2pp/2p1pp2/8/8/PP3NbP/1BPPPqB1/RN1Q1K1R w kq - 2 9">Link</a> | Rapid |
 | **ChessHamper888** | Azmain_Sheikh | checkmated ❌ | 15/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp2pQ1/8/7P/4Pn2/Pb2qB1P/8/3K3R w kq - 0 23">Link</a> | Rapid |
-| clry1001 | **ChessHamper888** | win 🥇 | 15/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/1bp1p1b1/p2p1p2/8/3PP3/2NBB1P1/1PP2P1q/R2Q1RK1 w kq - 0 17">Link</a> | Rapid |
-| **ChessHamper888** | Traumaa3733 | win 🥇 | 15/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/pppN1p2/2nb1k1p/8/1P4Q1/P5P1/2P2P2/4RKN1 b - - 6 32">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
