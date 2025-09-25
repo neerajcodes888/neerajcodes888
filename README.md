@@ -200,6 +200,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | brahim-bailek | resigned ❌ | 25/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/pp3pp1/2p2b1p/6n1/1P3P2/P2B1b1P/2PK1R2/5Nq1 b - - 4 30">Link</a> | Rapid |
+| ljb0 | **ChessHamper888** | win 🥇 | 25/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1k3/3pp3/3n4/N2K3P/7r/8/8 b - - 3 48">Link</a> | Rapid |
 | **ChessHamper888** | Memnon-aga | abandoned  | 23/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/p1p2ppp/1pn1p3/3pb1qn/1P6/P4B1P/R1PPPP2/1N1QK1NR w Kkq - 0 12">Link</a> | Rapid |
 | MolyPolyHoly | **ChessHamper888** | checkmated ❌ | 21/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2R1Q1/1qp4k/p4p2/1p6/7p/2N5/PPP2PP1/R1B3K1 b - - 2 26">Link</a> | Rapid |
 | **ChessHamper888** | foco12 | win 🥇 | 19/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/4n1pq/3RQ3/3np3/P6p/7P/4N3/1N2K1R1 b - - 4 33">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | IamyaniV | **ChessHamper888** | checkmated ❌ | 19/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1q1k1r1/2p1Qp2/2b1p2p/1P6/p1n2P2/B7/2P2P1P/5K2 b q - 1 34">Link</a> | Rapid |
 | nonlavoroalmc-matrappo | **ChessHamper888** | repetition ⏸️ | 18/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1Q/2ppnr2/4p2p/p4p1R/3P1P2/P1P1P1P1/8/1RB1K3 b q - 8 28">Link</a> | Rapid |
 | Brad-23 | **ChessHamper888** | win 🥇 | 18/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p2k2/p1K1qP2/5r2/8/8/1R6/8 w - - 9 60">Link</a> | Rapid |
-| **ChessHamper888** | agatta209 | checkmated ❌ | 18/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/p2r3p/N4p1p/4b3/Q1b1P3/P7/1qK2P2/6n1 w k - 2 38">Link</a> | Rapid |
-| Craving00 | **ChessHamper888** | resigned ❌ | 17/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2nr2k1/1b1q1p2/p6p/2B1n1p1/2B5/6Q1/PP3PPP/3R1RK1 w - - 2 24">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
