@@ -195,21 +195,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 654 | 367 | 295 |
+| Current | 662 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Lovinglion | repetition ⏸️ | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k4/8/3q4/8/1K6/8/8 w - - 32 94">Link</a> | Rapid |
+| Dgo2025 | **ChessHamper888** | win 🥇 | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/3p1pb1/2p1p1p1/4P2p/3PbB2/P6Q/1Pq1BP1P/2KR4 w kq - 0 19">Link</a> | Rapid |
+| itsmeniaz | **ChessHamper888** | win 🥇 | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nr/2pp1p2/4p2p/1N4p1/2BNP1P1/7K/1r5q/3R4 w k - 0 26">Link</a> | Rapid |
+| alexandra13alexis | **ChessHamper888** | checkmated ❌ | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q2k1nr/p2pppbp/6p1/6q1/8/B1P1P3/3P1PbP/1N2KBNR b Kk - 0 14">Link</a> | Rapid |
 | **ChessHamper888** | brahim-bailek | resigned ❌ | 25/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/pp3pp1/2p2b1p/6n1/1P3P2/P2B1b1P/2PK1R2/5Nq1 b - - 4 30">Link</a> | Rapid |
 | ljb0 | **ChessHamper888** | win 🥇 | 25/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1k3/3pp3/3n4/N2K3P/7r/8/8 b - - 3 48">Link</a> | Rapid |
 | **ChessHamper888** | Memnon-aga | abandoned  | 23/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/p1p2ppp/1pn1p3/3pb1qn/1P6/P4B1P/R1PPPP2/1N1QK1NR w Kkq - 0 12">Link</a> | Rapid |
 | MolyPolyHoly | **ChessHamper888** | checkmated ❌ | 21/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2R1Q1/1qp4k/p4p2/1p6/7p/2N5/PPP2PP1/R1B3K1 b - - 2 26">Link</a> | Rapid |
 | **ChessHamper888** | foco12 | win 🥇 | 19/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/4n1pq/3RQ3/3np3/P6p/7P/4N3/1N2K1R1 b - - 4 33">Link</a> | Rapid |
 | **ChessHamper888** | aoudagkff | win 🥇 | 19/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p4pQp/1bpp4/5b2/1Pn2n2/P1B1P3/2q2PBR/R3K1N1 b Q - 0 24">Link</a> | Rapid |
-| **ChessHamper888** | Imazjamil | win 🥇 | 19/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1r1/p1p1pp1p/1pb3p1/6P1/3B4/5P2/P1PPP1BP/RN1QK1NR b KQq - 0 13">Link</a> | Rapid |
-| IamyaniV | **ChessHamper888** | checkmated ❌ | 19/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1q1k1r1/2p1Qp2/2b1p2p/1P6/p1n2P2/B7/2P2P1P/5K2 b q - 1 34">Link</a> | Rapid |
-| nonlavoroalmc-matrappo | **ChessHamper888** | repetition ⏸️ | 18/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1Q/2ppnr2/4p2p/p4p1R/3P1P2/P1P1P1P1/8/1RB1K3 b q - 8 28">Link</a> | Rapid |
-| Brad-23 | **ChessHamper888** | win 🥇 | 18/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p2k2/p1K1qP2/5r2/8/8/1R6/8 w - - 9 60">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
