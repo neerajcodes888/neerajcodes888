@@ -195,11 +195,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 636 | 367 | 295 |
+| Current | 620 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| MarckJ30 | **ChessHamper888** | abandoned  | 14/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R2k1/R7/2p4p/4q3/8/4NK2/P4PP1/8 b - - 24 47">Link</a> | Rapid |
+| **ChessHamper888** | Ridaviken | resigned ❌ | 14/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/3p1k2/P3p1p1/3n1P2/3K4/7p/8 w - - 0 47">Link</a> | Rapid |
 | **ChessHamper888** | Elphas_Ke | abandoned  | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/1rpn1kpp/qpN1pp2/8/2P2bP1/P4N1P/1B2PP2/R3K2R w KQ - 0 27">Link</a> | Rapid |
 | **ChessHamper888** | BaleineNinja | checkmated ❌ | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/ppp3pp/8/8/1P1P2p1/P1B4P/4PqK1/R2Q2NB w - - 2 21">Link</a> | Rapid |
 | Samrat047 | **ChessHamper888** | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nr/3ppp2/p6P/1p4B1/1P2b3/5NP1/P6P/5q1K w k - 0 26">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | **ChessHamper888** | Unisi21 | checkmated ❌ | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/K7/8/1q6/1k6/8/8/q7 w - - 4 80">Link</a> | Rapid |
 | **ChessHamper888** | datainorbit | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/p4pbp/Rp1p1qp1/2p5/5pP1/2P2N1P/1B1PP1R1/3Q1KN1 b - - 0 24">Link</a> | Rapid |
 | loubandz315 | **ChessHamper888** | resigned ❌ | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/P7/2k3p1/4p1P1/4K2p/7P/1R6 b - - 2 52">Link</a> | Rapid |
-| **ChessHamper888** | loubandz315 | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kB5/2QR4/1N6/8/p1P1P3/P7/2P5/4K3 b - - 11 50">Link</a> | Rapid |
-| loubandz315 | **ChessHamper888** | checkmated ❌ | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3kB3/3Q4/2K5/8/8/8/8/8 b - - 4 69">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
