@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 620 | 367 | 295 |
+| Current | 612 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| echekcs | **ChessHamper888** | checkmated ❌ | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1k1R2/2qp4/2n3N1/2p5/4NP2/r3P3/5K2/8 b - - 6 46">Link</a> | Rapid |
 | MarckJ30 | **ChessHamper888** | abandoned  | 14/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R2k1/R7/2p4p/4q3/8/4NK2/P4PP1/8 b - - 24 47">Link</a> | Rapid |
 | **ChessHamper888** | Ridaviken | resigned ❌ | 14/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/3p1k2/P3p1p1/3n1P2/3K4/7p/8 w - - 0 47">Link</a> | Rapid |
 | **ChessHamper888** | Elphas_Ke | abandoned  | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/1rpn1kpp/qpN1pp2/8/2P2bP1/P4N1P/1B2PP2/R3K2R w KQ - 0 27">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | jayamina17 | **ChessHamper888** | checkmated ❌ | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/pbpppQ2/1p3ppp/n3P3/2B2B2/N2P1N2/P1P2PPP/4K2R b Kkq - 5 11">Link</a> | Rapid |
 | **ChessHamper888** | Unisi21 | checkmated ❌ | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/K7/8/1q6/1k6/8/8/q7 w - - 4 80">Link</a> | Rapid |
 | **ChessHamper888** | datainorbit | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/p4pbp/Rp1p1qp1/2p5/5pP1/2P2N1P/1B1PP1R1/3Q1KN1 b - - 0 24">Link</a> | Rapid |
-| loubandz315 | **ChessHamper888** | resigned ❌ | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/P7/2k3p1/4p1P1/4K2p/7P/1R6 b - - 2 52">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
