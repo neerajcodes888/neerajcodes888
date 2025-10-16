@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 612 | 367 | 295 |
+| Current | 620 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Martin00018 | **ChessHamper888** | win 🥇 | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4nk/1b6/p3BR1b/1p2P2p/8/P1N3P1/1PP3qP/7K w - - 0 32">Link</a> | Rapid |
 | echekcs | **ChessHamper888** | checkmated ❌ | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1k1R2/2qp4/2n3N1/2p5/4NP2/r3P3/5K2/8 b - - 6 46">Link</a> | Rapid |
 | MarckJ30 | **ChessHamper888** | abandoned  | 14/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R2k1/R7/2p4p/4q3/8/4NK2/P4PP1/8 b - - 24 47">Link</a> | Rapid |
 | **ChessHamper888** | Ridaviken | resigned ❌ | 14/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/3p1k2/P3p1p1/3n1P2/3K4/7p/8 w - - 0 47">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | Aakash-sonis | **ChessHamper888** | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k4r/1b5p/pp1p2p1/5p1n/3N4/NB6/PPPP1PqP/R1B1R1K1 w - - 0 20">Link</a> | Rapid |
 | jayamina17 | **ChessHamper888** | checkmated ❌ | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/pbpppQ2/1p3ppp/n3P3/2B2B2/N2P1N2/P1P2PPP/4K2R b Kkq - 5 11">Link</a> | Rapid |
 | **ChessHamper888** | Unisi21 | checkmated ❌ | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/K7/8/1q6/1k6/8/8/q7 w - - 4 80">Link</a> | Rapid |
-| **ChessHamper888** | datainorbit | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/p4pbp/Rp1p1qp1/2p5/5pP1/2P2N1P/1B1PP1R1/3Q1KN1 b - - 0 24">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
