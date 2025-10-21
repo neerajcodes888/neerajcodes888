@@ -200,6 +200,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| TeoKalo | **ChessHamper888** | checkmated ❌ | 21/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnqk1QBb/p1ppp3/1p6/4P3/3P4/8/PPP2P1P/RNB1K2b b Q - 1 12">Link</a> | Rapid |
+| **ChessHamper888** | LiuChangLong | win 🥇 | 21/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnB1kbn1/p5B1/1pp3N1/6p1/P7/1P1PP3/3P1P2/RN1QK3 b Qq - 0 21">Link</a> | Rapid |
 | **ChessHamper888** | imbetterthanmatty | resigned ❌ | 21/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/ppp1np1p/5qp1/3p4/8/1PP3bP/PB1PP1B1/RN1Q2KR b - - 3 14">Link</a> | Rapid |
 | imbetterthanmatty | **ChessHamper888** | resigned ❌ | 21/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nB/1bpppp1p/pp4p1/8/3PP3/5N2/PPP2PPP/RN1QKB1R b KQq - 0 6">Link</a> | Rapid |
 | QueenKane | **ChessHamper888** | win 🥇 | 21/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/p1ppppbp/1p4p1/8/3P1B2/2P1P3/PP3P1P/RN1b1RK1 w kq - 0 9">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | echekcs | **ChessHamper888** | checkmated ❌ | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1k1R2/2qp4/2n3N1/2p5/4NP2/r3P3/5K2/8 b - - 6 46">Link</a> | Rapid |
 | MarckJ30 | **ChessHamper888** | abandoned  | 14/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R2k1/R7/2p4p/4q3/8/4NK2/P4PP1/8 b - - 24 47">Link</a> | Rapid |
 | **ChessHamper888** | Ridaviken | resigned ❌ | 14/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/3p1k2/P3p1p1/3n1P2/3K4/7p/8 w - - 0 47">Link</a> | Rapid |
-| **ChessHamper888** | Elphas_Ke | abandoned  | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/1rpn1kpp/qpN1pp2/8/2P2bP1/P4N1P/1B2PP2/R3K2R w KQ - 0 27">Link</a> | Rapid |
-| **ChessHamper888** | BaleineNinja | checkmated ❌ | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/ppp3pp/8/8/1P1P2p1/P1B4P/4PqK1/R2Q2NB w - - 2 21">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
