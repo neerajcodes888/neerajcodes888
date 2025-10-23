@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 604 | 367 | 295 |
+| Current | 596 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | maxwellshedd | resigned ❌ | 23/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/ppp2ppp/2n1bn2/8/1P1pp1P1/P6P/1BPPPPBb/RN1QK1N1 w Qkq - 0 10">Link</a> | Rapid |
 | **ChessHamper888** | tar357 | checkmated ❌ | 22/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/1pp2Npp/p1n5/4pb2/Pb3Pn1/1PpP2P1/2P1PqBP/R2QK2R w - - 3 20">Link</a> | Rapid |
 | drsmithe | **ChessHamper888** | resigned ❌ | 22/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1Q1k1r/pbp2p1p/1p2p1p1/1B2Pn2/PP6/5P2/2P3PP/RN2K1NR b KQ - 0 12">Link</a> | Rapid |
 | gvilly10 | **ChessHamper888** | resigned ❌ | 22/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3pPk2/1p4N1/p6p/8/1Pr2P2/P5PB/4R2K w - - 2 37">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | TeoKalo | **ChessHamper888** | checkmated ❌ | 21/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnqk1QBb/p1ppp3/1p6/4P3/3P4/8/PPP2P1P/RNB1K2b b Q - 1 12">Link</a> | Rapid |
 | **ChessHamper888** | LiuChangLong | win 🥇 | 21/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnB1kbn1/p5B1/1pp3N1/6p1/P7/1P1PP3/3P1P2/RN1QK3 b Qq - 0 21">Link</a> | Rapid |
 | **ChessHamper888** | imbetterthanmatty | resigned ❌ | 21/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/ppp1np1p/5qp1/3p4/8/1PP3bP/PB1PP1B1/RN1Q2KR b - - 3 14">Link</a> | Rapid |
-| imbetterthanmatty | **ChessHamper888** | resigned ❌ | 21/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nB/1bpppp1p/pp4p1/8/3PP3/5N2/PPP2PPP/RN1QKB1R b KQq - 0 6">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
