@@ -200,6 +200,9 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| pyattic | **ChessHamper888** | resigned ❌ | 26/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q4k/1b1pp3/p4pQ1/8/P3Pn2/3P1P2/2P2KP1/7R b - - 3 26">Link</a> | Rapid |
+| ziperarrepiante | **ChessHamper888** | win 🥇 | 26/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/p1R1p2r/1p5p/4NP2/4P3/4P3/P5PP/4q1K1 w - - 1 23">Link</a> | Rapid |
+| **ChessHamper888** | Nioxin | stalemate ⏸️ | 26/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/QK6/8/1k6 b - - 2 63">Link</a> | Rapid |
 | **ChessHamper888** | maxwellshedd | resigned ❌ | 23/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/ppp2ppp/2n1bn2/8/1P1pp1P1/P6P/1BPPPPBb/RN1QK1N1 w Qkq - 0 10">Link</a> | Rapid |
 | **ChessHamper888** | tar357 | checkmated ❌ | 22/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/1pp2Npp/p1n5/4pb2/Pb3Pn1/1PpP2P1/2P1PqBP/R2QK2R w - - 3 20">Link</a> | Rapid |
 | drsmithe | **ChessHamper888** | resigned ❌ | 22/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1Q1k1r/pbp2p1p/1p2p1p1/1B2Pn2/PP6/5P2/2P3PP/RN2K1NR b KQ - 0 12">Link</a> | Rapid |
@@ -207,9 +210,6 @@
 | **ChessHamper888** | JanetNo | win 🥇 | 22/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Bk3R1/2p5/8/8/Q7/3P3p/3KP3/1R6 b - - 1 43">Link</a> | Rapid |
 | **ChessHamper888** | vikzul7 | win 🥇 | 22/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/ppp1kb1R/1n4r1/4n3/1P1pPp2/P2P4/2P1KP2/R7 b - - 1 41">Link</a> | Rapid |
 | Ahmed095mm | **ChessHamper888** | win 🥇 | 22/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q2nr/pb1kpQ1p/1pp3p1/3pb3/2B1p3/2N5/PPPP1PPP/R1B1K1NR w KQ - 0 12">Link</a> | Rapid |
-| TeoKalo | **ChessHamper888** | checkmated ❌ | 21/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnqk1QBb/p1ppp3/1p6/4P3/3P4/8/PPP2P1P/RNB1K2b b Q - 1 12">Link</a> | Rapid |
-| **ChessHamper888** | LiuChangLong | win 🥇 | 21/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnB1kbn1/p5B1/1pp3N1/6p1/P7/1P1PP3/3P1P2/RN1QK3 b Qq - 0 21">Link</a> | Rapid |
-| **ChessHamper888** | imbetterthanmatty | resigned ❌ | 21/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/ppp1np1p/5qp1/3p4/8/1PP3bP/PB1PP1B1/RN1Q2KR b - - 3 14">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
