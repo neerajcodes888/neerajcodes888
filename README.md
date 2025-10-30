@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 588 | 367 | 295 |
+| Current | 580 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | andrejplayingigre123 | checkmated ❌ | 30/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/7p/p1n2p1b/3np1p1/1pb3P1/7P/1B1PqPB1/RNQ1K1R1 w Q - 0 31">Link</a> | Rapid |
 | **ChessHamper888** | Dias5495 | win 🥇 | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/6R1/5pN1/5knR/p7/r3p3/4K3/8 b - - 10 45">Link</a> | Rapid |
 | MecLogan | **ChessHamper888** | win 🥇 | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1r1/8/8/3R1p1p/5P2/2q2K2/Pb5P/8 w - - 3 42">Link</a> | Rapid |
 | **ChessHamper888** | zuzubaidillah2 | resigned ❌ | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/6p1/3p2qp/3P4/2Q5/1KP3P1/4p3/8 w - - 0 42">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | **ChessHamper888** | Alexvasyliuk1964 | abandoned  | 26/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4bnr/p2pk3/1p2p2p/1p6/4N1pP/P3Bn2/3Q1P1R/3R2K1 w - - 2 29">Link</a> | Rapid |
 | bilispatrigger | **ChessHamper888** | resigned ❌ | 26/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n2k1nr/2pp1p2/pp2p3/4P2P/P1BP4/2NK4/1PP2P2/R1b4Q b k - 0 16">Link</a> | Rapid |
 | **ChessHamper888** | pokegopotato | resigned ❌ | 26/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1r1k1/ppp2ppp/8/8/3q4/1PNnP1P1/P2P2BP/R1Q1K2R w KQ - 1 15">Link</a> | Rapid |
-| pyattic | **ChessHamper888** | resigned ❌ | 26/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q4k/1b1pp3/p4pQ1/8/P3Pn2/3P1P2/2P2KP1/7R b - - 3 26">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
