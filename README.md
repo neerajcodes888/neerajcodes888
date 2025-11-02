@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 580 | 367 | 295 |
+| Current | 572 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Romy_Ramly | checkmated ❌ | 2/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1nr/ppp2ppp/2n5/2bp4/4p1P1/PP5P/1BPPPqB1/RN1QK1NR w KQkq - 0 8">Link</a> | Rapid |
 | LUFCGEORGIOU92 | **ChessHamper888** | checkmated ❌ | 1/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk1nr/p1pppQbp/1p4p1/8/2B5/4P3/PPPP1PPP/RNB1K1NR b KQkq - 0 4">Link</a> | Rapid |
 | **ChessHamper888** | santosh0105 | win 🥇 | 1/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6NB/p1pk4/8/2n2p2/P7/7P/2P1R3/5K1R b - - 0 34">Link</a> | Rapid |
 | abdota00 | **ChessHamper888** | checkmated ❌ | 1/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk1nr/p1pppQbp/1p4p1/8/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 0 4">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | MecLogan | **ChessHamper888** | win 🥇 | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1r1/8/8/3R1p1p/5P2/2q2K2/Pb5P/8 w - - 3 42">Link</a> | Rapid |
 | **ChessHamper888** | zuzubaidillah2 | resigned ❌ | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/6p1/3p2qp/3P4/2Q5/1KP3P1/4p3/8 w - - 0 42">Link</a> | Rapid |
 | TP1202 | **ChessHamper888** | win 🥇 | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1k1r/p2pp1b1/1pp2npp/8/3P4/2P1B3/PP1N3P/R2QK1NB w Q - 0 14">Link</a> | Rapid |
-| wakokasabotnimo | **ChessHamper888** | win 🥇 | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnq1k1nr/p2p1pbp/1p2p1p1/2p1P3/2BP4/1P3bP1/P1P1NP1P/RNB2RK1 w kq - 0 10">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
