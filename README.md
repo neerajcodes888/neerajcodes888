@@ -195,11 +195,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 563 | 367 | 295 |
+| Current | 547 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Rahulguin | **ChessHamper888** | abandoned  | 6/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B1k5/p1p1p3/1p5B/4b3/4P3/2N5/PP3PPP/3Q1RK1 b - - 0 20">Link</a> | Rapid |
+| **ChessHamper888** | ABO_Bassam7 | checkmated ❌ | 6/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1n1/ppp4p/2n1b3/3p4/6P1/1PP2PbB/P2P1q2/RNBQ1K1R w q - 1 21">Link</a> | Rapid |
 | **ChessHamper888** | iloww987 | win 🥇 | 6/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/p2n2pp/5p2/1p1ppn2/1P6/4P1PP/1BPP1P2/RN1QK1NR w KQkq - 0 13">Link</a> | Rapid |
 | ibrahimmetawea | **ChessHamper888** | checkmated ❌ | 6/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/3pnk1Q/3qp2p/6p1/6N1/r7/P4PPP/6K1 b - - 0 30">Link</a> | Rapid |
 | D13Hard2021 | **ChessHamper888** | abandoned  | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnq1k1Bb/1bppp3/pp4pp/4P3/3P4/8/PPP2PPP/RNBQK2R b KQq - 0 9">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | ARISE_MOTION | **ChessHamper888** | win 🥇 | 2/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1k2nr/pb1pppN1/7p/4n3/2P5/8/4KPPP/1q3B1R w - - 2 29">Link</a> | Rapid |
 | **ChessHamper888** | Splash-E | resigned ❌ | 2/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1pp2pp1/2n4p/2bp4/4p2P/2P1P2q/2QP4/BN2K2n b - - 0 19">Link</a> | Rapid |
 | MCGAK | **ChessHamper888** | resigned ❌ | 2/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/1bqp1pQ1/pp6/2pN2pr/8/3B4/PPP2PPP/R3R1K1 b - - 0 24">Link</a> | Rapid |
-| **ChessHamper888** | navdeep_0097 | win 🥇 | 2/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1n1/pppp1p2/1b2pp2/5r2/3P3P/1PP1P3/P2N1PBP/R2QK1NR b KQq - 2 10">Link</a> | Rapid |
-| vaibhavAaliwal | **ChessHamper888** | checkmated ❌ | 2/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1qkQ3/p1p4p/1pn1R1p1/6N1/8/8/PP1N1PPP/3b2K1 b - - 3 22">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
