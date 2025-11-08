@@ -195,11 +195,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 547 | 367 | 295 |
+| Current | 555 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ChessHamper888** | Jilanoalhuin71 | win 🥇 | 8/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2p2ppp/5n2/2P1p3/8/1bq3PP/3PPPB1/1K4NR w - - 9 25">Link</a> | Rapid |
 | zzzicantwakeup | **ChessHamper888** | win 🥇 | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7p/7P/8/8/4q1q1/1k4K1 w - - 14 58">Link</a> | Rapid |
 | **ChessHamper888** | kecoa_cerdik | win 🥇 | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/pp2n2Q/2p1n3/3p1pP1/8/BP2P3/P1PP1P2/bN3K1R b - - 1 22">Link</a> | Rapid |
 | **ChessHamper888** | tanakagyan | checkmated ❌ | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/ppp2ppp/3p4/2b1p3/8/1PP3PB/P2PPq2/RNBQ1KN1 w kq - 0 11">Link</a> | Rapid |
@@ -209,7 +210,6 @@
 | Che-boo-ra-tor | **ChessHamper888** | checkmated ❌ | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q1k2r/1b2Qp2/p2B3b/6Rp/2N4P/8/PP6/2KR4 b k - 0 27">Link</a> | Rapid |
 | **ChessHamper888** | HarryLucifer85 | resigned ❌ | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/Qpp2ppp/8/8/1P4P1/P4bqP/R7/7K w - - 6 38">Link</a> | Rapid |
 | **ChessHamper888** | afzanatyff | abandoned  | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6p/3p1kp1/1pp2b2/1P2P3/P3K2P/2P2R2/RN1q2N1 w - - 0 22">Link</a> | Rapid |
-| PSNat | **ChessHamper888** | stalemate ⏸️ | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1R6/8/4QQPK/2k2P1P/8 b - - 2 71">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
