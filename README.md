@@ -195,11 +195,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 593 | 367 | 295 |
+| Current | 594 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| quang0505 | **ChessHamper888** | resigned ❌ | 13/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q1Q/8/8/4K3/8/8/4k3/8 b - - 0 70">Link</a> | Rapid |
+| **ChessHamper888** | PAN_THADA | win 🥇 | 13/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/ppp2p1p/4n1p1/6Bn/4p3/1P1P4/P3P1BP/RN1QK2R b KQ - 0 16">Link</a> | Rapid |
 | **ChessHamper888** | pngune | resigned ❌ | 11/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/7p/4n3/p1p5/4r1r1/1P6/P4K2/8 w - a6 0 42">Link</a> | Rapid |
 | **ChessHamper888** | Rayan4779 | win 🥇 | 11/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq1rk1/ppppppbp/5np1/8/7P/1P4P1/PBPPPPB1/RN1QK1NR b KQ h3 0 5">Link</a> | Rapid |
 | Rayan4779 | **ChessHamper888** | win 🥇 | 11/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1n1/2ppp1br/2b2pN1/pB5p/1R1PP2P/1PN2P2/1BP5/3QK2R w Kq a6 0 16">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | **ChessHamper888** | Parry07 | win 🥇 | 11/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6QR/p1r5/1p3Pp1/2P5/1PN5/P2PKPn1/8 b - - 4 39">Link</a> | Rapid |
 | **ChessHamper888** | maggeorge | win 🥇 | 11/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b1r/np3pp1/p1p1b2p/2R5/Q3n1P1/P6P/1B1PPPB1/4K1NR b K - 0 16">Link</a> | Rapid |
 | tilkkanen | **ChessHamper888** | resigned ❌ | 11/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4knr/1bp2p2/p1n1p2p/1p1pP3/3P2P1/2PB1N2/PP2Q1P1/R3BRK1 b - - 0 24">Link</a> | Rapid |
-| **ChessHamper888** | AyanoLightNovel | win 🥇 | 9/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2N2R2/2Q4p/p7/3Pk3/5p2/4P2P/4bKB1/3q4 b - - 14 54">Link</a> | Rapid |
-| Thakur-G96 | **ChessHamper888** | resigned ❌ | 9/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/pb4R1/2pk3p/3p4/7P/2B2P2/PPP2P2/2K5 b - - 0 30">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
