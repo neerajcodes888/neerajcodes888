@@ -195,11 +195,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 594 | 367 | 295 |
+| Current | 586 | 367 | 295 |
 | Best | 710 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| marcosledit | **ChessHamper888** | abandoned  | 14/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/7p/8/p1R2kp1/Pp6/1P4P1/2P2P1P/4R1K1 b - - 1 39">Link</a> | Rapid |
+| **ChessHamper888** | trilltejash | stalemate ⏸️ | 14/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/4k3/2K5/8/5Q2/8/8/8 b - - 12 54">Link</a> | Rapid |
 | RG1Payyoli | **ChessHamper888** | win 🥇 | 14/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1nr/1bp1ppb1/pp1p2pp/4P3/3P4/2N1BP2/PPP3PP/R2QKBNR w KQkq - 0 8">Link</a> | Rapid |
 | huseyncanbaz | **ChessHamper888** | timeout ❌ | 14/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6Q1/p1K5/5q2/5pk1/8/8/8 b - - 6 66">Link</a> | Rapid |
 | quang0505 | **ChessHamper888** | resigned ❌ | 13/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q1Q/8/8/4K3/8/8/4k3/8 b - - 0 70">Link</a> | Rapid |
@@ -208,8 +210,6 @@
 | **ChessHamper888** | Rayan4779 | win 🥇 | 11/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq1rk1/ppppppbp/5np1/8/7P/1P4P1/PBPPPPB1/RN1QK1NR b KQ h3 0 5">Link</a> | Rapid |
 | Rayan4779 | **ChessHamper888** | win 🥇 | 11/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk1n1/2ppp1br/2b2pN1/pB5p/1R1PP2P/1PN2P2/1BP5/3QK2R w Kq a6 0 16">Link</a> | Rapid |
 | **ChessHamper888** | Parry07 | checkmated ❌ | 11/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n2k2r/7p/p4p2/1p2p1p1/2Pb4/R7/2P1R3/3Q1Kq1 w k - 4 33">Link</a> | Rapid |
-| Parry07 | **ChessHamper888** | stalemate ⏸️ | 11/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k3K1/4b3/2p2q2/7r/8/8/8 w - - 0 61">Link</a> | Rapid |
-| **ChessHamper888** | Parry07 | win 🥇 | 11/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6QR/p1r5/1p3Pp1/2P5/1PN5/P2PKPn1/8 b - - 4 39">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
