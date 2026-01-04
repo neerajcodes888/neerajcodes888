@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajcodes&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 </div ></h1>
- <h3 align=" center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Shantell+Sans&size=21&duration=4984&pause=900&color=CF82F7&background=5FFF3C00&vCenter=true&random=false&width=435&lines=MCA++ 24 ++Year++Student+++AT;National+Institue+Of+Technology+Warangal;A++passionate++Full++Stack++developer+++And;+Problem++Solver++From++India+%F0%9F%99%8F" alt="Typing SVG" /></a></h3>   
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=900&size=24&pause=1000&color=9B40F7&background=08141093&center=true&width=448&height=60&lines=Hi+People+%2C+Myself+Neeraj+Kumar++;MCA'24++From++NIT+Warangal+;Passionate+about+data+analysis%2C;Python+programming%2C+and+building++;impactful+projects)](https://git.io/typing-svg)
 
 
 ---
