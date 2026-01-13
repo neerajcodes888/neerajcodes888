@@ -1,5 +1,6 @@
- <h1 align="center"><code>Hi People 👋 Myself Neeraj Kumar</code></h1>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Neeraj%20Kumar&reversal=false&textBg=false&fontSize=75&rotate=0&animation=twinkling" alt="Header" />
+</div>
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajcodes&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
